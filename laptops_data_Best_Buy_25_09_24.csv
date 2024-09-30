@@ -1,0 +1,1285 @@
+Laptop_Price,Laptop_Brand,Laptop_Colour,Laptop_Memory_GB,Laptop_Storage_GB,Laptop_Display_Size_in,Laptop_name,Laptop_Graphics,No_Of_Reviews,Rating_5,Processor_Company_Name,Storage_Type,Operating_System,Processor_Model
+$529.99,HP,Silver,16,512,15.6,No Model,No Graphics,1939,4.6,Intel,SSD,Windows11, Core i7 - 15-DY5073DX
+$749.99,Dell,Blue,16,1024,16,Inspiron,No Graphics,211,4.7,Intel,SSD,Windows11, Core Ultra - i7640-7366BLU-PUS
+$329.99,Lenovo,Grey,8,256,14,Flex,No Graphics,181,4.5,Intel,SSD,Windows11, Core i3 - 82R700L4US
+$649.99,Lenovo,Grey,16,1024,16,Yoga,No Graphics,72,4.7,AMD Ryzen,SSD,Windows11, 7 8840HS - 83DM0003US
+$629.99,Dell,Black,8,512,14,Inspiron,No Graphics,604,4.5,Intel,SSD,Windows11, Core i5 - i3520-5124BLK-PUS
+$399.99,HP,Silver,8,512,15.6,No Model,No Graphics,232,4.6,AMD Ryzen,SSD,Windows11, 5 - 15-fc0025dx
+$119.99,ASUS,Black,4,64eMMC,14,No Model,No Graphics,193,4.3,Intel,eMMC,Windows11, Celeron N4500 - E410KA-CL464
+"$1,349.99",HP,Silver,32,2048,16,Envy,No Graphics,186,4.6,Intel,SSD,Windows11, Core Ultra - 16-ac0033dx
+$699.99,Dell,Blue,16,1024,14,Inspiron,No Graphics,207,4.5,Intel,SDD,Windows11, Core 7 - i7440-7304BLU-PUS
+$139.99,HP,Silver,4,128eMMC,14,No Model,No Graphics,468,4.2,Intel,eMMC,Windows11, Celeron  - 14-dq0760dx
+$229.99,ASUS,Blue,8,128,14,Vivobook,No Graphics,313,4.4,Intel,SSD,Windows11, Core i3 - X1404ZA-I38128
+"$1,249.99",ASUS,White,16,1024,14,ROG Zephyrus G14,NVIDIA GeForce RTX 4060,353,4.5,AMD Ryzen,SSD,Windows11, 9 8945HS - GA403UV-G14.R94060
+"$1,049.99",ASUS,Gray,24,2048,14,Vivobook,NVIDIA GeForce RTX 3050,134,4.6,Intel,SSD,Windows11, Core Ultra - Q543MJ-U93050
+$649.99,Dell,Black,16,1024,14,Inspiron,No Graphics,77,4.6,Intel,SSD,Windows11, Core i7 - i3520-7896BLK-PUS
+$749.99,Lenovo,Grey,16,1024,14,Yoga,No Graphics,89,4.8,Intel,SSD,Windows11, Core Ultra - 83DJ0002US
+$529.99,HP,Blue,8,512,15.6,Victus,NVIDIA GeForce RTX 3050,162,4.7,Intel,SSD,Windows11, Core i5 - 15-fa0033dx
+"$1,699.99",Lenovo,Grey,32,2048,16,Legion,NVIDIA GeForce RTX 4070,64,4.7,Intel,SSD,Windows11, 14th Gen - 83DF00A8US
+$499.99,Lenovo,Gray,8,256,15.6,Ideapad,No Graphics,580,4.6,Intel,SSD,Windows11, Core i3 - 82QD00DHUS
+$799.99,HP,Blue,16,512,15.6,Victus,NVIDIA GeForce RTX 4050,88,4.5,Intel,SSD,Windows11, Core i7 - 15-fa1163dx
+$799.99,Lenovo,Gray,16,512,15.6,Ideapad,AMD Radeon Graphics,815,4.7,AMD Ryzen,SSD,Windows11, 7 5700U - 82R400DTUS
+"$1,699.99",Lenovo,Grey,32,1024,16,Yoga,NVIDIA GeForce RTX 4050,102,4.5,Intel,SSD,Windows11, Core Ultra - 83DN0006US
+$499.99,Dell,Blue,8,512,14,Inspiron,No Graphics,19,4.2,Intel,SDD,Windows11, Core 5 - i7440-5311BLU-PUS
+$199.99,HP,Gold,4,128eMMC,14,No Model,No Graphics,468,4.2,Intel,eMMC,Windows11, Celeron  - 14-dq0762dx
+"$1,699.99",ASUS,White,32,1024,14,ROG Zephyrus G14,NVIDIA GeForce RTX 4070,196,4.6,AMD Ryzen,SSD,Windows11, 9 8945HS - GA403UI-G14.R94070
+$499.99,ASUS,Black,16,1024,16,Vivobook,No Graphics,85,4.6,AMD Ryzen,SSD,Windows11, 7 - M1605YA-ES74
+$949.99,Lenovo,Blue,16,512,14.5,Yoga,No Graphics,165,4.5,Snapdragon,SSD,Windows11, X Elite - 83ED0001US
+"$1,399.99",Samsung,Gray,16,1024,16,Galaxy Book4 Pro 360,No Graphics,161,4.6,Intel,SSD,Windows11, Core Ultra - NP960QGK-KG1US
+$579.99,Lenovo,Blue,8,256,15.6,Ideapad,AMD Radeon Graphics,179,4.5,AMD Ryzen,SSD,Windows11, 5 7520U - 82VG00MYUS
+"$1,699.99",ASUS,Black,32,1024,16,ProArt P16,No Graphics,52,4.3,No Info,SSD,Windows11,No Info - H7606WV-P16.R3704060
+"$1,399.99",HP,Black,32,2048,14,Spectre,No Graphics,102,4.5,Intel,SSD,Windows11, Core Ultra - 14-eu0023dx
+"$1,049.99",Lenovo,Grey,16,1024,16,Yoga,No Graphics,382,4.8,Intel,SSD,Windows11, Core Ultra - 83DL0002US
+$949.99,HP,Silver,16,512,14,Envy,No Graphics,188,4.7,Intel,SSD,Windows11, Core 7 - 14-es1023dx
+$899.99,Lenovo,Grey,16,1024,14,Yoga,No Graphics,83,4.5,AMD Ryzen,SSD,Windows11, 7 8840HS - 83DK000AUS
+"$2,099.99",Alienware,Moon,32,1024,14,m16,NVIDIA GeForce RTX 4070,41,4.5,Intel,SSD,Windows11, Core Ultra - AWm16R-9487BLK-PUS
+$999.00,Apple,Midnight,8,256,13.6,MacBook Air,No Graphics,1384,4.9,Apple,SSD,Mac OS,M2 chip - MLY33LL/A
+"$1,349.99",HP,Silver,16,1024,17.3,Envy,No Graphics,271,4.8,Intel,SSD,Windows11, Core Ultra - 17-da0013dx
+$629.99,Lenovo,Grey,16,512,14,Yoga,No Graphics,89,4.7,Intel,SSD,Windows11, Core Ultra - 83DJ0001US
+$479.99,Lenovo,Grey,8,512,14,Flex,Intel Iris Xe Graphics,203,4.6,Intel,SSD,Windows11, Core i5 - 82R700L5US
+"$1,199.99",ASUS,Gray,32,1024,14,Zenbook,NVIDIA GeForce RTX 3050,101,4.6,Intel,SSD,Windows11, 13 Gen - UX3404VC-BB99T
+$899.99,HP,Silver,16,512,16,Envy,No Graphics,201,4.6,Intel,SSD,Windows11, Core Ultra - 16-ac0013dx
+"$1,499.99",HP,Silver,16,1024,16,Envy,NVIDIA GeForce RTX 4060,164,4.5,Intel,SSD,Windows11, Core i7 - 16-h1053dx
+$699.99,Acer,Black,16,512,15.6,No Model,No Graphics,52,4.3,AMD Ryzen,SSD,Windows11, 5 7535HS - ANV15-41-R2Y3
+$159.00,HP,Gray,4,64eMMC,14,Chromebook,No Graphics,2131,4.5,Intel,eMMC,Windows11, Celeron  - 14a-ne0013dx
+"$1,699.00",Apple,Black,18,512,14,MacBook Pro,No Graphics,2305,4.9,Apple,SSD,Mac OS,M3 Pro chip Built for Apple - MRX33LL/A
+"$1,279.99",HP,Black,16,1024,14,Spectre,No Graphics,130,4.6,Intel,SSD,Windows11, Core Ultra - 14-eu0013dx
+"$1,299.99",ASUS,Gray,16,1024,14,Vivobook,NVIDIA GeForce RTX 3050,151,4.6,Intel,SSD,Windows11, Core Ultra - Q533MJ-U73050
+$549.99,Lenovo,Grey,8,512,16,Yoga,No Graphics,52,4.2,AMD Ryzen,SSD,Windows11, 5 8640HS - 83DM0004US
+$179.99,HP,White,4,64eMMC,14,No Model,No Graphics,5121,4.1,Intel,eMMC,Windows11, Celeron  - 14-dq0052dx
+"$1,499.99",Dell,Blue,32,1024,16,Inspiron,No Graphics,32,4.4,Intel,SDD,Windows11, Core Ultra - i7640-7380BLU-PUS
+"$1,099.99",ASUS,Grey,16,1024,15.6,No Model,NVIDIA GeForce RTX 4070,164,4.7,Intel,SSD,Windows11, Core i7 - FX507VI-F15.I74070
+"$1,599.99",ASUS,Gray,16,512,16,ROG Zephyrus,NVIDIA GeForce RTX 4070,64,4.5,Intel,SSD,Windows11, 13th Gen - GU603VI-G16.I74070
+$999.99,Dell,Graphite,16,512,13.4,XPS,No Graphics,49,4.5,Snapdragon,SSD,Windows11, X Elite - XPS9345-SX12807BLK-PUS
+$899.99,Lenovo,Grey,16,512,16,Yoga,No Graphics,100,4.8,Intel,SSD,Windows11, Core Ultra - 83DL0000US
+"$1,049.99",ASUS,Gray,16,1024,14,Zenbook,No Graphics,341,4.7,Intel,SSD,Windows11, Core Ultra - Q425MA-U71TB
+$799.99,Samsung,Graphite,16,512,13.3,Galaxy Book3 360,No Graphics,224,4.7,Intel,SSD,Windows11, 13th Gen - NP730QFG-KA1US
+$599.99,Acer,Blue,8,512,15.6,No Model,No Graphics,1057,4.5,AMD Ryzen,SSD,Windows11, 5 7520U - A315-24PT-R90Z
+$849.99,Acer,Black,16,512,15.6,No Model,NVIDIA GeForce RTX 4060,52,4.7,Intel,SSD,Windows11, Core i7 - ANV15-51-789J
+"$1,199.99",ASUS,White,24,1024,16,Zenbook,No Graphics,52,4,No Info,SSD,Windows11,No Info - UM5606WA-S16.R3651TB
+$749.99,HP,Silver,8,512,14,Envy,No Graphics,204,4.7,Intel,SSD,Windows11, Core 5 - 14-es1013dx
+$449.99,ASUS,Silver,16,512,16,Vivobook,No Graphics,1,5,Intel,SSD,Windows11, Core i5 - F1605ZA-AS56
+$799.99,Microsoft,Sage,8,256,12.4,No Model,No Graphics,438,4.7,Intel,SSD,Windows11, Core i5 - XK1-00006
+$249.00,Lenovo,Blue,16,128GeMMC,11,Chromebook,No Graphics,456,4.5,Snapdragon,eMMC,Windows11, 7cG2  - 82T6000EUS
+"$1,099.99",HP,Silver,16,1024,16,Envy,No Graphics,225,4.7,AMD Ryzen,SSD,Windows11, 7 - 16-ad0023dx
+"$1,149.99",GIGABYTE,Black,32,1024,16,Gaming Laptop IPS,NVIDIA GeForce RTX 4060,112,4.5,Intel,SSD,Windows11, i7 - G6 KF-H3US864KH
+$299.00,ASUS,Gray,4,64eMMC,14,Chromebook,No Graphics,159,4.5,MediaTek,eMMC,Windows11, Kompanio 520 - CM1402CM2A-M8186
+$179.00,Acer,Silver,4,64eMMC,15.6,Chromebook,No Graphics,941,4.5,Intel,eMMC,Windows11, Celeron N4020 - CB315-3H-C69K
+$949.99,Dell,Blue,16,1024,14,Inspiron,AMD Radeon Graphics,36,4.5,AMD Ryzen,SSD,Windows11, 7 - i7445-7326BLU-PUS
+$899.99,Samsung,Silver,16,512,15.6,No Model,No Graphics,173,4.6,Intel,SSD,Windows11, Core 7 - NP750XGK-KS2US
+$199.99,HP,Black,4,128eMMC,14,No Model,No Graphics,468,4.2,Intel,eMMC,Windows11, Celeron  - 14-dq0761dx
+"$1,149.99",Dell,Shelf,16,1024,15.6,No Model,NVIDIA GeForce RTX 4060,107,4.5,Intel,SSD,Windows11, Core i7 - G5530-7388GRY-PUS
+"$1,099.99",HP,Silver,16,1024,16,Envy,No Graphics,381,4.7,Intel,SSD,Windows11, Core Ultra - 16-ac0023dx
+$279.00,Acer,Gray,8,128UFS,15.6,Chromebook,No Graphics,263,4.6,Intel,UFS,Windows11, i3 - CB515-2H-31NY
+$879.99,HP,Silver,16,512,14,Envy,No Graphics,247,4.7,AMD Ryzen,SSD,Windows11, 5 - 14-fa0013dx
+$349.00,Lenovo,Blue,8,128eMMC,13.3,Chromebook,No Graphics,1022,4.4,Snapdragon,eMMC,Windows11, 7cG2  - 82QS001HUS
+$699.99,MSI,SSD,8,1024,15.6,No Model,No Graphics,197,4.6,No Info,SSD,Windows11,No Info - Thin GF63 12UCX-898US
+$199.99,HP,Silver,4,128,14,No Model,No Graphics,139,4.3,Intel,SSD,Windows11, Pentium Silver - 14-dq0703dx
+$729.99,Dell,Blue,8,512,14,Inspiron,AMD Radeon Graphics,134,4.5,AMD Ryzen,SSD,Windows11, 5 - i7445-5333BLU-PUS
+$339.99,Apple,Silver,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,95,3.9,Intel,Flash Storage,Mac OS, Core i5 - GSRF MQD32LL/A
+$849.99,HP,Silver,8,512,16,Envy,No Graphics,225,4.7,AMD Ryzen,SSD,Windows11, 5 - 16-ad0013dx
+$129.00,Acer,Black,4,64eMMC,11.6,Chromebook,No Graphics,18,4.5,Intel,eMMC,Windows11, Celeron N4500 - CBOA311-1H-C90F
+$349.00,Acer,Silver,4,128eMMC,15.6,Chromebook,No Graphics,26,4.8,Intel,eMMC,Windows11, Pentium N6000 - CB315-4H-P8FZ
+$319.00,Lenovo,Blue,4,64eMMC,14,Chromebook,No Graphics,1137,4.6,MediaTek,eMMC,Windows11, Kompanio 520 - 82XJ0000US
+$349.00,ASUS,White,8,128,14,Chromebook,No Graphics,59,4.4,Intel,SSD,Windows11, Core i5 - CX3402CVA-I5128
+$400.99,HP,Silver,8,256,17.3,No Model,No Graphics,488,4.6,Intel,SSD,Windows11, Core i3 - 17-cn2083dx
+"$1,299.99",HP,Black,16,1024,16.1,OMEN,NVIDIA GeForce RTX 4060,151,4.5,Intel,SSD,Windows11, Core i7 - 16-wd0073dx
+$699.99,HP,Silver,16,512,15.6,No Model,No Graphics,80,4.5,Intel,SSD,Windows11, Core i7 - 15-fd0107dx
+"$1,199.99",Microsoft,Dune,16,512,13.8,Surface Laptop - Copilot+ PC,No Graphics,155,4.8,Snapdragon,SSD,Windows11, X Plus - ZGM-00026
+$219.99,Lenovo,Blue,8,256,15.6,Ideapad,No Graphics,24,4.3,AMD Ryzen,SSD,Windows11, 3 7320U - 82VG00BJUS
+$249.99,Lenovo,Gray,4,128,14,Ideapad,No Graphics,1601,3.6,Intel,SSD,Windows11, UHD Graphics - 82V60065US
+$599.99,Geek,Gray,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,207,4.4,Apple,SSD,Windows11,M1 chip - GSRF MGN63LL/A
+$999.99,HP,Black,16,1024,16.1,OMEN,NVIDIA GeForce RTX 4060,31,4.3,Intel,SSD,Windows11, Core i9 - 16-wf0083dx
+$522.99,Dell,Platinum,8,256,14,Inspiron,No Graphics,169,4.3,Snapdragon,SSD,Windows11, 8cx Gen - i3420-S476SLV-PUS
+$899.99,Samsung,Blue,16,512,14,Galaxy Book4 Edge,No Graphics,34,3.9,Snapdragon,SSD,Windows11, X Elite - NP940XMA-KB1US
+"$1,099.99",ASUS,BLACK,16,512PCIe,16,No Model,No Graphics,287,4.4,AMD Ryzen,PCIe,Windows11, 7 7735HS - FA617NT-A16.R77700
+$449.99,HP,Silver,8,128,15.6,No Model,No Graphics,168,4.6,Intel,SSD,Windows11, Core i3 - 15-dy5113dx
+"$1,199.99",HP,Silver,16,1024,14,OmniBook,No Graphics,91,4.4,Snapdragon,SDD,Windows11, X Elite - 14-fe0013dx
+$799.99,HP,Silver,8,512,15.6,Victus,No Graphics,81,4.5,AMD Ryzen,SSD,Windows11, 5-7535HS - 15-fb2063dx
+$999.99,Microsoft,Platinum,16,256,13.8,Surface Laptop - Copilot+ PC,No Graphics,44,4.5,Snapdragon,SSD,Windows11, X Plus - ZGJ-00001
+"$1,049.99",HP,Silver,16,1024,14,Envy,No Graphics,181,4.7,AMD Ryzen,SSD,Windows11, 7 - 14-fa0023dx
+$343.99,ASUS,Silver,8,128,14,Vivobook,No Graphics,993,4.5,Intel,SSD,Windows11, Core i3 - X1400EA-I38128
+"$1,099.00",Apple,Midnight,8,256,13-inch,MacBook Air,No Graphics,1019,4.9,Apple,SSD,Mac OS,M3 chip Built for Apple ligence - MRXV3LL/A
+$399.00,HP,Silver,8,64eMMC,15.6,Chromebook,No Graphics,903,4.6,Intel,eMMC,Windows11, Processor N200 - 15a-nb0013dx
+$499.00,ASUS,Gray,8,256,15.6,Chromebook,No Graphics,85,4.3,Intel,SSD,Windows11, Core i5 - CX5501FEA-I5256
+$899.99,HP,Silver,16,512,16.1,Victus,NVIDIA GeForce RTX 4070,28,4.4,AMD Ryzen,SSD,Windows11, 7-8845HS - 16-s1023dx
+$699.99,Dell,Blue,16,512,16,Inspiron,No Graphics,15,4.5,Intel,SSD,Windows11, Core Ultra - i7640-5359BLU-PUS
+$749.99,Dell,Ice,16,512,14,Inspiron,No Graphics,31,4.5,Snapdragon,SSD,Windows11, X Plus - i7441-SX10838BLU-PUS
+$999.99,Samsung,Blue,16,512,16,Galaxy Book4 Edge,No Graphics,88,4.4,Snapdragon,SSD,Windows11, X Elite - NP960XMA-KB1US
+$279.99,ASUS,Blue,8,128eMMC,14,Vivobook,No Graphics,2,5,Intel,eMMC,Windows11, Pentium Silver - TP1400KA-DS24T
+"$1,599.99",Alienware,Moon,16,1024,14,m16,NVIDIA GeForce RTX 4070,215,4.5,Intel,SSD,Windows11, Core Ultra - AWM16-7025BLK-PUS
+"$2,099.99",Alienware,Moon,32,1024,18,m18 R2,No Graphics,48,4.4,Intel,SSD,Windows11, Core i9 - AWM18R-9494BLK-PUS
+"$2,799.99",ASUS,Gray,32,2048,16,ROG Zephyrus,NVIDIA GeForce RTX 4090,95,4.4,Intel,SSD,Windows11, Core Ultra - GU605MY-G16.U94090
+$479.99,HP,Silver,8,512,17.3,No Model,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 17-cp3005dx
+"$1,399.99",Lenovo,Grey,16,1024,16,Legion,NVIDIA GeForce RTX 4060,40,4.7,Intel,SSD,Windows11, 14th Gen - 83DF00A7US
+$799.99,ASUS,Gray,8,512,14,Zenbook,No Graphics,132,4.7,Intel,SSD,Windows11, Core Ultra - Q415MA-U5512
+"$1,299.99",Microsoft,Platinum,16,256,15,Surface Laptop - Copilot+ PC,No Graphics,40,4.8,Snapdragon,SSD,Windows11, X Elite - ZHG-00001
+"$1,449.99",ASUS,Black,32,1024,14,ProArt PX13 13,No Graphics,42,4.5,No Info,SSD,Windows11,No Info - HN7306WU-PX13.R3704050
+"$1,499.99",Microsoft,Graphite,16,512,15,Surface Laptop - Copilot+ PC,No Graphics,56,4.8,Snapdragon,SSD,Windows11, X Elite - ZHH-00026
+"$2,599.99",ASUS,Gray,32,2048,18,No Model,NVIDIA GeForce RTX 4080,200,4.6,Intel,SSD,Windows11, 14th Gen - G814JZR-G18.I94080
+"$1,449.99",Lenovo,Blue,16,1024,14,Yoga,No Graphics,37,4.2,Intel,SSD,Windows11, Core Ultra - 83AC0001US
+"$1,999.99",Lenovo,White,32,1024,16,Legion,NVIDIA GeForce RTX 4070,81,4.5,Intel,SSD,Windows11, 14th Gen - 83FD0015US
+$749.99,Lenovo,Grey,8,512,14,Yoga,No Graphics,100,4.5,AMD Ryzen,SSD,Windows11, 5 8640HS - 83DK000DUS
+"$1,099.99",ASUS,Black,16,1024,13,No Model,No Graphics,27,4.5,Snapdragon,SSD,Windows11, X Plus - HT5306QA-PZ13.X1P1TB
+$759.99,Lenovo,Grey,8,1024,15.6,LOQ,NVIDIA GeForce RTX 3050,695,4.6,Intel,SSD,Windows11, Core i5 - 82XV002LUS
+"$1,299.99",MSI,Black,16,1024,15.6,Katana,No Graphics,12,4.7,No Info,SSD,Windows11,No Info - KATANAA15B8423
+"$1,359.99",ASUS,White,16,512,14,ROG Zephyrus G14,NVIDIA GeForce RTX 4060,1151,4.5,AMD Ryzen,SSD,Windows11, 9 - GA402XV-G14.R94060
+"$1,899.99",Samsung,Gray,16,1024,16,Galaxy Book4 Ultra,NVIDIA GeForce RTX 4050,13,4.6,Intel,SSD,Windows11, Core Ultra - NP960XGL-XG2US
+"$1,649.99",Lenovo,Blue,32,1024,14,Yoga,No Graphics,39,4.8,Intel,SSD,Windows11, Core Ultra - 83AC001AUS
+"$2,249.99",Acer,Black,32,1024,18,Predator Helios 18,No Graphics,29,4.7,Intel,SSD,Windows11, i9 - PH18-72-93VM
+"$1,999.99",ASUS,Gray,16,1024,16,ROG Zephyrus,NVIDIA GeForce RTX 4070,266,4.2,Intel,SSD,Windows11, Core Ultra - GU605MI-G16.U94070
+"$1,359.99",Acer,Black,16,1024,18,Predator Helios 18,No Graphics,164,4.6,Intel,SSD,Windows11, i7 - PH18-71-756U
+"$2,299.99",Alienware,Moon,32,512,16,No Model,NVIDIA GeForce RTX 4080,29,4.1,AMD Ryzen,SSD,Windows11, 9 - AWm16-9364BLK-PUS
+"$1,899.99",Lenovo,Grey,32,1024,16,Yoga,NVIDIA GeForce RTX 4060,46,4.1,Intel,SSD,Windows11, Core Ultra - 83DN0007US
+$774.99,MSI,Black,16,512,15.6,Bravo 15,No Graphics,223,4.5,No Info,NVMe,Windows11,No Info - BRAVO15C7084
+"$1,699.99",Lenovo,White,16,1024,16,Legion,NVIDIA GeForce RTX 4060,31,4.2,Intel,SSD,Windows11, 14th Gen - 83FD004GUS
+"$2,499.99",Samsung,Gray,32,1024,16,Galaxy Book4 Ultra,NVIDIA GeForce RTX 4070,10,4.2,Intel,SSD,Windows11, Core Ultra - NP960XGL-XG1US
+"$2,239.99",Alienware,Moon,16,1024,14,m16,NVIDIA GeForce RTX 4080,132,3.9,AMD Ryzen,SSD,Windows11, 9 - AWM16-A138BLK-PUS
+"$1,349.99",Samsung,Gray,16,512,15.6,No Model,No Graphics,147,4.7,Intel,SSD,Windows11, Core 7 - NP750QGK-KG3US
+"$1,299.99",LG,Black,32,1024,15,gram,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 15Z90S-H.ADB8U1
+"$1,999.99",Lenovo,Teal,16,1024,13.3,Yoga,No Graphics,19,4.4,Intel,SSD,Windows11, Core Ultra - 83FF0000US
+$889.99,Lenovo,Black,16,512,16,ThinkPad,No Graphics,2,4,Intel,SSD,Windows11, Core i5 - 21JN0040US
+$551.99,HP,Silver,8,256,15.6,Envy,No Graphics,955,4.7,Intel,SSD,Windows11, Core i5 - 15-fe0013dx
+"$1,999.99",Microsoft,Graphite,32,1024,15,Surface Laptop - Copilot+ PC,No Graphics,7,4.6,Snapdragon,SSD,Windows11, X Elite - ZHI-00001
+"$1,749.99",HP,Black,16,1024,16,Spectre,No Graphics,73,4.5,Intel,SSD,Windows11, Core Ultra - 16-aa0013dx
+"$2,099.99",Dell,Platinum,32,512,14.5,XPS,No Graphics,37,4.4,Intel,SSD,Windows11, Core Ultra - XPS9440-7134SLV-PUS
+$919.99,Dell,Gray,8,1024,15.6,No Model,NVIDIA GeForce RTX 4050,207,4.6,Intel,SSD,Windows11, Core i7 - G5530-7527BLK-PUS
+"$2,199.99",HP,Black,32,1024,16,Spectre,NVIDIA GeForce RTX 4050,91,4.6,Intel,SSD,Windows11, Core Ultra - 16-aa0023dx
+$949.99,Dell,Gray,16,1024,15.6,No Model,NVIDIA GeForce RTX 3050,203,4.4,AMD Ryzen,SSD,Windows11, 5 7640HS - i5535-A933GRY-PUS
+"$1,069.99",Dell,Other,16,512,15.6,Latitude 3000,No Graphics,1,5,Intel,SSD,Windows11, Core i7 - 7CCG9
+$979.99,Lenovo,Gray,16,512,16,ThinkBook,No Graphics,1,5,No Info,SSD,Windows11,No Info - 21KH000FUS
+"$1,399.99",ASUS,Gray,24,2048,14,Vivobook,NVIDIA GeForce RTX 4060,4,5,Intel,SSD,Windows11, Core Ultra - Q543B-U94060
+"$1,399.99",Dell,Graphite,16,512,13.4,XPS,No Graphics,32,4.6,Intel,SSD,Windows11, Core Ultra - XPS9340-7319BLK-PUS
+$899.99,ASUS,Black,16,1024,17.3,Vivobook,No Graphics,2,4,AMD Ryzen,SSD,Windows11, 7 7730U - M3704YA-IS74
+"$1,999.99",HP,Black,32,1024,14,OMEN,NVIDIA GeForce RTX 4070,58,4.3,Intel,SSD,Windows11, Core Ultra - 14-fb0023dx
+"$1,349.99",Lenovo,Grey,16,1024,16,Legion,NVIDIA GeForce RTX 4070,10,4.8,AMD Ryzen,SSD,Windows11, 7 7735HS - 83EX0007US
+"$1,059.99",Lenovo,Black,16,512,16,ThinkPad,No Graphics,3,5,No Info,SSD,Windows11,No Info - 21JN0073US
+"$3,049.99",Dell,Platinum,32,1024,16.3,XPS,NVIDIA GeForce RTX 4060,17,4.8,Intel,SSD,Windows11, Evo Edition - XPS9640-9158SLV-PUS
+"$2,149.99",Alienware,Moon,32,1024,14,No Model,NVIDIA GeForce RTX 4070,339,4.2,AMD Ryzen,SSD,Windows11, 9 - AWM18-A145BLK-PUS
+"$1,199.99",Microsoft,(Metal),8,512,15,No Model,No Graphics,25,4.6,Intel,SSD,Windows11, Evo Platform - RFB-00026
+$386.99,Lenovo,Gray,8,256,15.6,No Model,No Graphics,3,5,AMD Ryzen,SSD,Windows11, 3 - 82XQ001GUS
+$799.99,Lenovo,Black,16,256,16,ThinkPad,No Graphics,2,5,AMD Ryzen,SSD,Windows11, 5 - 21JT001BUS
+"$1,399.99",Microsoft,Graphite,16,512,13.8,Surface Laptop - Copilot+ PC,No Graphics,72,4.5,Snapdragon,SSD,Windows11, X Elite - ZGP-00037
+"$1,839.99",Acer,Black,16,1024,16,Predator Helios,NVIDIA GeForce RTX 4080,186,4.4,Intel,SSD,Windows11, i9 - PH16-71-93FR
+"$1,999.99",Alienware,Moon,16,1024,14,m16,NVIDIA GeForce RTX 4070,573,4.5,Intel,SSD,Windows11, Core i7 - AWM16-7602BLK-PUS
+$889.99,Lenovo,Black,16,512,14,ThinkPad,No Graphics,1,5,No Info,SSD,Windows11,No Info - 21JK0052US
+"$1,999.99",MSI,Blue,32,1024,16,Stealth,No Graphics,9,3.8,Intel,SSD,Windows11, Core Ultra9 - STEALTH16A1091
+"$2,399.99",Microsoft,Platinum,16,512,14.4,Surface Laptop Studio 2,No Graphics,133,4.6,Intel,SSD,Windows11, Core i7 - YZY-00001
+"$2,699.99",ASUS,Gray,32,1024,16,ROG Zephyrus,NVIDIA GeForce RTX 4080,129,4.4,Intel,SSD,Windows11, Core Ultra - GU605MZ-G16.U94080
+"$2,699.99",ASUS,Black,16,2048,16,ProArt P16,No Graphics,2,5,No Info,SSD,Windows11,No Info - H7606WI-PB99T
+"$2,199.99",Dell,Platinum,16,1024,16.3,XPS,NVIDIA GeForce RTX 4050,27,4.5,Intel,SSD,Windows11, Core Ultra - XPS9640-7097SLV-PUS
+"$1,449.99",Samsung,Gray,16,512,14,No Model,No Graphics,10,4,Intel,SSD,Windows11, Core Ultra - NP940XGK-KG1US
+"$1,599.99",Microsoft,Graphite,16,1024,15,Surface Laptop - Copilot+ PC,No Graphics,9,4.4,Snapdragon,SSD,Windows11, X Elite - ZYT-00026
+"$1,699.99",HP,Black,16,1024,14,OMEN,NVIDIA GeForce RTX 4060,56,4.3,Intel,SSD,Windows11, Core Ultra - 14-fb0013dx
+$829.99,Lenovo,Black,16,256,16,ThinkPad,No Graphics,8,4.9,Intel,SSD,Windows11, Core i5 - 21JN003YUS
+"$1,299.99",ASUS,Blue,32,1024,14,Zenbook,No Graphics,51,4.1,Intel,SSD,Windows11, Core Ultra - UX3405MA-PH77
+"$1,899.99",Microsoft,Graphite,32,1024,13.8,Surface Laptop - Copilot+ PC,No Graphics,5,4.4,Snapdragon,SSD,Windows11, X Elite - ZGQ-00001
+$329.99,HP,Gold,4,256,15.6,No Model,AMD Radeon Graphics,0,0 Reviews,Intel,SSD,Windows11, Processor N200 - 15-FD0373NR
+"$2,820.99",ASUS,Black,32,1024,18,ROG Strix SCAR,NVIDIA GeForce RTX 4080,13,4.6,Intel,SSD,Windows11, 14th Gen - G834JZR-XS96
+"$1,399.99",LG,Black,16,1024,17,gram,No Graphics,11,4.3,Intel,SSD,Windows11, Evo 13th - 17Z90R-H.AAY8U1
+$639.99,HP,Silver,16,256,14,EliteBook 840 G8,Intel Iris Xe Graphics,6,4.3,Intel,SSD,Windows11, 11th Gen - 840 G8
+$869.99,Dell,Other,16,256,15.6,Latitude 3000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 15D24
+"$2,799.99",Microsoft,Platinum,32,1024,14.4,Surface Laptop Studio 2,No Graphics,52,4.8,Intel,SSD,Windows11, Core i7 - Z1I-00001
+"$1,089.99",Lenovo,Black,16,512,14,ThinkPad,No Graphics,5,4.8,Intel,SSD,Windows11, Core i7 - 21JK0053US
+"$1,299.99",LG,Gray,16,1024,16,gram,No Graphics,1,5,Intel,SSD,Windows11, Evo 13th - 16Z90R-H.AAY7U1
+"$2,299.99",ASUS,Black,32,2048,16,ProArt P16,No Graphics,9,4.8,No Info,SSD,Windows11,No Info - H7606WI-P16.R3704070
+"$1,035.99",Lenovo,Black,16,512,16,ThinkPad,No Graphics,11,4,Intel,SSD,Windows11, Core i7 - 21JN003XUS
+"$1,451.99",Alienware,Moon,16,1024,14,m16,NVIDIA GeForce RTX 4060,2,5,Intel,SSD,Windows11, Core Ultra - AWM16-7032BLK-PUS
+"$1,399.99",ASUS,Blue,32,1024,14,Zenbook,No Graphics,2,4.5,Intel,SSD,Windows11, Core Ultra - UX3405MA-PH99T
+$549.99,HP,Gold,8,512,17.3,No Model,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 17-CN2175NR
+"$3,599.99",MSI,Black,16,512,17,Raider,No Graphics,4,4.8,Intel,SSD,Windows11, 14th Gen - RAIDERGE7814600
+"$1,499.99",ASUS,Gray,16,1024,14,Zenbook,No Graphics,8,4.3,Intel,SSD,Windows11, Core Ultra - UX8406MA-DS76T
+"$3,299.99",Razer,Black,32,1024,16,Blade,NVIDIA GeForce RTX 4080,3,4.3,Intel,SSD,Windows11, i9  - RZ09-0510TEN3-R3U1
+$649.99,HP,Silver,8,512,16,Pavilion,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 16-AF0010NR
+$450.99,HP,Silver,8,256,17.3,No Model,No Graphics,1162,4.7,AMD Ryzen,SSD,Windows11, 3 7320U - 17-cp2033dx
+"$1,709.99",Lenovo,Grey,16,1024,16,Legion,NVIDIA GeForce RTX 4070,122,4.4,Intel,SSD,Windows11, 13th Gen - 82WK0069US
+"$2,212.99",ASUS,Gray,32,1024,18,No Model,NVIDIA GeForce RTX 4070,5,4.2,Intel,SSD,Windows11, Core i9 - G814JIR-XS96
+"$1,499.99",Samsung,Blue,16,1024,16,Galaxy Book4 Edge,No Graphics,26,4.5,Snapdragon,SSD,Windows11, X Elite - NP960XMB-KB1US
+$849.99,ASUS,Gray,8,1024,17.3,No Model,NVIDIA GeForce RTX 3050,1,5,Intel,SSD,Windows11, Core i5 - FX707ZC-ES52
+"$1,149.99",HP,silver,16,1024,17.3,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 17-CW1010NR
+"$1,699.99",MSI,Gray,16,1024,16,Vector,No Graphics,2,5,Intel,SSD,Windows11, Core i7 - VECTOR68HX13054
+"$2,999.99",ASUS,Black,32,2048,16,ROG Zephyrus,NVIDIA GeForce RTX 4090,33,4.3,Intel,SSD,Windows11, 13th Gen - GU604VY-XS97
+"$1,899.99",LG,Black,32,2048,17,gram,No Graphics,2,5,Intel,SSD,Windows11, Evo Platform - 17Z90SP-G.ADB9U1
+"$1,999.99",MSI,Blue,32,1024,17.3,Raider,NVIDIA GeForce RTX 3070,1,5,Intel,SSD,Windows11, Core i7 - RAIDERGE7612201
+"$2,499.99",Dell,Platinum,32,512,14.5,XPS,NVIDIA GeForce RTX 4050,5,4,Intel,SSD,Windows11, Core Ultra - XPS9440-7892SLV-PUS
+"$1,249.99",MSI,Blue,16,1024,14,Stealth,No Graphics,214,4.4,Intel,SSD,Windows11, Core i7 - STEALTH1413041
+$899.99,ASUS,Black,16,512,15,Vivobook,No Graphics,0,0 Reviews,Snapdragon,SSD,Windows11, X Plus - Q5507QA-S15.X1P512
+"$1,649.99",Dell,Gray,16,512,14,Precision,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 0FWY9
+$859.99,Lenovo,Black,16,512,16,ThinkPad,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - 21M5000KUS
+$599.99,ASUS,Blue,16,512,15,Vivobook,No Graphics,1,5,AMD Ryzen,SSD,Windows11, 7 5800H - M1502QA-BH74
+"$1,699.99",Samsung,Gray,16,1024,16,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - NP960QHA-KG1US
+"$1,699.99",ASUS,Gray,32,1024,16,Zenbook,No Graphics,9,2,No Info,SSD,Windows11,No Info - UM5606WA-PB99T
+$225.99,ASUS,Black,4,128,15.6,Vivobook,No Graphics,1,5,Intel,SSD,Windows11, Celeron N4500 - L510KA-ES04
+"$1,399.99",Samsung,Gray,16,1024,16,No Model,No Graphics,6,2.7,Intel,SSD,Windows11, Core Ultra - NP960XGK-KG1US
+$598.99,HP,Silver,16,256,15.6,No Model,No Graphics,2213,4.6,AMD Ryzen,SSD,Windows11, 5 7520U - 15-fc0093dx
+"$2,099.99",LG,Gray,32,2048,17,gram,No Graphics,28,4.5,Intel,NVMe,Windows11, Evo Platform - 17Z90R-K.ADS9U1
+$729.99,Dell,Other,8,256,14,Latitude 3000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 6CT3N
+"$1,399.99",ASUS,Gray,16,1024,14,Zenbook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - UX5406SA-S14.U71TB
+$639.99,Lenovo,Black,8,256,16,ThinkPad,No Graphics,7,4.7,AMD Ryzen,SSD,Windows11, 5 - 21JT001PUS
+$929.99,Lenovo,Black,16,512,16,ThinkPad,No Graphics,6,5,AMD Ryzen,SSD,Windows11, 7 - 21JT001QUS
+"$3,899.99",Razer,Black,32,2048,16,Blade,NVIDIA GeForce RTX 4090,9,4.7,Intel,SSD,Windows11, i9  - RZ09-05102EN4-R3U1
+$929.99,Lenovo,Black,16,512,14,ThinkPad,No Graphics,7,4.7,AMD Ryzen,SSD,Windows11, 7 - 21JR001SUS
+"$1,839.99",Lenovo,Black,16,512,14,ThinkPad X1,No Graphics,6,5,No Info,SSD,Windows11,No Info - 21HM000JUS
+"$1,799.99",LG,Black,16,2048,17,gram,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Evo Platform - 17Z90S-H.ADB7U1
+"$1,645.99",ASUS,Black,16,1024,13.4,ROG Flow,NVIDIA GeForce RTX 4050,18,4.7,Intel,SSD,Windows11, Core i9 - GZ301VU-DS94
+$949.99,ASUS,Black,16,1024,16,Vivobook,No Graphics,27,4.4,Intel,SSD,Windows11, 13th Gen - TP3604VA-EB94T
+"$3,636.99",ASUS,Black,32,2048,16,ROG Strix SCAR,NVIDIA GeForce RTX 4090,10,4.8,Intel,SSD,Windows11, Core i9 - G634JYR-XS97
+"$3,039.99",MSI,SSD,32,2048,16,Vector,No Graphics,7,3.4,No Info,SSD,Windows11,No Info - Vector GP68HX 13VI-255US
+"$1,499.99",Microsoft,Sapphire,16,1024,13.8,Surface Laptop - Copilot+ PC,No Graphics,11,4.9,Snapdragon,SSD,Windows11, X Elite - ZXX-00062
+$999.99,ASUS,Black,16,1024,16,Vivobook,No Graphics,6,3.3,AMD Ryzen,SSD,Windows11, 9 8945HS - M5606UA-DS96
+"$2,299.99",ASUS,Black,16,1024,16,ROG Zephyrus,NVIDIA GeForce RTX 4080,47,4.2,Intel,SSD,Windows11, Core i9 - GU604VZ-CS94
+"$3,299.99",MSI,Blue,32,1024,18,Stealth,No Graphics,4,4.8,Intel,SSD,Windows11, Core Ultra9 - STEALTH18A1008
+"$1,650.99",Lenovo,Gray,16,256,14,ThinkPad X1,No Graphics,1,5,Intel,SSD,Windows11, Core i5 - 21HQ001NUS
+"$1,229.99",Lenovo,Black,16,512,13.3,ThinkPad,No Graphics,1,5,No Info,SSD,Windows11,No Info - 21FJ002DUS
+"$4,999.99",HP,Blue,16,1024,17,Spectre,No Graphics,31,4.5,Intel,SSD,Windows11, Evo Platform - 17-cs0013dx
+"$1,899.99",Dell,Graphite,32,1024,13.4,XPS,No Graphics,1,4,Snapdragon,SSD,Windows11, X Elite - XPS9345-SX12784BLK-PUS
+"$1,899.99",MSI,Black,16,1024,17.3,Stealth,NVIDIA GeForce RTX 4070,1,4,Intel,SSD,Windows11, Core i9 - STEALTH1713019
+"$1,599.99",Lenovo,Black,16,256,14,ThinkPad X1,No Graphics,1,4,No Info,SSD,Windows11,No Info - 21HM000GUS
+"$2,499.99",Lenovo,Black,32,1024,14,ThinkPad X1,No Graphics,1,5,Intel,SSD,Windows11, Core i7 - 21HM000RUS
+$329.99,HP,Blue,4,256,15.6,No Model,AMD Radeon Graphics,0,0 Reviews,Intel,SSD,Windows11, Processor N200 - 15-FD0372NR
+"$1,379.99",Lenovo,Black,32,512,14,ThinkPad,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - 21MC000HUS
+"$1,631.99",Lenovo,Black,16,512,16,ThinkPad,No Graphics,2,4.5,Intel,SSD,Windows11, Core i7 - 21HK0007US
+$859.99,HP,Gray,16,256,16,ProBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A1LD5UT#ABA
+"$1,199.99",ASUS,Black,24,512,14,Vivobook,No Graphics,1,5,No Info,SSD,Windows11,No Info - M5406WA-DS76
+$469.99,Lenovo,Blue,16,512,16,Ideapad,No Graphics,9,4.6,Intel,SSD,Windows11,Core i7-1355 - 82XF001TUS
+"$2,749.99",Dell,Platinum,32,1024,16.3,XPS,NVIDIA GeForce RTX 4060,5,3.2,Intel,SSD,Windows11, Core Ultra - XPS9640-9196SLV-PUS
+$199.99,Thomson,Silver,4,512,14,NEOZ3 Laptop,No Graphics,1,5,No Info,SSD,Windows11,No Info - WWZ313Q8504T64
+$299.99,Thomson,Silver,8,512,14,NEOZ3 Laptop,No Graphics,1,5,No Info,SSD,Windows11,No Info - WWZ313Q8508T256
+"$1,299.99",LG,Black,16,1024,14,gram,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Evo Platform - 14T90S-G.AAB6U1
+"$1,999.99",ASUS,Black,32,1024,14,ProArt PX13 13,No Graphics,3,4.3,No Info,SSD,Windows11,No Info - HN7306WV-PB99T
+$169.99,Lenovo,Blue,4,64eMMC,14,Refurbished,No Graphics,1,5,No Info,eMMC,Windows11,No Info - 82XJ002DUS
+"$3,691.99",Razer,Mercury,32,2048,16,Blade,NVIDIA GeForce RTX 4080,0,0 Reviews,Intel,SSD,Windows11, i9 HX - RZ09-0510TEM4-R3U1
+$799.99,MSI,Black,16,1024,13.4,Summit,No Graphics,25,4.5,Intel,SSD,Windows11, Core i7 - SUME1312026
+$849.00,MSI,Gray,32,512,15.6,No Model,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 7735HS - THINA15B7257
+"$1,059.99",Dell,Other,16,512,14,Latitude 3000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - T56PM
+$263.99,Lenovo,Black,8,256,14,Refurbished,No Graphics,15,4.7,Intel,SSD,Windows11, i5 - T480.8.256.Pro
+$560.99,HP,Silver,16,1024,14,Refurbished,No Graphics,7,4,Intel,SSD,Windows11, Core i7 - 840 G5
+$639.99,HP,Silver,16,256,15.6,No Model,No Graphics,6,4.8,Intel,SSD,Windows11, Core i5 - 15-FD0185NR
+$929.99,Lenovo,Grey,16,512,14,ThinkBook 14 G7,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MR005SUS
+"$1,079.99",Dell,Gray,16,256,14,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 3H85P
+$919.99,Lenovo,Black,16,512,14,ThinkPad,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - 21M3000PUS
+$689.99,Lenovo,Black,8,256,14,ThinkPad,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 21M3000RUS
+"$1,029.99",Lenovo,Black,16,512,14,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21M70007US
+"$1,409.99",Lenovo,Gray,16,512,16,ThinkBook,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21J8002RUS
+"$1,349.99",HP,Color,32,512,17.3,OMEN,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 8845HS - 9Q037UA#ABA
+"$1,249.99",MSI,Blue,16,512,14,Stealth,NVIDIA GeForce RTX 4050,6,4.5,Intel,SSD,Windows11, Core i7 - Stealth 14Studio A13VE-202US
+"$1,879.99",Lenovo,Gray,16,1024,14,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21ML0054US
+$459.99,HP,Silver,32,512,15.6,Refurbished,Intel UHD Graphics 620,3,4.7,Intel,SSD,Windows11, 7th Gen - 850 G5
+$226.99,HP,Silver,8,256,14,Elitebook,No Graphics,27,3.8,Intel,SSD,Windows11, i5 - 840G3.8.256.Pro
+$799.00,MSI,Black,16,512,15.6,Modern 15,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - MOD15121000
+"$1,439.99",Lenovo,Black,32,1024,14,ThinkPad,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - 21MC000KUS
+$859.99,Lenovo,Black,16,512,14,ThinkPad,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - 21M3000QUS
+$519.99,Lenovo,Blue,16,1024,14,Flex,No Graphics,19,3.5,Intel,SSD,Windows11, Core i7 - 82Y20001US
+$229.99,HP,Silver,16,256,14,Elitebook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - HP.745G6.R5P.3500U.16.256.W10P
+"$1,399.99",ASUS,Gray,16,1024,14,No Model,NVIDIA GeForce RTX 4060,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 8845HS - FA401UV-DB74
+$626.99,Dell,Silver,16,1024,14,Precision,No Graphics,3,4,Intel,SSD,Windows11, Core i9 - 5540.i9.64.1TB
+$939.99,Lenovo,Grey,16,256,14,ThinkBook,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MX000BUS
+"$1,949.99",GIGABYTE,Black,32,1024,16,Gaming Laptop IPS,NVIDIA GeForce RTX 4070,25,4.8,Intel,SSD,Windows11, i7 - AORUS 16X ASG-53USC64SH
+"$1,399.99",HP,Black,16,1024,13.5,Spectre,No Graphics,108,4.6,Intel,SSD,Windows11, Evo Platform - 14-ef2023dx
+"$1,599.99",ASUS,Gray,16,1024,16,ROG Strix G16,NVIDIA GeForce RTX 4060,13,4.7,Intel,SSD,Windows11, Core i9 - G614JVR-ES94
+"$4,199.99",MSI,Blue,16,2048,18,Stealth,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra9 - STEALTH18A1009
+"$1,900.99",Microsoft,(Metal),32,1024,15,No Model,No Graphics,47,4.8,Intel,SSD,Windows11, Evo Platform - RKL-00001
+$989.99,Dell,Gray,16,512,14,Latitude,No Graphics,3,5,Intel,SSD,Windows11, Core i7 - 9268W
+$249.99,HP,Gold,4,64eMMC,14,No Model,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, Celeron with - 47X82UA#ABA
+"$1,329.99",ASUS,Grey,16,1024,15.6,No Model,NVIDIA GeForce RTX 4070,689,4.7,Intel,SSD,Windows11, Core i7 - FX507ZI-F15.I74070
+$939.99,Acer,Blue,16,512,14,TravelMate,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - NX.VUTAA.002
+$599.99,HP,Silver,16,512,17.3,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 13th Gen - 17-CN3033CL
+"$1,549.99",GIGABYTE,Black,32,1024,16,Gaming Laptop IPS,NVIDIA GeForce RTX 4070,2,3.5,Intel,SSD,Windows11, i7 - AORUS 16X 9SG-43USC64SH
+"$1,199.99",Acer,Gray,16,1024,14.5,Swift 14,No Graphics,12,4.4,Snapdragon,SSD,Windows11, X Elite - SF14-11T-X3RZ
+$779.99,Lenovo,Grey,16,512,16,ThinkBook,No Graphics,2,3,AMD Ryzen,SSD,Windows11, 7 - 21MW0003US
+"$1,399.99",MSI,Gray,16,1024,16,Crosshair,No Graphics,1,5,Intel,SSD,Windows11, 14th Gen - CROSSHAIR1614057
+"$1,329.99",MSI,Black,16,1024,16,Crosshair,NVIDIA GeForce RTX 4070,262,4.6,Intel,SSD,Windows11, 13TH Gen - Crosshair 16 A13VGK-815US
+"$2,049.99",Lenovo,Gray,16,512,14,ThinkPad X1,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - 21HQ0007US
+"$2,299.99",ASUS,Gray,32,1024,16,ROG Strix G16,NVIDIA GeForce RTX 4070,5,5,Intel,SSD,Windows11, Core i9 - G614JIR-XS96
+$969.99,GIGABYTE,Black,16,1024,16,Gaming Laptop IPS,NVIDIA GeForce RTX 4050,4,4,Intel,SSD,Windows11, i7 - G6 MF-H2US854KH
+"$2,999.99",Acer,Black,32,1024,18,Predator Helios 18,No Graphics,19,4.1,Intel,SSD,Windows11, i9 - PH18-72-924C
+"$1,139.99",Acer,Gray,16,512,16,Predator Helios,No Graphics,649,4.7,Intel,SSD,Windows11, i5 - PHN16-71-50JG
+"$1,829.99",Lenovo,Grey,32,1024,16,Legion,NVIDIA GeForce RTX 4070,21,4.7,Intel,SSD,Windows11, Core 14th - 83DF000CUS
+$379.99,HP,Silver,8,512,17.3,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Pentium Silver - 9R0P4UA#ABA
+"$2,099.99",MSI,SSD,16,1024,16,Vector,No Graphics,3,4.3,No Info,SSD,Windows11,No Info - Vector GP68HX 13VH-256US
+"$3,699.99",GIGABYTE,Black,32,2048,17,Gaming Laptop IPS,NVIDIA GeForce RTX 4090,3,4,Intel,SSD,Windows11, i9 - AORUS 17X AZG-65US665SH
+"$1,889.99",Lenovo,Grey,16,1024,16,Legion,NVIDIA GeForce RTX 4070,168,4.6,Intel,SSD,Windows11, Core i9 - 82Y30004US
+"$1,421.99",Acer,Gray,16,1024,16,Predator Helios,No Graphics,476,4.6,Intel,SSD,Windows11, i7 - PHN16-71-73LT
+"$2,899.99",ASUS,Black,32,1024,16,ROG Strix SCAR,NVIDIA GeForce RTX 4080,8,4.4,Intel,SSD,Windows11, Core i9 - G634JZR-XS96
+"$2,375.99",Alienware,Moon,16,1024,14,m16,NVIDIA GeForce RTX 4080,188,4.3,No Info,SSD,Windows11,No Info - AWM16-9272BLK-PUS
+$799.99,ASUS,Black,8,512,15.6,No Model,NVIDIA GeForce RTX 3050,4,5,AMD Ryzen,SSD,Windows11,  5-7535HS - FA506NC-ES51
+$309.99,HP,Silver,16,512,14,ProBook,Intel UHD Graphics 620,16,4.6,Intel,SSD,Windows11, 8th Gen - 640 G5
+"$1,899.99",MSI,Gray,32,1024,16,Prestige,NVIDIA GeForce RTX 4060,6,4.7,Intel,SSD,Windows11, Evo Edition - PRE16STU14020
+"$1,899.99",MSI,Gray,32,1024,16,Prestige,NVIDIA GeForce RTX 4060,6,4.7,Intel,SSD,Windows11, Evo Edition - PRE16STU14020
+"$2,399.99",MSI,Black,32,512,17,Raider,No Graphics,3,4.7,Intel,SSD,Windows11, 14th Gen - RAIDERGE7814205
+$389.99,HP,Silver,32,1024,14,ProBook,Intel UHD Graphics 620,6,4.8,Intel,SSD,Windows11, 8th Gen - 640 G5
+"$1,449.99",MSI,Gray,16,1024,16,Prestige,No Graphics,2,5,Intel,SSD,Windows11, Evo Edition - PRE16EVO14013
+"$1,389.99",HP,Silver,32,2048,14,OmniBook,No Graphics,0,0 Reviews,Snapdragon,SSD,Windows11, X Elite - 14-fe0023dx
+"$3,848.99",ASUS,Black,32,2048,18,ROG Strix SCAR,NVIDIA GeForce RTX 4090,14,4.1,Intel,SSD,Windows11, 14th Gen - G834JYR-XS97
+$269.99,HP,Silver,16,256,14,Elitebook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - HP.755G5.R7P.2700U.16.256.W10P
+"$3,199.99",MSI,Black,16,512,16,Raider,No Graphics,5,4.2,Intel,SSD,Windows11, 14th Gen - RAIDERGE6814286
+"$2,199.99",HP,White,16,1024,16,OMEN,NVIDIA GeForce RTX 4070,5,4.4,Intel,SSD,Windows11, Core i9 - 16-u1023dx
+"$2,199.99",ASUS,Black,32,1024,16,ProArt Studiobook,NVIDIA GeForce RTX 4060,13,4.5,Intel,SSD,Windows11, 13 Gen - H7604JV-DS96T
+"$1,399.99",Dell,Graphite,16,512,13.4,XPS,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - XPS9350-7715BLK-PUS
+$854.99,MSI,Black,16,512,15.6,Bravo 15,No Graphics,159,4.3,No Info,NVMe,Windows11,No Info - BRAVO15B7001
+"$2,999.99",Razer,Black,16,1024,16,Blade,NVIDIA GeForce RTX 4070,1,5,Intel,SSD,Windows11, i9  - RZ09-0510SEN3-R3U1
+$343.99,Dell,Black,16,256,13.3,Refurbished,Intel UHD Graphics 620,21,4.7,Intel,SSD,Windows11, 8th Gen - 5300
+"$2,999.99",ASUS,Black,16,2048,16,ProArt Studiobook,No Graphics,8,4.3,Intel,SSD,Windows11, 13 Gen - W7604J3D-XS99T
+$235.99,ASUS,Black,4,128eMMC,11.6,No Model,No Graphics,15,3.7,Intel,eMMC,Windows11, Celeron N4020 - L210MA-DS04
+"$1,199.99",ASUS,Blue,16,1024,14,No Model,No Graphics,17,4.4,Intel,SSD,Windows11, Core i7 - UP3404VADS74T
+$379.99,Lenovo,Black,16,256,14,Refurbished,Intel UHD Graphics 620,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - T480
+$849.99,ASUS,Black,16,1024,15.6,Vivobook,No Graphics,10,4.7,AMD Ryzen,SSD,Windows11, 7 - M1505YA-ES74
+"$1,399.99",MSI,Gray,32,1024,16,Prestige,No Graphics,3,4,Intel,SSD,Windows11, Evo Edition - PRE16EVO14016
+"$1,339.99",Lenovo,Black,16,512,14,ThinkPad,No Graphics,1,5,Intel,SSD,Windows11, Core i5 - 21HF000CUS
+$219.00,HP,Gray,16,256,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 - HP.640G5.I5.8365U.16.256.W10P
+$799.99,Acer,Gray,16,512PCIe,15.6,No Model,No Graphics,65,4.4,Intel,PCIe,Windows11, i7 - AV15-53P-71Z7
+"$1,299.00",MSI,Gray,32,1024,13,Prestige,No Graphics,4,4,Intel,SSD,Windows11, Evo Edition - PRE13EVO14027
+$199.99,Lenovo,Blue,4,128,15.6,Ideapad,No Graphics,120,4.6,No Info,SSD,Windows11,No Info - 82LX0050US
+"$2,199.99",ASUS,Gray,16,1024,18,No Model,NVIDIA GeForce RTX 4070,26,4.7,Intel,SSD,Windows11, 13th Gen - G814JI-CS94
+$494.25,HP,Gray,32,1024,14,Refurbished,No Graphics,22,4.6,Intel,SSD,Windows11, Core i5 - 840 G5
+$369.99,HP,Silver,4,128UFS,14,No Model,No Graphics,3,3.7,Intel,UFS,Windows11, Processor N200 - 14-EP0010NR
+"$1,999.99",Acer,Silver,16,1024,14,Predator Triton,No Graphics,3,5,Intel,SSD,Windows11, 13th Gen - PT14-51-7979
+"$2,499.99",ASUS,White,16,1024,14,ROG Zephyrus,NVIDIA GeForce RTX 4080,32,4.1,AMD Ryzen,SSD,Windows11, 9 7940HS - GA402XZ-CS94
+"$3,299.99",Microsoft,Platinum,16,1024,14.4,Surface Laptop Studio 2,No Graphics,13,4.6,Intel,SSD,Windows11, Core i7 - Z2D-00001
+"$3,699.99",Microsoft,Platinum,16,2048,14.4,Surface Laptop Studio 2,No Graphics,5,5,Intel,SSD,Windows11, Core i7 - Z3G-00001
+"$2,249.99",Lenovo,Black,16,1024,14,ThinkPad X1,No Graphics,1,5,Intel,SSD,Windows11, i7 with - 21HM000LUS
+"$1,599.99",MSI,Blue,16,512,17.3,Raider,No Graphics,1,5,Intel,SSD,Windows11, 12th Gen - RAIDERGE76871
+"$3,599.99",Microsoft,Platinum,32,1024,14.4,Surface Laptop Studio 2,No Graphics,5,4.8,Intel,SSD,Windows11, Core i7 - Z1S-00001
+"$2,289.99",Lenovo,Gray,16,512,14,ThinkPad X1,No Graphics,2,5,Intel,SSD,Windows11, Core i7 - 21HQ000BUS
+"$1,629.99",Lenovo,Gray,16,512,14,ThinkPad T14s,No Graphics,1,5,Intel,SSD,Windows11, Core i7 - 21F6001BUS
+$599.99,HP,Silver,12,512,15.6,No Model,NVIDIA GeForce RTX 2050,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 15-FA1200NR
+"$2,499.99",Acer,Black,32,1024,18,Predator Helios 18,No Graphics,19,3.8,Intel,SSD,Windows11, i9 - PH18-71-94F1
+$449.99,Lenovo,Blue,16,512,14,Ideapad,No Graphics,5,3.2,AMD Ryzen,SSD,Windows11, 7 7730U - 82XX003YUS
+$499.99,HP,Silver,32,1024,13.3,Refurbished,Intel UHD Graphics 620,75,4.6,Intel,SSD,Windows11, 10th Gen - 830 G7
+$856.99,HP,Silver,32,512,14,EliteBook 840 G8,Intel Iris Xe Graphics,2,2.5,Intel,SSD,Windows11, 11th Gen - 840 G8
+$418.99,HP,Gray,16,512,14,Refurbished,No Graphics,9,4.6,Intel,SSD,Windows11, Core i5 - 840 G5
+"$1,999.99",Acer,Black,16,1024,18,Predator Helios 18,No Graphics,7,3.7,Intel,SSD,Windows11, i7 - PH18-71-76B3
+"$2,499.99",ASUS,White,32,1024,13.4,ROG Flow,NVIDIA GeForce RTX 4070,29,3.9,AMD Ryzen,SSD,Windows11, 9 7940HS - GV302XI-CS96
+"$1,662.99",GIGABYTE,Black,16,1024,17.3,AORUS,NVIDIA GeForce RTX 4070,8,4,Intel,SSD,Windows11, i7 - AORUS 17 BSF-73US654SH
+"$2,499.99",ASUS,Black,16,1024,16,ProArt Studiobook,NVIDIA GeForce RTX 4070,19,3.9,Intel,SSD,Windows11, 13 Gen - H7604JI-DS96T
+"$3,299.99",Razer,Black,32,1024,14,Blade,NVIDIA GeForce RTX 4070,8,4.1,Intel,SSD,Windows11, i9 HX - RZ09-0483SEJ3-R3U1
+$999.99,Acer,Blue,16,512,14,TravelMate,No Graphics,2,3,Intel,SSD,Windows11, Core i5 - NX.VPDAA.003
+$303.99,HP,Refurbished,8,256,14,Elitebook,No Graphics,8,3.8,Intel,SSD,Windows11, i5 - X360.1030.G3.Pro
+"$1,699.99",GIGABYTE,White,16,1024,14,No Model,No Graphics,1,3,Intel,SSD,Windows11, i7 - AERO 14 OLED BMF-72USBB4SH
+$999.99,Acer,Gray,16,1024,15.6,Aspire 5,NVIDIA GeForce RTX 2050,3,5,Intel,SSD,Windows11, i7 - A515-58GM-76KW
+"$1,599.99",LG,Blue,32,2048,15.6,gram,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Evo Platform - 15Z90ST-G.ADB9U1
+"$3,499.99",Lenovo,Black,16,512,14,ThinkPad X1,No Graphics,1,5,Intel,SSD,Windows11, i7 with - 21ES001YUS
+$849.99,Acer,Gray,16,512,14,Aspire 5,NVIDIA GeForce RTX 2050,1,5,Intel,SSD,Windows11, i5 - A514-56GM-5932
+$499.99,ASUS,Blue,8,256,17.3,No Model,No Graphics,4,3,Intel,SSD,Windows11, Pentium with - F1704ZA-DS24
+$298.85,HP,Gray,8,256,14,Refurbished,No Graphics,29,4.6,Intel,SSD,Windows11, Core i5 - 840 G3-31676
+"$3,799.99",Acer,Black,16,2048,17,Predator Triton,No Graphics,10,3.5,Intel,SSD,Windows11, i9 - PTX17-71-98JY
+$373.99,HP,Silver,16,256,14,Refurbished,No Graphics,1,2,Intel,SSD,Windows11, i7 - 15U.G5.i7.16.256
+$999.99,Acer,Black,8,512PCIe,16,Nitro 16,No Graphics,6,3.7,AMD Ryzen,PCIe,Windows11, 5 7640HS - AN16-41-R148
+"$1,799.99",Acer,Black,16,1024,16,Nitro 16,No Graphics,3,3.7,AMD Ryzen,PCIe,Windows11, 9 7940HS - AN16-41-R5KC
+"$2,928.99",Dell,Gray,32,512,17.3,Precision,No Graphics,1,1,Intel,SSD,Windows11, Core i7 - 26DYG
+$384.99,HP,Silver,16,256,14,Refurbished,No Graphics,6,3,Intel,SSD,Windows11, i7 - 15U.G6.i7.16.256
+"$1,199.99",Acer,Gray,16,512,14,No Model,No Graphics,3,4.7,Intel,SSD,Windows11, Core i7 - SF314-71-75MW
+$285.99,Lenovo,Black,16,256,14,Refurbished,No Graphics,6,2.2,Intel,SSD,Windows11, i5 8350U - T480.i5.16.256
+"$1,559.99",Lenovo,Gray,16,512,14,ThinkPad,No Graphics,1,1,No Info,SSD,Windows11,No Info - 21HD002BUS
+"$3,799.99",Razer,Black,32,1024,17.3,Blade,NVIDIA GeForce RTX 3070,14,4.1,Intel,SSD,Windows11, Core i9 - RZ09-0423QEF3-R3U1
+$849.99,Acer,Silver,16,512,14,No Model,No Graphics,3,5,AMD Ryzen,SSD,Windows11, 5 5625U - SF314-44-R3ZM
+$699.99,HP,Blue,16,1024,16,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 16-AF0925NR
+"$1,599.99",Acer,Gray,16,1024,16,Swift X,No Graphics,2,3,AMD Ryzen,SSD,Windows11, 9 7940HS - SFX16-61G-R4J6
+$479.99,ASUS,Black,8,512,15,Vivobook,Ryzen 7520U,0,0 Reviews,No Info,SSD,Windows11,No Info - E1504FA-AS52
+$839.99,Dell,Other,16,256,14,Latitude 3000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - T7NMH
+"$1,799.99",Acer,Black,16,1024,15.6,Predator Helios,No Graphics,1,5,Intel,SSD,Windows11, 12th Gen - PH315-55-79KT
+$919.99,HP,Silver,12,512,15.6,No Model,NVIDIA GeForce RTX 4050,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 15-FA1010NR
+"$1,629.99",Dell,Blue,16,256,14,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - Y8NNP
+"$1,569.99",Dell,Gray,16,512,14,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 7KVJY
+"$1,619.99",Dell,Gray,16,512,14,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - W6F5V
+"$1,289.99",Dell,Gray,16,256,14,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - J56T1
+"$1,439.99",Dell,Gray,16,512,14,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - HK9VF
+"$1,899.99",Dell,Gray,32,512,14,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 7M9WG
+"$1,229.99",Dell,Gray,16,512,14,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - WWMYN
+$699.99,ASUS,Silver,16,1024,14,Vivobook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core 5 - F1704VAP-AS56
+$499.99,HP,Silver,8,256,15.6,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i3 - 15-FD0023DX
+$729.99,Dell,Other,8,256,15.6,Latitude 3000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - GCW0D
+$639.99,Lenovo,Grey,8,256,16,ThinkBook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 21MW0001US
+$195.99,Hyundai,Gray,4,512,14.1,No Model,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - HT14CCIC46EGH
+"$2,349.99",MSI,Black,16,512,17.3,Creator 17,NVIDIA GeForce RTX 3060,2,4,Intel,SSD,Windows11, Core i7 - CREATOR1711471
+"$1,819.99",Lenovo,Black,16,512,14,ThinkPad X1,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21KC00A8US
+$989.99,Dell,Other,16,256,14,Latitude 3000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - 2CVY8
+"$1,119.99",Dell,Gray,16,512,15.6,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - CN62X
+"$1,239.99",Dell,Gray,16,256,15.6,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - K3CP1
+"$1,459.99",Dell,Gray,16,512,15.6,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - PNPGM
+"$1,259.99",Dell,Gray,16,256,15.6,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - GWDP8
+$879.99,Lenovo,Grey,16,256,16,ThinkBook,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MS0065US
+$769.99,Lenovo,Grey,16,256,14,ThinkBook 14 G7,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MR005QUS
+"$2,649.99",Dell,Gray,32,1024,14,Precision,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - JJC7N
+"$1,219.99",Dell,Gray,16,256,14,Precision,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 83CY2
+$319.99,Lenovo,Gray,8,512,15.6,Ideapad,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 82QD00CJUS
+$249.99,Lenovo,Blue,4,128,14,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Celeron N4020 - 82V6009NUS
+"$2,159.99",Dell,Black,16,512,14,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - FD5K6
+$729.99,ASUS,Black,8,512,14,No Model,No Graphics,6,3.7,AMD Ryzen,SSD,Windows11, 5 - TM420UADS52T
+"$1,859.99",Lenovo,Black,16,512,14,ThinkPad X1,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21KC00A0US
+$869.99,Dell,Gray,16,256,13.3,Latitude 3000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 3FJX3
+"$1,389.99",Dell,Gray,16,256,14,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - VPWD0
+"$1,579.99",Dell,Gray,16,512,14,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 29JKP
+"$2,109.99",Dell,Gray,32,512,14,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - VPC7T
+"$1,299.99",Dell,Gray,16,512,14,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 9W6F6
+$579.99,Lenovo,Blue,16,256,15,No Model,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 7520U - 82VG00QFUS
+$699.99,HP,Blue,8,512,16,Pavilion,AMD Radeon Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 8540U - 16-AG0010NR
+"$1,899.99",Dell,Gray,32,1024,14,Precision,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - KP57V
+$769.99,Lenovo,Grey,16,512,14,ThinkBook 14 G7,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - 21MV000AUS
+$829.99,Lenovo,Grey,16,512,16,ThinkBook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 21MW0002US
+$819.99,Lenovo,Grey,16,512,14,ThinkBook 14 G7,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 21MV0009US
+"$2,199.99",Lenovo,Black,32,512,14,ThinkPad X1,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21KC00A7US
+"$1,519.99",Lenovo,Black,16,256,16,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MN005LUS
+"$1,799.99",ASUS,Black,16,512,13.4,No Model,NVIDIA GeForce RTX 3050,14,3.5,Intel,SSD,Windows11, Core i7 - GZ301ZC-PS73
+"$2,179.99",Dell,Other,16,512,14,Latitude,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 970MW
+$969.99,Lenovo,Grey,16,512,16,ThinkBook,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MS0066US
+$819.99,Lenovo,Grey,16,512,16,ThinkBook,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MS0067US
+$799.99,Lenovo,Grey,16,512,14,ThinkBook 14 G7,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MR005RUS
+"$2,269.99",Dell,Other,16,512,14,Latitude,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 8KY5K
+"$2,369.99",Dell,Other,32,512,14,Latitude,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - F47JT
+"$1,729.99",Dell,Gray,16,512,14,Latitude 7000,No Graphics,0,0 Reviews,Snapdragon,SSD,Windows11, X Elite - YFK76
+$735.99,HP,Silver,16,512,15.6,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 15-FD0835NR
+$799.00,MSI,Black,16,512,14,No Model,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - MOD1413261
+"$1,669.99",Dell,Gray,16,512,14,Precision,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 7T7WH
+"$1,719.99",HP,Silver,16,512,16,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 89D72UTABA
+$869.99,Lenovo,Black,16,256,16,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MA0003US
+$629.00,HP,Silver,8,256UFS,14,Chromebook,No Graphics,0,0 Reviews,Intel,UFS,Windows11, Core i3 - 14B-CD0023DX
+$869.99,Lenovo,Black,16,256,14,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21M70006US
+$919.99,Lenovo,Black,16,512,16,ThinkPad,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - 21M5000JUS
+$689.99,Lenovo,Black,8,256,16,ThinkPad,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 21M5000HUS
+"$1,029.99",Lenovo,Black,16,512,16,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MA0006US
+"$1,439.99",Dell,Silver,16,256,13.3,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 423PD
+"$1,489.99",Dell,Gray,16,512,15.6,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - HVMV3
+"$1,309.99",Dell,Gray,16,512,13.3,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - P89N4
+"$1,059.99",Dell,Gray,16,256,15.6,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - CT1GY
+"$1,809.99",Lenovo,Black,32,512,14,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21ML0056US
+"$1,429.99",Lenovo,Gray,16,512,14,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21ML0053US
+$899.00,MSI,Silver,16,512,14,Prestige,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - PRE14H12629
+"$2,697.99",Dell,Gray,32,1024,14,Precision,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 5PMVX
+"$2,799.99",GIGABYTE,Black,32,2048,17,Gaming Laptop IPS,NVIDIA GeForce RTX 4080,0,0 Reviews,Intel,SSD,Windows11, i9 - AORUS 17X AXG-64US665SH
+"$1,439.99",Lenovo,Black,16,512,16,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MN005MUS
+"$1,899.99",Lenovo,Black,16,1024,16,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MN005GUS
+$599.99,Lenovo,Blue,8,512,15.6,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 82QD00HMUS
+"$2,269.99",Lenovo,Gray,16,512,14,ThinkPad X1,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21KE005UUS
+"$2,099.99",Lenovo,Gray,16,512,14,ThinkPad X1,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21KE005PUS
+$310.99,Dell,Black,16,256,12.5,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 6th Gen - 7280
+"$3,549.99",Dell,Silver,32,2048,16.3,XPS,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - SBR1F
+"$1,899.99",Dell,Gray,32,512,14,Latitude 7000,No Graphics,0,0 Reviews,Snapdragon,SSD,Windows11, X Elite - VYP9M
+"$1,619.99",Dell,Gray,16,512,14,Latitude 7000,No Graphics,0,0 Reviews,Snapdragon,SSD,Windows11, X Plus - DV9KG
+$560.99,HP,Black,16,512,13.3,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - Elite Dragonfly
+"$1,739.99",Lenovo,Gray,16,512,14,ThinkPad T14s,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21LS004HUS
+"$1,699.99",Dell,Gray,16,512,13.3,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - KFNFN
+"$1,879.99",Lenovo,Black,32,512,14,ThinkPad T14s,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21LS0049US
+"$1,519.99",GIGABYTE,Black,16,1024,15,Gaming Laptop IPS,NVIDIA GeForce RTX 4060,0,0 Reviews,Intel,SSD,Windows11, Ultra 7 - AORUS 15 BKG-13US754SH
+"$1,799.99",GIGABYTE,Black,16,1024,17,Gaming Laptop IPS,NVIDIA GeForce RTX 4070,0,0 Reviews,Intel,SSD,Windows11, Ultra 7 - AORUS 17 BSG-13US654SH
+"$1,579.99",Dell,Gray,16,256,16,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 2P5HR
+"$1,909.99",Dell,Gray,16,512,16,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - K6MY7
+"$2,339.99",Dell,Gray,32,512,14,Precision,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - X8G6W
+$759.99,HP,Silver,16,256,16,ProBook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - A1RM7UT#ABA
+$287.50,Dell,Black,8,256,14,Latitude,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 6th Gen - 5480
+"$3,399.99",ASUS,White,32,1024,16,ROG Zephyrus,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - GU605MY-XS96
+"$1,149.99",Lenovo,Black,16,512,14,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21M70005US
+"$1,019.99",Lenovo,Black,16,512,14,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21M70004US
+"$1,019.99",Lenovo,Black,16,512,16,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MA0004US
+"$1,735.99",HP,Black,16,1024,16,OMEN,NVIDIA GeForce RTX 4060,0,0 Reviews,Intel,SSD,Windows11, Core i7 - 16-U0010NR
+$469.31,Lenovo,Black,16,512,14,Refurbished,Intel UHD Graphics 620,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - T490
+"$1,699.00",MSI,Gray,32,1024,16,CreatorPro,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - CProM1614289
+"$1,319.99",Lenovo,Gray,32,512,14,ThinkPad,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 21MC000LUS
+"$2,299.00",MSI,Gray,32,1024,16,CreatorPro,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - CProM1614288
+"$2,799.99",ASUS,White,32,1024,16,ROG Zephyrus,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - GU605MZ-XS96
+"$1,209.99",Lenovo,Grey,16,512,14,ThinkBook,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MX000GUS
+$929.99,Lenovo,Grey,16,512,14,ThinkBook,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21MX0006US
+$349.99,Samsung,Silver,4,128eMMC,14.0,Refurbished,No Graphics,5,2.8,No Info,eMMC,Windows11,No Info - GSRF NP340XLA-KA1US
+$949.00,MSI,Black,16,1024,15.6,Modern 15,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - MOD1513885
+$849.00,MSI,Black,16,1024,15.6,Modern 15,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - MOD1513886
+"$4,299.99",GIGABYTE,Silver,32,2048,16,No Model,NVIDIA GeForce RTX 3080,13,3,Intel,SSD,Windows11, i9 - AERO 16 YE5-94US948HP
+$559.99,HP,Silver,32,1024,15.6,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - 850 G6
+"$1,899.00",MSI,Gray,32,2048,16,Prestige,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - PRE16EVO14048
+"$2,099.00",MSI,Gray,32,1024,16,Prestige,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - PRE16STU14091
+"$1,949.00",MSI,Gray,32,1024,14,Prestige,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - PRE14STU14029
+"$1,649.00",MSI,Gray,32,1024,14,Prestige,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - PRE14EVO14048
+$559.99,HP,Silver,32,1024,15.6,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - 850 G6
+"$2,299.00",MSI,Gray,32,1024,16,Prestige,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - PRE16STU14090
+$839.99,HP,Silver,16,256,14,ProBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A1LC2UT#ABA
+$989.99,HP,Silver,16,512,14,ProBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A1LC3UT#ABA
+"$1,239.99",HP,Silver,16,256,16,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A6UC2UT#ABA
+"$1,265.99",Dell,Black,16,2048,15.6,Precision,NVIDIA Quadro T1000,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - Precision 7550
+$869.99,HP,Gray,16,512,16,ProBook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - A1RM8UT#ABA
+$759.99,HP,Gray,16,256,14,ProBook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - A1RM3UT#ABA
+$869.99,HP,Gray,16,512,14,ProBook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - A1RM4UT#ABA
+$659.99,HP,Gray,8,256,14,ProBook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - A1RM1UT#ABA
+$659.99,HP,Gray,8,256,16,ProBook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - A1RM6UT#ABA
+$979.99,Dell,Gray,16,256,13.3,Latitude 3000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 1TD24
+"$1,149.00",MSI,Black,32,1024,15.6,Modern 15,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i9 - MOD15H13213
+$915.99,HP,Silver,32,2048,14,EliteBook 840 G8,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 840 G8
+$719.99,Dell,Black,32,512,14,Latitude,No Graphics,5,4.6,Intel,SSD,Windows11, 11th Gen - 7420
+$359.99,HP,Silver,4,128eMMC,15.6,No Model,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, N - A0MJ6UA#ABA
+"$1,899.99",Alienware,Moon,32,1024,16.0,m16,NVIDIA GeForce RTX 4060,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - BBY-D99CMFX
+"$1,549.99",Lenovo,Gray,16,512,16,Legion,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 8845HS - 83DH000PUS
+"$1,019.99",HP,Gray,16,512,16,ProBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A1LH5UT#ABA
+$679.99,Microsoft,Platinum,8,128,13.5,Refurbished,No Graphics,5,3.6,Intel,SSD,Windows11, Core i5 - GSRF VGY-00001
+$779.99,HP,Gray,8,256,16,ProBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A1LD3UT#ABA
+"$1,769.99",Dell,Gray,16,256,14,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - X1DJR
+"$1,199.99",MSI,Gray,16,1024,13.3,Prestige,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - PRE13EVO14029
+"$1,499.99",ASUS,White,32,1024,14,Zenbook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - UX5406SA-PH79T
+"$2,069.00",MSI,Black,32,512,16,Summit,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - SUM16STU14036
+"$2,169.00",MSI,Black,32,512,16,Summit,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - SUM16STU14037
+"$1,619.99",Dell,Gray,16,512,14.5,XPS,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - P1FNF
+"$1,049.99",HP,Silver,16,512,14,ProBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A1LC4UT#ABA
+$619.99,Dell,Silver,32,1024,14,Latitude,No Graphics,5,4.6,Intel,SSD,Windows11, 10th Gen - 5410
+$889.99,HP,Silver,16,256,14,ProBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A1ND8UT#ABA
+$429.99,Acer,Black,8,128,11.6,TravelMate,No Graphics,0,0 Reviews,Intel,SSD,Windows11, with 8GB - NXVYZAA002
+$409.99,Acer,Black,8,128,11.6,TravelMate,No Graphics,0,0 Reviews,Intel,SSD,Windows11, with 8GB - NXVYZAA004
+$779.99,HP,Silver,8,256,15.6,ProBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 9E918ATABA
+$883.99,MSI,Gray,16,512,14,Commercial 14 H A13MG,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - COM1413002
+"$1,049.99",MSI,Gray,16,512,14,Commercial 14 H A13MG,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - COM14V13009
+$559.99,HP,Silver,8,256,15.6,No Model,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 7H3D6UAABA
+$499.99,HP,Silver,8,256,15.6,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i3 - 8R873UA#ABA
+"$1,019.99",HP,Gray,16,512,16,ProBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A1LD9UT#ABA
+$399.99,HP,Color,4,256,17.3,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Celeron with - 90H35UAABA
+"$1,489.99",Dell,Gray,16,512,13.4,XPS,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 6F5CN
+"$1,999.99",Dell,Platinum,16,1024,14.5,XPS,NVIDIA GeForce RTX 4050,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - XPS9440-7816SLV-PUS
+"$1,339.99",Dell,Gray,16,256,13.3,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - WXR37
+"$1,899.99",Dell,Gray,32,512,13.3,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - HWFV4
+"$1,149.99",MSI,Gray,32,1024,14,Commercial 14 H A13MG,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - COM14V13008
+"$1,115.99",MSI,Gray,32,1024,14,Commercial 14 H A13MG,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - COM1413003
+$419.99,Dell,Black,32,512,14,Latitude,No Graphics,3,4.7,Intel,SSD,Windows11, 8th Gen - 7490
+"$2,009.99",Dell,Gray,16,512,13.3,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 7MFW6
+"$5,049.99",MSI,Black,16,512,18,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 14th Gen - TITAN18HX14036
+"$1,399.00",MSI,Black,16,512,15.6,Pulse,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 13th Gen - PULSE15132047
+$585.99,HP,Silver,32,1024,14,Refurbished,No Graphics,3,5,Intel,SSD,Windows11, 10th Gen - 840 G7
+$890.99,Dell,Silver,32,1024,15.6,Precision,NVIDIA Quadro T1000,5,4.8,Intel,SSD,Windows11, 9th Gen - Precision 5540
+"$2,099.99",MSI,Gray,16,1024,16,Vector,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i9 - VECTOR16HX13478
+$399.99,Dell,Black,16,256,14,Latitude,Intel UHD Graphics 620,2,4.5,Intel,SSD,Windows11, 8th Gen - 7400
+"$3,299.99",MSI,Gray,32,1024,16,Vector,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i9 - VECTOR16HX14479
+"$1,599.00",Dell,Black,16,2048,17.3,Precision,No Graphics,2,4,Intel,SSD,Windows11, 10th Gen - Precision 7750
+$579.99,Dell,Black,32,1024,14,Latitude,No Graphics,1,5,Intel,SSD,Windows11, 9th Gen - 5401
+"$1,593.99",Lenovo,Black,16,512,14,ThinkPad,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - 21HF000AUS
+$549.99,Dell,Black,32,512,14,Latitude,No Graphics,1,5,Intel,SSD,Windows11, 9th Gen - 5401
+"$1,099.00",MSI,Black,16,512,15.6,Cyborg,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 13th Gen - CYBORG15131095
+$709.99,Lenovo,Black,16,512,15.6,Refurbished,Intel Iris Xe Graphics,2,5,Intel,SSD,Windows11, 12th Gen - V15 G3 IAP
+"$1,399.99",MSI,Black,16,512,16,Summit,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - SUM16EVO14019
+$719.99,Microsoft,Platinum,4,128,13.5,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - GSRF D9P-00001
+$449.99,HP,Black,8,256,15.6,No Model,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 3 - A41F1UA#ABA
+$764.77,Dell,Gray,32,2048,15.6,Latitude,Intel UHD Graphics 620,2,5,Intel,SSD,Windows11, 8th Gen - 5500
+"$1,599.99",MSI,Blue,16,1024,14,Stealth,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra7 - STEALTH14A1068
+"$1,649.00",MSI,Black,32,1024,13.3,Summit,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - SUME1314038
+$309.99,Dell,Black,8,256,14,Refurbished,Intel UHD Graphics 620,14,4.4,Intel,SSD,Windows11, 8th Gen - 5400
+$489.99,Dell,Gray,16,512,13.3,Latitude,No Graphics,1,5,Intel,SSD,Windows11, 10th Gen - 5310
+"$3,299.99",ASUS,Off Black-Supernova Edition,32,1024,13.4,ROG Flow,No Graphics,24,3.6,AMD Ryzen,SSD,Windows11,AMD  9 - GV301QHXS98B
+$469.99,HP,Silver,32,512,13.3,Refurbished,Intel UHD Graphics 620,11,4.5,Intel,SSD,Windows11, 10th Gen - 830 G7
+$753.99,HP,Silver,16,256,14,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 840 G8
+$949.99,Dell,Black,32,2048,14,Latitude,No Graphics,1,3,Intel,SSD,Windows11, 12th Gen - 7430
+$829.99,Microsoft,Platinum,8,256,13.5,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - GSRF DAG-00001
+$859.99,HP,Gray,8,256,13.3,No Model,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 3 - 7P3C3UT#ABA
+"$1,129.99",Lenovo,Grey,32,1024,16,Refurbished,NVIDIA GeForce RTX 4050,4,4.5,Intel,SSD,Windows11,  i9 - 83C00003US
+"$1,479.99",Lenovo,Gray,16,256,14,ThinkPad,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 with - 21HD0025US
+"$1,665.99",Lenovo,Black,16,512,16,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21HK0006US
+$459.99,Acer,Black,8,128,11.6,TravelMate,No Graphics,0,0 Reviews,Intel,SSD,Windows11, with 8GB - NXVZ0AA004
+"$1,199.99",Lenovo,Black,16,512,13.3,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21FJ002CUS
+$949.99,ASUS,Black,16,512,14,Vivobook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - Q423SA-U5512
+"$3,939.99",Dell,Gray,16,1024,16,Mobile Processor,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i9 - JCJH4
+$359.99,Dell,Black,16,512,14,Refurbished,Intel UHD Graphics 620,32,4.8,Intel,SSD,Windows11, 8th Gen - 5400
+$829.99,Lenovo,Gray,16,256,14,ThinkPad,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 21JR0019US
+"$1,037.50",HP,Gray,16,2048,15.6,Refurbished,NVIDIA Quadro P1000,3,4.3,Intel,SSD,Windows11, 8th Gen - Zbook 15 G5
+$457.95,HP,Silver,32,1024,13.3,Refurbished,Intel UHD Graphics 620,2,4.5,Intel,SSD,Windows11, 8th Gen - 830 G5
+"$1,403.99",Lenovo,Gray,16,512,14,ThinkPad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21HD0028US
+"$1,199.99",Lenovo,Black,16,256,15.6,ThinkPad,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 16GB - 21H3001DUS
+$296.99,HP,Silver,16,256,14,Elitebook,No Graphics,14,4,Intel,SSD,Windows11, I5 - 840G6.i5.16.256
+"$1,339.99",Lenovo,Black,16,512,14,ThinkPad,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 with - 21H1001SUS
+$449.99,Lenovo,Blue,16,512,15.6,Ideapad,No Graphics,1,5,AMD Ryzen,SSD,Windows11, 7 5825U - 82SG00BLUS
+"$1,279.99",Lenovo,Gray,16,256,13.3,ThinkPad X1,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 with - 21EX0003US
+"$3,299.99",Razer,Mercury,16,2048,16,Blade,NVIDIA GeForce RTX 4070,0,0 Reviews,Intel,SSD,Windows11, i9 HX - RZ09-0510SEM4-R3U1
+"$1,899.99",MSI,Gray,16,512,16,Vector,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 14th Gen - VECTOR16HX14246
+"$1,359.99",Lenovo,Black,16,512,14,ThinkPad,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 16GB - 21H3001FUS
+$909.99,Lenovo,Black,16,512,14,ThinkPad,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 21JR0017US
+"$1,599.99",HP,Gray,16,1024,14,OmniBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 14-fh0013dx
+$879.99,Microsoft,Black,8,256,13.5,Refurbished,No Graphics,2,3,Intel,SSD,Windows11, Core i5 - GSRF V4C-00022
+$799.99,Microsoft,Blue,8,256,13.5,Refurbished,No Graphics,2,3,Intel,SSD,Windows11, Core i5 - GSRF V4C-00043
+$439.99,Dell,Gray,16,256,15.6,Refurbished,Intel UHD Graphics 620,4,4.8,Intel,SSD,Windows11, 8th Gen - 5500
+$899.99,HP,Silver,16,512,14,OmniBook,No Graphics,0,0 Reviews,Snapdragon,SSD,Windows11, X Plus - 14-fe1003dx
+$641.99,Lenovo,Moss,12,512,14,Refurbished,No Graphics,10,3.3,Intel,SSD,Windows11, Evo Platform - GSRF 82BH0006US
+"$1,499.99",Acer,Silver,16,512,14,Predator Triton,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 13th Gen - PT14-51-78B4
+"$1,699.99",MSI,Black,32,1024,14,Summit,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - SUME1413268
+"$1,299.99",Lenovo,Gray,16,1024,15.3,Yoga,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 83HM0000US
+$464.99,HP,Silver,16,512,14,Refurbished,No Graphics,4,5,Intel,SSD,Windows11, Core i5 - 840 G5
+"$2,367.99",Lenovo,Gray,16,512,14,ThinkPad X1,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - 21HQ000CUS
+"$1,249.99",Acer,Gray,16,1024,16,Swift X,NVIDIA GeForce RTX 3050,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 7840HS - SFX16-61G-R9VD
+"$1,509.99",Lenovo,Gray,16,256,13.3,ThinkPad X1,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21F2000HUS
+$699.99,Samsung,Black,16,512,13.3,Geek Squad Certi Refurbis Galaxy Book Flex2 Alpha,No Graphics,7,2.4,Intel,SSD,Windows11, Core i7 - GSRF NP730QDA-KA1US
+$447.99,Dell,Black,16,1024,14,Latitude,No Graphics,12,4.3,Intel,SSD,Windows11, Core i5 - 7490
+"$1,529.99",Lenovo,Black,16,512,15.6,ThinkPad,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - 21H3001HUS
+$493.99,HP,Gray,32,512,14,Refurbished,No Graphics,4,5,Intel,SSD,Windows11, Core i5 - 840 G5
+$413.79,HP,Silver,16,256,14,Refurbished,No Graphics,7,4.3,Intel,SSD,Windows11, Core i5 - 840 G5
+$492.99,HP,Gray,16,1024,14,Refurbished,No Graphics,5,4.6,Intel,SSD,Windows11, Core i7 - 840 G3
+"$1,249.99",MSI,Black,16,512,14,Summit,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - SUME14EVO12026
+$498.99,HP,Gray,16,1024,14,Refurbished,No Graphics,9,4.3,Intel,SSD,Windows11, Core i5 - 840 G5
+"$1,499.99",Acer,Gray,16,1024,14,Swift X,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i7 - SFX14-71G-76LC
+$458.99,Dell,Black,32,512,14,Latitude,No Graphics,1,5,Intel,SSD,Windows11, Core i5 - 7490
+$538.99,HP,Gray,16,512,14,Refurbished,No Graphics,4,4.5,Intel,SSD,Windows11, Core i7 - 840 G5
+$481.99,HP,Silver,32,512,14,Refurbished,No Graphics,10,4.5,Intel,SSD,Windows11, Core i7 - 840 G3
+$323.99,Dell,Gray,8,512,14,Latitude,No Graphics,15,4.5,Intel,SSD,Windows11, Core i5 - 5480
+$274.99,HP,Silver,8,256,14,Elitebook,No Graphics,1,5,Intel,SSD,Windows11, i5 - 840G6.8.256.Pro
+$709.99,Dell,Gray,32,2048,15.6,Precision,No Graphics,2,1,Intel,SSD,Windows11, 9th Gen - Precision 3541
+$334.99,HP,Refurbished,8,256,14,Elitebook,No Graphics,17,4.2,Intel,SSD,Windows11, i5 - X360.1040.G5.Pro
+$291.99,HP,Silver,16,256,14,Elitebook,No Graphics,29,3.8,Intel,SSD,Windows11, i5 - 840G5.16.256.Pro
+"$1,019.99",Microsoft,Platinum,8,256,15,Refurbished,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - GSRF VGZ-00001
+$409.99,Dell,Gray,16,256,14,Latitude,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 - DL.5420.I5.1135G7.16.256.W10P
+$339.99,HP,Silver,16,256,14,Elitebook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 - HP.840G7.I5.10310U.16.256.W10P
+$449.99,Lenovo,Black,16,256,14,ThinkPad,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - LN.T14G2.I5.1145G7.16.256.W10P
+$359.99,HP,Silver,16,256,14,Elitebook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - HP.845G8.R5P.16.256.W10P
+$409.99,HP,Silver,16,256,14,Elitebook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 - HP.840G8.I5.1145G7.16.256.W10P
+$259.99,HP,Silver,8,256,14,Elitebook,No Graphics,15,3.6,AMD Ryzen,SSD,Windows11, 7-3700U - 745G6.8.256.Pro
+$353.99,Dell,Black,16,512,14,Refurbished,No Graphics,15,4.5,Intel,SSD,Windows11, Core i5 - BB5-31852
+$469.99,Dell,Black,16,256,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - 5410
+$359.99,HP,Silver,8,256,14,Elitebook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 - HP.X3601040G6.I58365.8.256.10P
+$219.99,Lenovo,Grey,4,512,14,Ideapad,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 82LVX001US
+$538.99,Dell,Black,32,512,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - 5410
+$719.00,Dell,Black,16,512,14,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 5420
+$499.99,HP,Silver,16,256,14,Elitebook,No Graphics,0,0 Reviews,Intel,SSD,Windows11,Core i5-1145 - HP.X360830G8.I51145.16.256.10P
+$583.99,HP,Gray,32,512,14,Refurbished,No Graphics,4,3,Intel,SSD,Windows11, Core i7 - 840 G5
+$399.99,Lenovo,Black,16,256,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - T490
+$776.99,Dell,Black,32,1024,14,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 5420
+$560.99,Dell,Black,16,256,14,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 5420
+$481.99,Dell,Black,16,512,15.6,Latitude,No Graphics,23,4.3,Intel,SSD,Windows11, Core i5 - 5590-32764
+$526.99,HP,Silver,16,512,14,Refurbished,Intel UHD Graphics 620,1,4,Intel,SSD,Windows11, 8th Gen - 840 G5
+$309.99,HP,Black,16,256,14,Refurbished,No Graphics,53,4.3,Intel,SSD,Windows11, Core i5 - BB5-32872
+$606.99,HP,Silver,32,1024,14,Refurbished,Intel UHD Graphics 620,4,4.3,Intel,SSD,Windows11, 8th Gen - 840 G5
+$429.99,HP,Gray,32,256,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i7 - HP.15G6.I7.9850H.32.256.W10P
+$879.99,Microsoft,Sandstone,8,256,13.5,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - GSRF V4C-00064
+$289.99,HP,Silver,8,256,13.3,Refurbished,No Graphics,27,3.9,Intel,SSD,Windows11, Core i5 - X360.1030.G2.RB
+$833.99,Dell,Black,32,1024,15.6,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - 5510
+$299.99,Lenovo,Black,8,256,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 7th Gen - T470S
+$329.99,Dell,Gray,8,512,14,Refurbished,No Graphics,5,5,Intel,SSD,Windows11, 7th Gen - 5490
+$359.99,Dell,Gray,16,512,14,Refurbished,No Graphics,15,4.5,Intel,SSD,Windows11, 7th Gen - 5490
+$389.99,HP,Gray,32,512,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i7 - HP.15UG5.I7.8650U.32.512.W10P
+$890.99,Dell,Black,32,1024,15.6,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 5520
+$697.99,Dell,Black,16,512,15.6,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 5520
+$640.99,Dell,Black,16,512,15.6,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - 5510
+$583.99,Dell,Black,16,512,13.3,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 5320
+$499.99,HP,Silver,16,256,14,Elitebook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 - HP.X3601040G7.I5103.16.256.10P
+$429.99,HP,Silver,16,256,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 - HP.FF14G7.I5.10310U.16.256.10P
+$489.99,HP,Gray,16,256,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i7 - HP.FF15G7.I7.10610U.16.256.10P
+$835.00,HP,Silver,32,1024,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - 840 G7
+$409.99,Dell,Black,16,256,15.6,Refurbished,No Graphics,13,4.2,Intel,SSD,Windows11, Core i5 - BB5-32866
+$509.99,HP,Gray,16,256,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i7 - HP.FF15G8.I7.1185G7.16.256.10P
+$489.99,HP,Gray,16,256,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 - HP.FF14G8.I5.1145G7.16.256.10P
+$503.99,Dell,Black,16,512,15.6,Refurbished,No Graphics,7,4.1,Intel,SSD,Windows11, Core i5 - BB5-32732
+$379.99,HP,Gray,16,512,15.6,ProBook,No Graphics,5,3.6,Intel,SSD,Windows11, Core i5 - 650 G2
+$302.29,Dell,Black,8,256,14,Latitude,No Graphics,4,4,Intel,SSD,Windows11, Core i5 - E5470-32425
+"$1,119.00",HP,Silver,32,1024,14,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 12th Gen - 840 G9
+$923.86,HP,Silver,16,512,14,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 12th Gen - 840 G9
+$915.00,HP,Silver,32,1024,14,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 840 G8
+$719.31,HP,Silver,16,512,14,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 440 G8
+$310.99,HP,Gray,8,512,14,Refurbished,No Graphics,37,4.1,Intel,SSD,Windows11, Core i5 - 840 G3-32354
+$481.99,Dell,Gray,16,512,15.6,Refurbished,No Graphics,2,3,Intel,SSD,Windows11, Core i7 - E5570
+$639.99,Dell,Black,16,512,14,Latitude,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - 7410
+$269.99,HP,Silver,8,256,14,Elitebook,No Graphics,35,3.9,Intel,SSD,Windows11, I5 - 840G5.i5.8.256.Pro
+$439.99,Dell,Black,16,512,15.6,Refurbished,No Graphics,13,3.8,Intel,SSD,Windows11, Core i5 - BB5-32865
+$765.99,HP,Gray,32,1024,15.6,ZBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - ZBook Firefly 15 G7
+$719.31,HP,Silver,16,512,15.6,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - 850 G7
+$378.99,HP,Silver,16,256,15.6,Refurbished,Intel UHD Graphics 620,0,0 Reviews,Intel,SSD,Windows11, 7th Gen - 850 G5
+$469.31,Dell,Black,16,512,14,Latitude,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 9th Gen - 5401
+$529.99,Dell,Black,32,512,14,Latitude,Intel UHD Graphics 620,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - 5490
+$945.99,HP,Gray,32,1024,15.6,ZBook,NVIDIA Quadro T1000,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - ZBook Studio G7
+"$1,079.00",HP,Silver,32,512,13.3,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 13th Gen - 630 G10
+$585.99,HP,Silver,16,512,13.3,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 830 G8
+$755.99,HP,Silver,32,1024,13.3,Refurbished,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 830 G8
+"$1,094.99",HP,Gray,16,2048,15.6,ZBook,NVIDIA Quadro T1000,0,0 Reviews,Intel,SSD,Windows11, 9th Gen - ZBook 15 G6
+$915.00,HP,Gray,32,1024,15.6,ZBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - ZBook Firefly 15 G7
+$559.00,Dell,Black,32,512,15.6,Latitude,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 7th Gen - 5580
+$549.99,Dell,Gray,32,1024,15.6,Precision,Intel UHD Graphics 620,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - Precision 3540
+$549.99,Dell,Gray,32,1024,15.6,Latitude,Intel UHD Graphics 620,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - 5500
+"$1,259.99",Dell,Black,16,2048,17.3,Precision,NVIDIA Quadro P3200,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - Precision 7730
+$946.59,Dell,Gray,32,1024,15.6,Precision,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 10th Gen - Precision 3551
+$419.99,HP,Silver,16,256,14,Refurbished,Intel UHD Graphics 620,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - 840 G6
+$675.99,HP,Silver,16,512,14,EliteBook 840 G8,Intel Iris Xe Graphics,0,0 Reviews,Intel,SSD,Windows11, 11th Gen - 840 G8
+$445.99,HP,Gray,16,500,14,Refurbished,No Graphics,11,3.7,Intel,SSD,Windows11, Core i7 - 840 G3-32230
+$899.99,HP,Gray,32,1024,15.6,ZBook,NVIDIA Quadro T1000,0,0 Reviews,Intel,SSD,Windows11, 9th Gen - ZBook 15 G6
+$867.04,HP,Gray,32,1024,15.6,ZBook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - ZBook 15U G6
+$544.99,Dell,Black,32,512,14,Refurbished,Intel UHD Graphics 620,30,4.8,Intel,SSD,Windows11, 8th Gen - 5400
+$685.99,HP,Silver,32,512,15.6,ZBook,Intel UHD Graphics 620,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - ZBook 15U G5
+$593.99,Dell,Silver,32,512,14,Precision,No Graphics,1,2,Intel,SSD,Windows11, Core I7 - 5540.i7.32.512
+$359.99,Dell,Black,16,256,14,Refurbished,Intel UHD Graphics 620,6,5,Intel,SSD,Windows11, 8th Gen - 7490
+$475.99,Dell,Black,16,512,13.3,Refurbished,Intel UHD Graphics 620,16,4.6,Intel,SSD,Windows11, 8th Gen - 5300 2-in-1
+$583.99,Dell,Black,32,512,15.6,Refurbished,No Graphics,7,4.7,Intel,SSD,Windows11, 6th Gen - PRECISION 7520
+$514.77,HP,Silver,16,512,15.6,Refurbished,Intel UHD Graphics 620,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - 850 G6
+"$1,059.99",Dell,Silver,32,2048,15.6,Refurbished,NVIDIA Quadro T1000,10,4.5,Intel,SSD,Windows11, 9th Gen - Precision 7540
+$591.99,Dell,Black,16,512,15.6,Precision,No Graphics,7,3.6,Intel,SSD,Windows11, Core i7 - PRECISION 7510-32297
+$291.49,Dell,Black,16,256,14,Latitude,No Graphics,7,3,Intel,SSD,Windows11, I5 - 7490.i5.16.256
+$469.99,HP,Silver,16,512,15.6,Refurbished,Intel UHD Graphics 620,10,4.8,Intel,SSD,Windows11, 8th Gen - 850 G5
+$505.99,Refurbished,Silver,16,512,14,Refurbished,No Graphics,2,4.5,Intel,SSD,Windows11,Core i5-10310 - EliteBook 840 G7
+$366.99,HP,Silver,16,256,14,Refurbished,Intel UHD Graphics 620,4,4.8,Intel,SSD,Windows11, 8th Gen - 640 G4
+$309.99,Lenovo,Black,16,256,14,Refurbished,No Graphics,11,4.1,Intel,SSD,Windows11, 6th Gen - T470
+$674.99,Dell,Gray,32,512,15.6,Refurbished,Intel UHD Graphics 620,1,4,Intel,SSD,Windows11, 8th Gen - 5500
+"$1,399.99",MSI,Black,16,512,15.6,Stealth,NVIDIA GeForce RTX 4060,0,0 Reviews,Intel,SSD,Windows11, 13th Gen - STEALTH1513038
+$569.99,Dell,Black,32,1024,14,Refurbished,Intel UHD Graphics 620,19,4.3,Intel,SSD,Windows11, 8th Gen - 7400
+$809.99,Dell,Black,32,2048,14,Refurbished,Intel Iris Xe Graphics,7,4.6,Intel,SSD,Windows11, 11th Gen - 7420
+$484.99,HP,Silver,16,512,13.3,Refurbished,Intel UHD Graphics 620,13,4.8,Intel,SSD,Windows11, 8th Gen - 830 G6
+$889.99,HP,Silver,32,1024,15.6,Refurbished,NVIDIA Quadro P1000,1,5,Intel,SSD,Windows11, 8th Gen - ZBook Studio G5
+$384.99,HP,Silver,16,512,13.3,Refurbished,No Graphics,24,4.4,Intel,SSD,Windows11, 8th Gen - 830 G5
+$529.99,HP,Silver,16,512,13.3,Refurbished,Intel UHD Graphics 620,5,4.8,Intel,SSD,Windows11, 8th Gen - 830 G6
+$441.99,HP,Gray,16,256,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 840 G5
+$799.99,Dell,Silver,32,512,15.6,Refurbished,NVIDIA Quadro T1000,3,3.3,Intel,SSD,Windows11, 9th Gen - Precision 5540
+$659.99,Dell,Black,32,2048,14,Refurbished,Intel UHD Graphics 620,8,4.1,Intel,SSD,Windows11, 8th Gen - 7400
+$617.99,Dell,Gray,32,512,15.6,Refurbished,No Graphics,7,3.4,Intel,SSD,Windows11, 9th Gen - Precision 3541
+$547.99,HP,Silver,32,1024,13.3,Refurbished,Intel UHD Graphics 620,21,4.2,Intel,SSD,Windows11, 8th Gen - 830 G6
+"$1,149.99",Dell,Black,32,1024,17.3,Refurbished,NVIDIA Quadro P3200,2,3,Intel,SSD,Windows11, 8th Gen - Precision 7730
+$532.99,HP,Silver,32,1024,14,Refurbished,No Graphics,5,4.2,Intel,SSD,Windows11, 8th Gen - 840 G6
+$502.99,Dell,Black,16,512,13.3,Refurbished,Intel UHD Graphics 620,1,5,Intel,SSD,Windows11, 8th Gen - 7300
+$489.99,Dell,Black,16,512,14,Refurbished,Intel UHD Graphics 620,1,4,Intel,SSD,Windows11, 8th Gen - 7400
+$636.99,Lenovo,Silver,16,512,15.6,Refurbished,Intel UHD Graphics 620,3,3.3,Intel,SSD,Windows11, 10th Gen - ThinkBook 15 IML
+$547.99,HP,Silver,32,1024,13.3,Refurbished,Intel UHD Graphics 620,12,3.8,Intel,SSD,Windows11, 8th Gen - 830 G6
+$379.99,Dell,Gray,16,512,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 7490
+$456.99,HP,Silver,16,512,13.3,Refurbished,No Graphics,6,3.7,Intel,SSD,Windows11, 8th Gen - 830 G5
+$489.99,Dell,Black,16,512,14,Refurbished,Intel UHD Graphics 620,3,3.3,Intel,SSD,Windows11, 8th Gen - 7400
+$259.99,Dell,Black,16,256,14,Latitude,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 - DL.7490.I5.8350U.16.256.W10P
+$509.99,Lenovo,Black,16,512,14,ThinkPad,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i5 - LN.T14G3.I5.1250P.16.256.W11P
+$389.00,Lenovo,Black,16,256,14,ThinkPad,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - LN.T14G1.I5.10310U.16.256.W10P
+$419.99,Lenovo,Grey,8,512,16,Flex,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - 82R80022US
+$559.99,HP,Gray,16,512,15.6,Pavilion,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - HP.15TEG300.I71355U.16.512.11P
+$549.99,Lenovo,Silver,16,256,13.3,ThinkPad X1,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - LN.X13YG2.I5.1145G7.16.256.10P
+$384.99,HP,Silver,16,512,13.3,Refurbished,No Graphics,2,2,Intel,SSD,Windows11, 8th Gen - 830 G5
+$252.99,Acer,Gray,4,512,13.3,Chromebook,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - NX.AA5AA.004
+$499.99,Dell,Gray,16,512,15.6,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 9th Gen - 5501
+$799.99,Dell,Black,32,1024,15.6,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 9th Gen - 5501
+$378.99,HP,Silver,16,256,15.6,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 7th Gen - 850 G4
+$449.99,HP,Silver,16,512,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - 840 G6
+$999.99,Dell,Silver,16,512,14,Alienware x14,NVIDIA GeForce RTX 4050,7,3.9,Intel,SSD,Windows11, Core i7 - AWX14R2-7746SLV-PUS
+$899.99,MSI,Black,16,512,14,Cyborg,NVIDIA GeForce RTX 4060,5,5,Intel,SSD,Windows11, Core i7 - CYBORG1413018
+"$1,999.00",Apple,Black,18,512,16,MacBook Pro,No Graphics,674,4.9,Apple,SSD,Mac OS,M3 Pro chip Built for Apple - MRW13LL/A
+"$1,299.00",Apple,Gray,8,512,14,MacBook Pro,No Graphics,718,4.8,Apple,SSD,Mac OS,M3 chip Built for Apple ligence - MTL73LL/A
+"$1,399.00",Apple,Midnight,16,512,13-inch,MacBook Air,No Graphics,460,4.9,Apple,SSD,Mac OS,M3 chip Built for Apple ligence - MXCV3LL/A
+"$1,699.00",Apple,Gray,16,1024,14-inch,MacBook Pro,No Graphics,34,4.9,Apple,SSD,Mac OS,M3 chip Built for Apple ligence - MXE03LL/A
+$328.99,Lenovo,Blue,8,64eMMC,15.6,Flex,No Graphics,515,4.6,No Info,eMMC,Windows11,No Info - 82T30012US
+"$1,299.00",Apple,Midnight,8,256,15-inch,MacBook Air,No Graphics,466,4.9,Apple,SSD,Mac OS,M3 chip Built for Apple ligence - MRYU3LL/A
+"$1,099.99",HP,Silver,16,1024,14,Envy,No Graphics,276,4.8,Intel,SSD,Windows11, Core Ultra - 14-fc0023dx
+"$2,049.99",ASUS,White,32,512,16,ROG Zephyrus,No Graphics,40,4.7,No Info,SSD,Windows11,No Info - GA605WI-G16.R94070
+$999.99,Lenovo,Grey,16,512,15.6,LOQ,NVIDIA GeForce RTX 4060,40,4.5,AMD Ryzen,SSD,Windows11, 7 7435HS - 83JC0000US
+"$2,399.00",Apple,Black,16,512,16,MacBook Pro,No Graphics,326,4.8,Apple,SSD,Mac OS,M3 Pro chip Built for Apple - MRW23LL/A
+"$1,699.00",Apple,Midnight,16,512,15-inch,MacBook Air,No Graphics,309,4.8,Apple,SSD,Mac OS,M3 chip Built for Apple ligence - MXD43LL/A
+"$2,099.00",Apple,Black,18,1024,14,MacBook Pro,No Graphics,561,4.8,Apple,SSD,Mac OS,M3 Pro chip Built for Apple - MRX43LL/A
+"$2,999.00",Apple,Black,16,1024,16,MacBook Pro,No Graphics,265,4.9,Apple,SSD,Mac OS,M3 Max chip Built for Apple - MRW33LL/A
+"$1,299.00",Apple,Midnight,8,512,13-inch,MacBook Air,No Graphics,227,4.9,Apple,SSD,Mac OS,M3 chip Built for Apple ligence - MRXW3LL/A
+"$1,499.00",Apple,Gray,8,1024,14,MacBook Pro,No Graphics,145,4.8,Apple,SSD,Mac OS,M3 chip Built for Apple ligence - MTL83LL/A
+"$1,099.00",Apple,Midnight,8,256,15,MacBook Air,No Graphics,4354,4.9,Apple,SSD,Mac OS,M2 chip - MQKW3LL/A
+$429.00,Lenovo,Grey,8,128,15,Chromebook,No Graphics,13,4.5,No Info,SSD,Windows11,No Info - 82N40045US
+"$2,899.00",Apple,Black,16,1024,14,MacBook Pro,No Graphics,204,4.8,Apple,SSD,Mac OS,M3 Max chip Built for Apple - MRX53LL/A
+$799.99,Lenovo,Grey,12,512,15.6,LOQ,NVIDIA GeForce RTX 3050,36,4.6,AMD Ryzen,SSD,Windows11, 5 7235HS - 83JC0001US
+"$3,499.00",Apple,Black,16,1024,16,MacBook Pro,No Graphics,155,4.9,Apple,SSD,Mac OS,M3 Max chip Built for Apple - MUW63LL/A
+$799.99,MSI,Black,16,512,15.6,Cyborg,No Graphics,1,5,Intel,NVMe,Windows11, i7 - Cyborg 15 A13VE-218US
+$549.99,Acer,Gray,8,256,14,Chromebook,No Graphics,213,4.5,Intel,SSD,Windows11, Evo Laptop - CP714-2W-56B2
+"$1,499.00",Apple,Midnight,8,512,15-inch,MacBook Air,No Graphics,136,4.8,Apple,SSD,Mac OS,M3 chip Built for Apple ligence - MRYV3LL/A
+"$1,499.99",Acer,Black,16,1024,16,Predator Helios,NVIDIA GeForce RTX 4060,36,4.2,Intel,SSD,Windows11, Core i9 - PHN16-72-99PA
+$548.99,HP,Silver,8,256,14,Chromebook,No Graphics,387,4.6,Intel,SSD,Windows11, Core i3 - 14c-cd0053dx
+"$1,249.99",HP,Silver,32,1024,14,Envy,No Graphics,80,4.8,Intel,SSD,Windows11, Core Ultra - 14-fc0033dx
+$349.00,Lenovo,Blue,4,64eMMC,12.2,Flex,No Graphics,314,4.6,Intel,eMMC,Windows11, N100 with - 82XH0001US
+$499.00,Lenovo,Grey,8,128,14,Flex,No Graphics,284,4.3,Intel,SSD,Windows11, i3 - 83EK0000UX
+"$1,199.00",Apple,Midnight,8,512,13.6,MacBook Air,No Graphics,2434,4.9,Apple,SSD,Mac OS,M2 chip - MLY43LL/A
+$299.00,ASUS,Silver,4,64eMMC,10.5,Chromebook,No Graphics,36,4.4,MediaTek,eMMC,Windows11, Kompanio 520 - CM3001DM2A-M8186
+$499.00,HP,Silver,8,128UFS,15.6,Chromebook,No Graphics,400,4.6,Intel,UFS,Windows11, Core i3 - 15a-nb0033dx
+"$1,299.00",Apple,Midnight,8,512,15,MacBook Air,No Graphics,1685,4.9,Apple,SSD,Mac OS,M2 chip - MQKX3LL/A
+"$1,599.99",Dell,Nightshade,8,1024,16,No Model,No Graphics,20,4.4,Intel,SSD,Windows11, Core i9 - G7630-9302GRY-PUS
+"$1,699.00",Apple,Midnight,16,1024,15,MacBook Air,No Graphics,632,4.9,Apple,SSD,Mac OS,M2 chip - MQTM3LL/A
+"$1,699.99",Acer,Black,16,1024,14,Predator Helios,NVIDIA GeForce RTX 4070,3,4.3,Intel,SSD,Windows11, Core i9 - PHN16-72-91P6
+$999.99,HP,Silver,16,512,14,Envy,No Graphics,108,4.7,Intel,SSD,Windows11, Core Ultra - 14-fc0013dx
+$843.99,ASUS,Gray,16,512,17.3,No Model,NVIDIA GeForce RTX 3050,5,5,Intel,SSD,Windows11, Core i5 - FX707ZC-ES53
+$429.00,HP,Blue,4,64eMMC,14,Chromebook,No Graphics,25,4.4,Intel,eMMC,Windows11, Processor N100 - 14b-cd0013dx
+"$1,699.99",ASUS,Gray,32,1024,14,Zenbook,No Graphics,33,4,Intel,SSD,Windows11, Core Ultra - UX8406MA-PS99T
+$599.99,ASUS,Black,16,1024,14,Vivobook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core 7 - F1605VAP-DS74
+$899.99,MSI,Black,16,512,15.6,No Model,No Graphics,36,4.3,Intel,SSD,Windows11, Core i5 - THIN15131451
+"$4,559.99",Razer,Black,16,2048,18,Blade,NVIDIA GeForce RTX 4090,7,3.9,Intel,SSD,Windows11, Core i9 - RZ09-05092EP9-R3U1
+$599.00,ASUS,Gray,8,128,16,Chromebook,No Graphics,236,4.5,Intel,SSD,Windows11, Core i3 - CX5601FBA-I3128
+$699.00,Acer,Gray,8,256,14,Chromebook,No Graphics,22,4.5,Intel,SSD,Windows11, Core Ultra - CP714-1H-54UB
+$499.99,ASUS,Black,8,512,16,Vivobook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 7530U - TN3604YA-DS51T
+$234.99,HP,Black,4,32eMMC,11.6,Chromebook,No Graphics,7,5,Intel,eMMC,Windows11, Celeron  - 3V2Y2UT#ABA
+$799.99,ASUS,Black,16,512,16,Vivobook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 13th Gen - TP3604VA-DS74T
+$749.99,Geek,Midnight,8,256,13.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,59,4.4,Apple,SSD,Windows11,M2 chip - GSRF MLY33LL/A
+"$3,760.99",ASUS,Black,32,2048,16,ROG Zephyrus,NVIDIA GeForce RTX 4090,6,4,AMD Ryzen,SSD,Windows11, 9 - GX650PY-XS97
+"$2,699.99",Alienware,Silver,32,1024,14,No Model,NVIDIA GeForce RTX 4070,2,5,Intel,SSD,Windows11, Core Ultra - AW16R2-9517SLV-PUS
+"$1,799.99",ASUS,Gray,32,1024,16,ROG Strix G16,NVIDIA GeForce RTX 4060,21,4.4,Intel,SSD,Windows11, Core i9 - G614JVR-ES96
+"$4,049.99",Razer,Black,32,2048,18,Blade,NVIDIA GeForce RTX 4090,2,3,Intel,SSD,Windows11, Core i9 - RZ09-05092EK4-R3U1
+$426.99,Samsung,Silver,4,512,12.4,Chromebook,No Graphics,218,4.6,Intel,SSD,Windows11, Celeron - XE520QEA-KB1US
+"$1,034.99",ASUS,Gray,16,1024,15,TUF A15,NVIDIA GeForce RTX 4060,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 7735HS - FA507NV-EH74
+$899.99,ASUS,Silver,16,1024,17.3,Vivobook,No Graphics,3,4.7,Intel,SSD,Windows11, Core 13th - K3704VA-DH96-S
+"$3,799.99",Alienware,Moon,16,2048,14,m18 165,NVIDIA GeForce RTX 4090,0,0 Reviews,Intel,SSD,Windows11, Core i9 - BBY-3380KFX
+"$3,290.99",ASUS,Black,32,1024,16,ROG Zephyrus,NVIDIA GeForce RTX 4080,1,5,AMD Ryzen,SSD,Windows11, 9 - GX650PZ-XS96
+$929.99,Apple,Midnight,8,256,15,Geek Squad Certified Refurbished MacBook Air,No Graphics,5,4.2,Apple,SSD,Mac OS,M2 chip - GSRF MQKW3LL/A
+"$1,175.99",ASUS,Gray,16,1024,17.3,TUF Gaming A17,NVIDIA GeForce RTX 4050,5,5,AMD Ryzen,SSD,Windows11, 7 7735HS - FA707NU-DS74
+$414.99,Apple,Gold,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,111,4.4,Intel,SSD,Mac OS, Core i3 - GSRF MWTL2LL/A
+$649.99,Geek,Gray,8,256,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,116,4.4,Apple,SSD,Windows11,M1 chip - GSRF MYD82LL/A
+$699.99,Geek,Gray,8,512,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,31,4,Apple,SSD,Windows11,M1 chip - GSRF MYD92LL/A
+$429.99,Apple,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,111,4.4,Intel,SSD,Mac OS, Core i3 - GSRF MWTK2LL/A
+$609.99,Geek,Gold,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,207,4.4,Apple,SSD,Windows11,M1 chip - GSRF MGND3LL/A
+$909.99,Geek,Gray,8,256,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,8,4.4,Apple,SSD,Windows11,M2 chip - GSRF MNEH3LL/A
+$599.99,ASUS,Silver,8,512,15.6,Vivobook,No Graphics,1,4,Intel,SSD,Windows11, Core 5 - F1504VAP-ES51
+$649.00,Acer,Black,8,256,16,Chromebook,No Graphics,18,4.6,Intel,SSD,Windows11, Core 5 - CBG516-2H-59S4
+$659.99,Geek,Gray,8,512,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,36,3.9,Apple,SSD,Windows11,M1 chip - GSRF MGN73LL/A
+$879.99,Geek,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,8,4.4,Apple,SSD,Windows11,M2 chip - GSRF MNEP3LL/A
+"$1,499.99",HP,Silver,32,1024,14,OmniBook,No Graphics,15,4.8,No Info,SSD,Windows11,No Info - 14-fd0013dx
+$429.99,Apple,Gray,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,84,4.2,Intel,SSD,Mac OS, Core i5 - GSRF MVFH2LL/A
+$469.99,Apple,Gray,8,512,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,34,4.1,Intel,SSD,Mac OS, Core i5 - GSRF MVH22LL/A
+$439.99,Apple,Gold,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,84,4.2,Intel,SSD,Mac OS, Core i5 - GSRF MVFM2LL/A
+$549.99,Apple,Gray,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,50,4.1,Intel,SSD,Mac OS, Core i5 - GSRF MXK32LL/A
+$469.99,Apple,Gray,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,31,4.2,Intel,SSD,Mac OS, Core i5 - GSRF MVFJ2LL/A
+$399.99,Apple,Gray,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,111,4.4,Intel,SSD,Mac OS, Core i3 - GSRF MWTJ2LL/A
+$609.99,Geek,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,207,4.4,Apple,SSD,Windows11,M1 chip - GSRF MGN93LL/A
+"$1,689.99",HP,Silver,32,2048,14,OmniBook,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 14-fd0023dx
+$579.99,Apple,Gold,8,512,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,34,4.1,Intel,SSD,Mac OS, Core i5 - GSRF MVH52LL/A
+$699.99,Geek,Silver,8,512,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,36,3.9,Apple,SSD,Windows11,M1 chip - GSRF MGNA3LL/A
+"$1,529.99",Apple,Black,18,512,14,Refurbished,No Graphics,1,5,No Info,SSD,Mac OS,No Info - GSRF MRX33LL/A
+"$1,099.99",Apple,Midnight,8,512,15,Geek Squad Certified Refurbished MacBook Air,No Graphics,1,5,Apple,SSD,Mac OS,M2 chip - GSRF MQKX3LL/A
+$119.99,HP,Black,4,16,11.6,Chromebook,No Graphics,22,5,No Info,SSD,Windows11,No Info - Chromebook 11A G6
+$579.99,Apple,Silver,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,14,4.7,Intel,SSD,Mac OS, Core i5 - GSRF MV992LL/A
+$949.99,Geek,Midnight,8,512,13.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,9,5,Apple,SSD,Windows11,M2 chip - GSRF MLY43LL/A
+$899.99,Apple,Gray,16,1024,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,45,3.9,Intel,SSD,Mac OS, Core i9 - GSRF MVVK2LL/A
+$819.99,Geek,Silver,8,256,13.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,59,4.4,Apple,SSD,Windows11,M2 chip - GSRF MLXY3LL/A
+$489.99,Apple,Gray,8,128,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,56,4.1,Intel,SSD,Mac OS, Core i5 - GSRF MUHN2LL/A
+$429.99,Apple,Gray,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,58,4.3,Intel,Flash Storage,Mac OS, Core i5 - GSRF MRE82LL/A
+$899.99,Geek,Gray,8,512,13.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,9,5,Apple,SSD,Windows11,M2 chip - GSRF MLXX3LL/A
+$391.99,Acer,Black,4,32eMMC,11.6,Chromebook,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, Celeron with - NX.AYSAA.001
+$539.99,Apple,Gold,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,31,4.2,Intel,SSD,Mac OS, Core i5 - GSRF MVFN2LL/A
+"$1,079.99",Geek,Gray,8,512,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,4,4.8,Apple,SSD,Windows11,M2 chip - GSRF MNEJ3LL/A
+$699.99,Apple,Gray,16,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,56,4.4,Intel,SSD,Mac OS, Core i5 - GSRF MWP42LL/A
+"$3,929.99",MSI,Gray,16,2048,16,Creator 16,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - C1614074
+"$1,222.99",ASUS,Gray,16,512,16,No Model,NVIDIA GeForce RTX 4060,1,4,Intel,SSD,Windows11, Core i7 - FX607JV-ES73
+"$3,499.99",MSI,Grey,16,1024,17,Raider,No Graphics,2,5,Intel,NVMe,Windows11, i9 - Raider GE78HX 13VI-086US
+$689.99,Apple,Silver,16,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,56,4.4,Intel,SSD,Mac OS, Core i5 - GSRF MWP72LL/A
+"$1,410.99",ASUS,Gray,16,1024,17.3,TUF Gaming A17,NVIDIA GeForce RTX 4060,4,5,AMD Ryzen,SSD,Windows11, 7 7735HS - FA707NV-ES74
+"$3,594.99",Razer,Black,32,1024,18,Blade,NVIDIA GeForce RTX 4080,2,5,Intel,SSD,Windows11, Core i9 - RZ09-0509TEK3-R3U1
+$809.99,Apple,Gray,16,512,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,75,4.1,Intel,SSD,Mac OS, Core i7 - GSRF MVVJ2LL/A
+"$2,159.99",Apple,Black,16,512,16,Refurbished,No Graphics,1,1,No Info,SSD,Mac OS,No Info - GSRF MRW23LL/A
+"$2,799.99",MSI,Gray,32,1024,16,CreatorPro,No Graphics,1,5,Intel,SSD,Windows11, Core Ultra - CPRO1614090
+"$4,999.99",MSI,Gray,16,2048,16,CreatorPro,No Graphics,1,5,Intel,SSD,Windows11, Core Ultra - CPRO1614076
+"$2,299.99",ASUS,Gray,32,1024,16,ROG Zephyrus,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - GA605WI-XB96
+$479.99,Apple,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,31,4.2,Intel,SSD,Mac OS, Core i5 - GSRF MVFL2LL/A
+"$2,899.99",MSI,Gray,32,1024,16,Creator 16,No Graphics,2,4,Intel,SSD,Windows11, Core Ultra - C1614073
+"$1,099.99",ASUS,Silver,16,1024,15.6,Vivobook,No Graphics,1,5,Snapdragon,SSD,Windows11, X Elite - S5507QAD-PS96
+$499.99,Apple,Gray,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,34,4,Intel,SSD,Mac OS, Core i5 - GSRF MR9Q2LL/A
+$663.99,ASUS,Silver,8,128,14,Chromebook,No Graphics,1,4,Intel,SSD,Windows11, Core Ultra - CX5403CMA-DB588
+$839.99,Geek,Starlight,8,256,13.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,59,4.4,Apple,SSD,Windows11,M2 chip - GSRF MLY13LL/A
+$429.99,Apple,Gray,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,30,3.9,Intel,Flash Storage,Mac OS, Core i5 - GSRF MRE92LL/A
+$499.99,ASUS,Black,8,512,14,Vivobook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core 5 - F1605VAP-DS52
+$159.99,Lenovo,Grey,4,64eMMC,15.6,Refurbished,No Graphics,24,4.3,No Info,eMMC,Windows11,No Info - 82N4002HUS
+"$3,681.99",ASUS,Black,32,2048,17.3,No Model,NVIDIA GeForce RTX 4090,4,4.8,AMD Ryzen,SSD,Windows11, 9 - G733PYV-XH97
+$989.99,Apple,Gray,8,256,15,Geek Squad Certified Refurbished MacBook Air,No Graphics,5,4.2,Apple,SSD,Mac OS,M2 chip - GSRF MQKP3LL/A
+"$3,499.99",MSI,Black,16,512,16,Raider,NVIDIA GeForce RTX 4090,2,5,Intel,SSD,Windows11, Core i9 - RAIDERGE6813202
+$619.99,Apple,Silver,8,512,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,34,4.1,Intel,SSD,Mac OS, Core i5 - GSRF MVH42LL/A
+"$4,099.99",MSI,Blue,16,512,16,Stealth,No Graphics,1,4,Intel,SSD,Windows11, Core Ultra - STEALTH16A1026
+$749.99,Apple,Silver,16,512,15.4,Geek Squad Certified Refurbished MacBook Pro,No Graphics,12,3.4,Intel,SSD,Mac OS, Core i9 - GSRF MV912LL/A
+"$2,699.99",ASUS,Black,32,1024,14,Zenbook,NVIDIA GeForce RTX 4070,2,4.5,Intel,SSD,Windows11, Core i9 - UX7602VI-DH99T
+"$2,099.00",Apple,Gray,24,1024,13.3,MacBook Pro,No Graphics,255,4.8,Apple,SSD,Mac OS,M2 chip - MNEW3LL/A
+$259.99,Apple,Silver,8,128,13.3,MacBook Air,No Graphics,146,4,Intel,SSD,Mac OS, Core i5 - MQD32LL/A Silver
+"$2,099.99",ASUS,White,32,1024,16,ROG Zephyrus,No Graphics,1,3,No Info,SSD,Windows11,No Info - GA605WV-XB96
+"$1,649.99",ASUS,Off-Black,16,1024,13.4,ROG Flow,NVIDIA GeForce RTX 4060,9,4.1,AMD Ryzen,SSD,Windows11, 9 7940HS - GV302XV-CH94
+$269.99,HP,Silver,4,64eMMC,14,Chromebook,No Graphics,795,4.6,Intel,eMMC,Windows11, Celeron  - 14b-cb0033dx
+$189.99,HP,Silver,8,512,14,Chromebook,No Graphics,9,3.9,Intel,SSD,Windows11, 10th Gen - PROC640
+$499.99,Acer,Gray,8,128,14,Chromebook,No Graphics,12,4.2,Intel,SSD,Windows11, Core i3 - CBV514-1H-38VS
+$599.99,Dell,Gray,4,64eMMC,14,Latitude 3000,No Graphics,0,0 Reviews,AMD Ryzen,eMMC,Windows11, 3 - 4R2G7
+$729.99,Apple,Gray,16,512,15,Refurbished,No Graphics,15,3.2,Intel,SSD,Mac OS, Core i7 - GSRF MR942LL/A
+"$1,799.99",Apple,Black,18,512,16,Refurbished,No Graphics,0,0 Reviews,No Info,SSD,Mac OS,No Info - GSRF MRW13LL/A
+$649.99,Apple,Storage,8,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,15,3.9,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXY2LL/A
+"$1,199.99",ASUS,Gray,16,1024,14,No Model,NVIDIA GeForce RTX 4050,5,2.6,AMD Ryzen,SSD,Windows11, 7 7735HS - FA507NU-DS74
+$949.99,Apple,Starlight,8,256,15,Geek Squad Certified Refurbished MacBook Air,No Graphics,5,4.2,Apple,SSD,Mac OS,M2 chip - GSRF MQKU3LL/A
+"$1,099.99",Apple,Silver,8,512,15,Geek Squad Certified Refurbished MacBook Air,No Graphics,1,5,Apple,SSD,Mac OS,M2 chip - GSRF MQKT3LL/A
+"$1,099.99",Apple,Starlight,8,512,15,Geek Squad Certified Refurbished MacBook Air,No Graphics,1,5,Apple,SSD,Mac OS,M2 chip - GSRF MQKV3LL/A
+$499.99,Apple,Silver,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,21,4.1,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXX2LL/A
+$399.99,Apple,Storage,8,256,12,Geek Squad Certified Refurbished Macbook®,No Graphics,5,3.2,Intel,Flash Storage,Mac OS, Core M3 - GSRF MNYM2LL/A
+"$1,079.99",Apple,Gray,8,512,15,Geek Squad Certified Refurbished MacBook Air,No Graphics,1,5,Apple,SSD,Mac OS,M2 chip - GSRF MQKQ3LL/A
+$299.99,Apple,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,31,3.7,Intel,Flash Storage,Mac OS, Core i5 - GSRF MQD42LL/A
+$969.99,Geek,Starlight,8,512,13.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,9,5,Apple,SSD,Windows11,M2 chip - GSRF MLY23LL/A
+"$1,899.99",ASUS,White,16,512,16,ROG Zephyrus,No Graphics,3,1.7,No Info,SSD,Windows11,No Info - GA605WV-G16.R94060
+"$1,799.99",Acer,Silver,16,512,16,Predator Triton,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - NHQK9AA003
+$549.99,Apple,Silver,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,34,4,Intel,SSD,Mac OS, Core i5 - GSRF MR9U2LL/A
+"$1,799.99",Geek,Silver,16,512,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,15,4.5,Apple,SSD,Windows11,Apple M1 Pro chip - GSRF MK1E3LL/A
+$999.99,Apple,Silver,16,1024,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,45,3.9,Intel,SSD,Mac OS, Core i9 - GSRF MVVM2LL/A
+$989.99,Geek,Silver,16,512,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,75,4.2,Apple,SSD,Windows11,Apple M1 Pro chip - GSRF MKGR3LL/A
+$579.99,Apple,Gray,8,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,20,3.9,Intel,SSD,Mac OS, Core i5 - GSRF MXK52LL/A
+$449.99,Apple,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,30,3.9,Intel,Flash Storage,Mac OS, Core i5 - GSRF MREC2LL/A
+$699.99,Acer,Silver,8,128eMMC,14.0,Chromebook,No Graphics,1,4,AMD Ryzen,eMMC,Windows11, 5 5625C - CP514-3HH-R6VK
+"$3,099.99",MSI,Gray,16,1024,16,Creator 16,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - C1614072
+$599.99,Apple,Silver,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,50,4.1,Intel,SSD,Mac OS, Core i5 - GSRF MXK62LL/A
+$549.99,Apple,Gray,8,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,15,4.1,Intel,SSD,Mac OS, Core i5 - GSRF MR9R2LL/A
+"$1,029.99",Geek,Gray,16,512,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,15,4.5,Apple,SSD,Windows11,Apple M1 Pro chip - GSRF MK183LL/A
+"$2,999.99",MSI,Black,32,1024,17.3,Stealth,NVIDIA GeForce RTX 3080,4,2.8,Intel,SSD,Windows11, Core i7 - STEALTH7712083
+$649.99,Microsoft,Platinum,8,256,13.5,GSRF Surface,No Graphics,1,1,Intel,SSD,Windows11, Evo Platform - GSRF QZI-00001
+$859.99,Apple,Gray,16,1024,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,6,3.7,Intel,SSD,Mac OS, Core i5 - GSRF MWP52LL/A
+"$1,029.99",Dell,Gray,16,256,14,Latitude,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - 9XXJ2
+"$1,999.99",MSI,Black,32,1024,16,Stealth,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, AI 9-365 with - STEALTHA16A3X002
+"$1,889.99",Apple,Black,18,1024,14,Refurbished,No Graphics,0,0 Reviews,No Info,SSD,Mac OS,No Info - GSRF MRX43LL/A
+"$1,529.99",Apple,Silver,16,512,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M2 Pro - GSRF MPHH3LL/A
+$999.99,MSI,Silver,32,1024,14,Prestige,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - PRE14H12603
+$989.99,Apple,Silver,8,256,15,Geek Squad Certified Refurbished MacBook Air,No Graphics,5,4.2,Apple,SSD,Mac OS,M2 chip - GSRF MQKR3LL/A
+$349.99,Acer,Silver,4,64eMMC,15.6,Chromebook,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, with 4GB - NXKRNAA001
+"$4,421.99",Razer,Mercury,32,2048,18,Blade,NVIDIA GeForce RTX 4090,0,0 Reviews,Intel,SSD,Windows11, Core i9 - RZ09-05092EM4-R3U1
+"$2,078.99",Geek,Silver,32,1024,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,1,1,Apple,SSD,Windows11,Apple M1 Max chip - GSRF MK1H3LL/A
+"$3,011.99",Razer,Black,32,1024,18,Blade,NVIDIA GeForce RTX 4070,0,0 Reviews,Intel,SSD,Windows11, Core i9 - RZ09-0509SEK3-R3U1
+$329.99,Apple,Silver,8,256,13,MacBook Air,No Graphics,33,4,Intel,SSD,Mac OS, Core i5 - MQD42LL/A
+$249.00,Lenovo,Grey,4,64eMMC,15.6,Chromebook,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, Celeron  - 82N4004NUS
+"$1,124.99",Geek,Silver,8,512,13.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,9,5,Apple,SSD,Windows11,M2 chip - GSRF MLY03LL/A
+"$1,399.99",ASUS,Gray,32,1024,13.3,Zenbook,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - UX5304MA-XS76
+"$2,078.99",Geek,Gray,32,1024,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,1,1,Apple,SSD,Windows11,Apple M1 Max chip - GSRF MK1A3LL/A
+"$3,299.99",MSI,Blue,16,512,16,Stealth,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - STEALTH16A1027
+$749.99,Geek,Silver,8,512,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,4,4,Apple,SSD,Windows11,M1 chip - GSRF MYDC2LL/A
+"$1,169.99",Geek,Silver,8,512,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,4,4.8,Apple,SSD,Windows11,M2 chip - GSRF MNEQ3LL/A
+"$2,239.99",MSI,Gray,32,512,17,Vector,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 14th Gen - VECTOR17A1219
+$789.99,Apple,Gray,16,512,16,MacBook Pro,No Graphics,92,4.2,Intel,SSD,Mac OS, Core i7 - MVVJ2LL/A
+"$2,099.99",MSI,Gray,32,512,16,Vector,No Graphics,0,0 Reviews,Intel,SSD,Windows11, 14th Gen - VECTOR16HX14254
+$679.99,Geek,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,116,4.4,Apple,SSD,Windows11,M1 chip - GSRF MYDA2LL/A
+"$2,069.99",Apple,Gray,16,512,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,3,5,Apple,SSD,Mac OS,M2 Pro - GSRF MNW83LL/A
+"$1,529.99",Apple,Silver,18,512,14,Refurbished,No Graphics,1,3,No Info,SSD,Mac OS,No Info - GSRF MRX63LL/A
+$999.99,MSI,White,16,512,13.3,Prestige,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - PRE13EVO12070
+$399.99,Apple,Gold,8,128,13.3,MacBook Air,No Graphics,31,3.6,Intel,SSD,Mac OS, Core i5 - MREE2LL/A
+$649.99,Apple,Gray,16,512,13,MacBook Pro,No Graphics,22,3.9,Intel,SSD,Mac OS, Core i5 - MWP42LL/A
+$259.99,Apple,Silver,8,256,13.3,MacBook Air,No Graphics,11,4.1,Intel,Flash Storage,Mac OS, Core i5 - A1466
+$829.99,Geek,Gray,8,256,13.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,59,4.4,Apple,SSD,Windows11,M2 chip - GSRF MLXW3LL/A
+$179.99,ASUS,eMMC,4,64eMMC,11.6,Chromebook,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, Celeron N4020 - CX1101CMADB44
+$409.99,Apple,Silver,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,84,4.2,Intel,SSD,Mac OS, Core i5 - GSRF MVFK2LL/A
+$529.99,Acer,Black,8,64eMMC,12,Chromebook,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, with 8GB - NXKE4AA002
+$699.00,Geek,Gold,8,512,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,36,3.9,Apple,SSD,Windows11,M1 chip - GSRF MGNE3LL/A
+"$1,799.99",Geek,Silver,16,1024,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,21,2.9,Apple,SSD,Windows11,Apple M1 Pro chip - GSRF MKGT3LL/A
+$429.99,Apple,Gray,8,256,13,MacBook Air,No Graphics,21,4,Intel,SSD,Mac OS, 8th Gen - MRE92LL/A
+$535.99,Dell,Gray,16,512,14,Refurbished,No Graphics,2,5,Intel,SSD,Windows11, Core i7 - 7490
+"$2,510.99",Apple,Gray,32,1024,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,1,1,Apple,SSD,Mac OS,M2 Max - GSRF MPHG3LL/A
+"$1,799.99",Apple,Silver,18,512,16,Refurbished,No Graphics,0,0 Reviews,No Info,SSD,Mac OS,No Info - GSRF MRW43LL/A
+"$2,428.99",Apple,Silver,16,1024,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,4,3,Apple,SSD,Mac OS,M2 Pro - GSRF MNWD3LL/A
+$799.99,MSI,Gray,8,512,14,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - MODERN14B1024
+"$1,169.99",Apple,Silver,8,512,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M3 chip - GSRF MR7J3LL/A
+$309.99,Dell,Black,16,256,14,Refurbished,No Graphics,1,5,Intel,SSD,Windows11, 7th Gen - 5480
+$329.99,HP,Silver,8,256,14,Elitebook,No Graphics,3,4.3,Intel,SSD,Windows11, i5 - X360.1040.G6.Pro
+"$1,169.99",Apple,Gray,8,512,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M3 chip - GSRF MTL73LL/A
+$499.99,Apple,Gray,8,512,12,No Model,No Graphics,2,5,Intel,Flash Storage,Mac OS, Core i5 - GSRF MNYG2LL/A
+"$1,079.00",Microsoft,Platinum,4,128,13.5,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - GSRF JRR-00001
+$234.99,Apple,Silver,4,128,13.3,MacBook Air,No Graphics,93,4,Intel,Flash Storage,Mac OS, Core i5 - MJVE2LL/A
+$899.99,Apple,Silver,16,512,15,Geek Squad Certified Refurbished MacBook Pro,No Graphics,16,4.3,Intel,Flash Storage,Mac OS, Core i7 - GSRF MPTV2LL/A
+$519.99,Apple,Gold,8,512,12,Geek Squad Certified Refurbished Macbook®,No Graphics,2,5,Intel,Flash Storage,Mac OS, Core i5 - GSRF MNYL2LL/A
+$359.99,Apple,Gray,8,256,12,Refurbished,No Graphics,4,4,Intel,Flash Storage,Mac OS, Core M3 - GSRF MNYF2LL/A
+$499.99,Apple,Gold,8,512,12,No Model,No Graphics,2,5,Intel,Flash Storage,Mac OS, Core i5 - GSRF MNYN2LL/A
+$559.00,Acer,Green,8,64eMMC,14,Chromebook,No Graphics,20,4.2,AMD Ryzen,eMMC,Windows11, 3 3250C - CP514-1H-R0VX
+$649.99,Apple,Silver,16,512,13,MacBook Pro,No Graphics,6,3.2,Intel,SSD,Mac OS, Core i5 - MWP72LL/A
+$438.99,Dell,Drive,8,256,14,Latitude,No Graphics,7,3.9,Intel,SSD,Windows11, Core i5 - E7470.i5.8.256.Pro
+$229.99,Apple,Silver,8,128,13-inch,MacBook Air,No Graphics,16,3.7,No Info,SSD,Mac OS,No Info - A1466
+$349.99,Dell,Black,16,256,14,Refurbished,No Graphics,7,3.6,Intel,SSD,Windows11, Core i5 - BB5-32868
+$389.99,Apple,Silver,8,256,13.3,MacBook Pro,No Graphics,4,3.5,Intel,SSD,Mac OS, Core i5 - MPXU2LL/A SILVER CRB
+"$1,349.99",Apple,Silver,8,1024,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M3 chip - GSRF MR7K3LL/A
+"$1,099.99",Geek,Silver,8,512,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,31,4,Apple,SSD,Windows11,M1 chip - GSRF MYDC2LL/A
+$509.99,Apple,Gold,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,58,4.3,Intel,Flash Storage,Mac OS, Core i5 - GSRF MREE2LL/A
+"$2,024.99",Apple,Silver,16,1024,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M2 Pro - GSRF MPHJ3LL/A
+"$2,834.99",Apple,Silver,32,1024,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M2 Max - GSRF MNWE3LL/A
+$399.99,Apple,Silver,8,128,13.3,MacBook Air,No Graphics,31,3.6,Intel,SSD,Mac OS, Core i5 - MREA2LL/A
+$549.99,Apple,Silver,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,47,4.4,Intel,SSD,Mac OS, Core i5 - GSRF MUHR2LL/A
+"$1,489.99",Apple,Silver,16,1024,14,MacBook Pro,No Graphics,2,2.5,Apple,SSD,Mac OS,M1 Pro - MKGT3LL/A
+"$1,349.99",Apple,Gray,8,1024,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M3 chip - GSRF MTL83LL/A
+$569.99,Apple,Silver,8,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,20,3.9,Intel,SSD,Mac OS, Core i5 - GSRF MXK72LL/A
+$249.99,Apple,Silver,8,128,13.3,MacBook Air,No Graphics,87,4.3,Intel,Flash Storage,Mac OS, Core i5 - MMGF2LL/A
+$459.99,Apple,Gold,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,30,3.9,Intel,Flash Storage,Mac OS, Core i5 - GSRF MREF2LL/A
+$449.99,Apple,Silver,8,128,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,56,4.1,Intel,SSD,Mac OS, Core i5 - GSRF MUHQ2LL/A
+"$2,024.99",Apple,Gray,16,1024,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M2 Pro - GSRF MPHF3LL/A
+$499.99,Apple,Silver,8,512,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,8,3.5,Intel,SSD,Mac OS, Core i7 - GSRF Z0UU1LL/A
+"$2,834.99",Apple,Gray,32,1024,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M2 Max - GSRF MNWA3LL/A
+$362.99,ASUS,Silver,8,64eMMC,14,Chromebook,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, Celeron N4500 - CX1400CKADB84F
+$699.99,Apple,Silver,16,256,15,Refurbished,No Graphics,22,3.8,Intel,SSD,Mac OS, Core i7 - GSRF MR962LL/A
+"$1,199.99",Apple,Drive,16,512,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - GSRF MVH62LL/A
+$879.99,Apple,Silver,16,1024,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,6,3.7,Intel,SSD,Mac OS, Core i5 - GSRF MWP82LL/A
+$829.99,Apple,Silver,16,512,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,75,4.1,Intel,SSD,Mac OS, Core i7 - GSRF MVVL2LL/A
+$399.99,Apple,Gray,8,128,13.3,MacBook Air,No Graphics,31,3.6,Intel,SSD,Mac OS, Core i5 - MRE82LL/A
+$629.99,Apple,Gray,16,256,15,Refurbished,No Graphics,22,3.8,Intel,SSD,Mac OS, Core i7 - GSRF MR932LL/A
+$339.99,Apple,Silver,28,512,13.3,MacBook Pro,No Graphics,27,3.3,No Info,SSD,Mac OS,No Info - A1708
+"$1,199.99",Apple,Silver,16,512,15.4,Refurbished,No Graphics,2,3,Intel,SSD,Mac OS, Core i9 - GSRF MV932LL/A
+"$1,799.99",Apple,Silver,16,512,16-Inch,MacBook Pro,No Graphics,1,4,Apple,SSD,Mac OS,M2 Pro - MNWC3LL/A
+"$1,489.99",Apple,Gray,16,1024,14,MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M1 Pro - MKGQ3LL/A
+$599.99,Apple,Silver,8,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,9,3.3,Intel,SSD,Mac OS, Core i5 - GSRF MV9A2LL/A
+"$3,199.00",Apple,Black,16,1024,14,Refurbished,No Graphics,0,0 Reviews,No Info,SSD,Mac OS,No Info - GSRF MRX53LL/A
+$539.99,Apple,Gray,8,256,13,MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, 8th Gen - MXK32LL/A
+"$1,519.99",Apple,Gray,16,512,14-Inch,MacBook Pro,No Graphics,1,5,Apple,SSD,Mac OS,M2 Pro - MPHE3LL/A
+$369.99,Apple,Silver,8,128,13.3,MacBook Pro,No Graphics,14,4,Intel,SSD,Mac OS, Core i5 - MPXR2LL/A
+$989.99,Apple,Silver,4,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - TI-GSRF MD761LL/A
+$809.99,Apple,Silver,4,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - TI-GSRF MD760LL/A
+"$1,299.99",Apple,Gray,16,512,14,MacBook Pro,No Graphics,5,4.4,Apple,SSD,Mac OS,M1 Pro - MKGP3LL/A
+"$1,799.99",Apple,Gray,16,512,16-Inch,MacBook Pro,No Graphics,1,4,Apple,SSD,Mac OS,M2 Pro - MNW83LL/A
+$599.99,Apple,Gray,16,256,15.4,Geek Squad Certified Refurbished MacBook Pro,No Graphics,13,3.9,Intel,SSD,Mac OS, Core i7 - GSRF MV902LL/A
+$779.99,Apple,Gray,28,512,13.3,MacBook Air,No Graphics,0,0 Reviews,No Info,SSD,Mac OS,No Info - A2337
+$899.99,Apple,Silver,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,21,4.1,Intel,SSD,Mac OS, Core i5 - TI-GSRF MPXU2LL/A
+$779.99,Apple,Silver,16,256,15,Geek Squad Certified Refurbished MacBook Pro,No Graphics,9,2.3,Intel,Flash Storage,Mac OS, Core i7 - GSRF MPTU2LL/A
+$609.99,Apple,Silver,8,256,13,MacBook Pro,No Graphics,2,3.5,Intel,SSD,Mac OS, 8th Gen - MXK62LL/A
+$549.99,Apple,Gray,8,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,9,3.3,Intel,SSD,Mac OS, Core i5 - GSRF MV972LL/A
+$569.99,Apple,Gray,8,256,13.3,MacBook Pro,No Graphics,2,4.5,Intel,SSD,Mac OS, Core i5 - MR9Q2LL/A
+$579.99,Apple,Gray,8,256,13.3,MacBook Pro,No Graphics,4,3.5,Intel,SSD,Mac OS, Core i5 - MPXT2LL/A GRAY CRB
+$459.99,Apple,Silver,8,256,13,MacBook Air,No Graphics,4,5,Intel,SSD,Mac OS, 8th Gen - MREC2LL/A
+$779.99,Apple,Gray,32,256,15.4,MacBook Pro,No Graphics,4,4,Intel,SSD,Mac OS, 9th Gen - MV902LL/A-32GB
+"$1,449.99",Apple,Gray,16,512,16,MacBook Pro,No Graphics,4,3.5,Apple,SSD,Mac OS,M1 Pro - MK183LL/A
+$379.99,Apple,Gray,8,128,13.3,MacBook Pro,No Graphics,27,3.3,Intel,SSD,Mac OS, Core i5 - MPXQ2LL/A GRAY CRB
+"$1,599.99",Apple,Gray,16,1024,16,MacBook Pro,No Graphics,4,3.3,Apple,SSD,Mac OS,M1 Pro - MK193LL/A
+$999.99,Apple,Silver,16,512,15,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i7 - GSRF MR972LL/A
+$779.99,Apple,Gray,16,512,15,MacBook Pro,No Graphics,2,4,Intel,SSD,Mac OS, 8th Gen - MV912LL/A
+"$1,299.99",Apple,Silver,16,512,14,MacBook Pro,No Graphics,4,4,Apple,SSD,Mac OS,M1 Pro - MKGR3LL/A
+$999.99,Apple,Silver,16,1024,16,MacBook Pro,No Graphics,42,3.8,Intel,SSD,Mac OS, Core i9 - MVVM2LL/A
+$689.99,Apple,Gray,16,256,15,MacBook Pro,No Graphics,3,3.7,Intel,SSD,Mac OS, 9th Gen - MV902LL/A
+$529.99,Apple,Gray,8,512,13.3,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - MR9R2LL/A
+$789.99,Apple,Silver,16,512,16,MacBook Pro,No Graphics,92,4.2,Intel,SSD,Mac OS, Core i7 - MVVL2LL/A
+$999.99,Apple,Gray,16,1024,16,MacBook Pro,No Graphics,42,3.8,Intel,SSD,Mac OS, Core i9 - MVVK2LL/A
+$309.99,Apple,Silver,8,128,13.3,MacBook Air,No Graphics,112,4.3,Intel,SSD,Mac OS, Core i5 - MQD32LL/A
+"$1,599.99",Apple,Silver,16,1024,16,MacBook Pro,No Graphics,1,4,Apple,SSD,Mac OS,M1 Pro - MK1F3LL/A
+$379.99,Apple,Silver,8,256,13.3,MacBook Pro,No Graphics,33,4,Intel,SSD,Mac OS, Core i5 - MPXU2LL/A
+$279.99,Apple,Silver,8,256,13.3,MacBook Air,No Graphics,37,4.3,Intel,Flash Storage,Mac OS, Core i5 - MMGG2LL/A
+$479.99,Apple,Silver,8,256,13.3,MacBook Air,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - MVFK2LL/A
+"$1,799.99",Apple,Silver,8,256,15.4,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,No Info,Flash Storage,Mac OS,No Info - TI-GSRF ME293LL/A
+$957.99,Lenovo,Black,32,1024,15.6,Refurbished,NVIDIA Quadro P1000,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - P52
+$569.99,Apple,Gray,8,256,13.3,MacBook Air,No Graphics,12,4.4,Intel,SSD,Mac OS, Core i3 - MWTJ2LL/A Gray
+"$1,199.99",Apple,Silver,4,128,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,No Info,Flash Storage,Mac OS,No Info - TI-GSRF ME864LL/A
+"$1,099.99",Apple,Gray,16,1024,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i7 - GSRF MV982LL/A
+$979.99,Apple,Gray,8,256,13,Refurbished,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core i5 - 3PL GSRF MLH12LL/A
+$389.99,Apple,Gray,16,512,13.3,MacBook Pro,No Graphics,10,2.6,Intel,SSD,Mac OS, Core i5 - MPXQ2LL/A
+$809.99,Apple,Gray,16,1024,13,MacBook Pro,No Graphics,14,3.6,Intel,SSD,Mac OS, Core i5 - MWP52LL/A
+No price available,ASUS,Black,16,1024,14,Vivobook,No Graphics,4,4,Intel,SSD,Windows11, EVO Edition - S5606MA-DS96
+No price available,Lenovo,Grey,16,1024,14.5,Legion,NVIDIA GeForce RTX 4060,286,4.7,AMD Ryzen,SSD,Windows11, 7 7840HS - 82Y5000AUS
+No price available,ASUS,Black,8,256,14,Vivobook,No Graphics,24,4.3,AMD Ryzen,SSD,Windows11, 3 7320U - E1404FA-BB33
+No price available,Razer,Black,16,4096,16,Blade,NVIDIA GeForce RTX 4090,0,0 Reviews,Intel,SSD,Windows11, 24 - RZ09-05102EN9-R3U1
+No price available,Dell,Blue,16,512,16.0,Inspiron,No Graphics,524,4.6,AMD Ryzen,SSD,Windows11, 5 7530U - i7635-A503BLU-PUS
+No price available,Lenovo,Grey,16,1024,16,No Model,No Graphics,60,4.4,Intel,SSD,Windows11, Core i7 - 82VB0002US
+No price available,ASUS,Gray,16,1024,16,Vivobook,NVIDIA GeForce RTX 4060,13,4.3,Intel,SSD,Windows11, 13 Gen - K6604JV-ES94
+No price available,ASUS,Blue,16,1024,14,Zenbook,NVIDIA GeForce RTX 3070,31,4.6,Intel,SSD,Windows11, Core i7 - UX582ZW-AB76T
+No price available,ASUS,Black,16,1024,16,ProArt Studiobook,NVIDIA GeForce RTX 4060,12,4.7,Intel,SSD,Windows11, 13 Gen - H7604JV-PS94T
+No price available,ASUS,Gray,16,1024,16,Vivobook,NVIDIA GeForce RTX 4070,39,4.5,Intel,SSD,Windows11, 13 Gen - K6604JI-ES96
+No price available,HP,Silver,16,512,14,Victus,No Graphics,2,5,Intel,SSD,Windows11, Core i7 - 16-R0010nr
+No price available,Razer,Black,16,1024,14,Blade,NVIDIA GeForce RTX 4070,15,4.4,AMD Ryzen,SSD,Windows11, 9 7940HS - RZ09-0482XEH3-R3U1
+No price available,Razer,Black,16,1024,14,Blade,NVIDIA GeForce RTX 4060,5,4.8,AMD Ryzen,SSD,Windows11, 9 7940HS - RZ09-0482VEH3-R3U1
+No price available,Razer,Black,16,1024,14,Blade,NVIDIA GeForce RTX 4060,7,4.9,Intel,SSD,Windows11, 24 - RZ09-0483REH3-R3U1
+No price available,Razer,Black,32,2048,14,Blade,NVIDIA GeForce RTX 4090,39,3.5,Intel,SSD,Windows11, i9 HX - RZ09-0483UEJ4-R3U1
+No price available,Razer,Mercury,16,1024,14,Blade,NVIDIA GeForce RTX 3070,51,4.2,AMD Ryzen,SSD,Windows11, 9 6900HX - RZ09-0427NEM3-R3U1
+No price available,HP,Black,16,512,17.3,OMEN,NVIDIA GeForce RTX 4060,4,5,Intel,SSD,Windows11, Core i7 - 17-CM2010nr
+No price available,Razer,Black,16,1024,17.3,Blade,NVIDIA GeForce RTX 3070,13,4.5,Intel,SSD,Windows11, Core i9 - RZ09-0423QED3-R3U1
+No price available,Razer,Black,32,1024,15.6,Blade,NVIDIA GeForce RTX 3080,7,3.4,Intel,SSD,Windows11, Core i7 - RZ09-0421PEC3-R3U1
+No price available,Razer,Mercury,32,1024,16,Blade,NVIDIA GeForce RTX 4080,5,3.6,Intel,SSD,Windows11, i9 HX - RZ09-0483TEM3-R3U1
+No price available,GIGABYTE,Silver,16,2048,16,No Model,No Graphics,5,3.4,Intel,SSD,Windows11, i7 - AERO 16 XE4-73US918HP
+$166.99,HP,Blue,8,256,14,Pavilion,No Graphics,775,4.5,Intel,SSD,Windows11, Core i3 - 14-ek0013dx
+$219.99,Microsoft,(Metal),16,512,15,No Model,No Graphics,209,4.8,Intel,SSD,Windows11, Evo Platform - RIP-00026
+$396.99,Samsung,Graphite,16,1024,15.6,Galaxy Book3 360,No Graphics,722,4.7,Intel,SSD,Windows11, 13th Gen - NP750QFG-KA1US
+$524.99,ASUS,Blue,12,512,16,Vivobook,No Graphics,1365,4.7,AMD Ryzen,SSD,Windows11, 7 5800HS - M1603QA-R712512
+$699.99,Lenovo,Gray,16,512,14,ThinkBook,No Graphics,2,5,AMD Ryzen,SSD,Windows11, 7 - 21KJ000EUS
+"$1,099.99",ASUS,Gray,16,512,16,ROG Zephyrus,NVIDIA GeForce RTX 4060,631,4.5,Intel,SSD,Windows11, 13th Gen - GU603VV-G16.I74060
+$313.99,Dell,Sky,32,1024,13.4,XPS,Intel Iris Xe Graphics,269,4.5,Intel,SSD,Windows11, Evo i7 - XPS9315-7725SKY-PUS
+"$1,299.99",GIGABYTE,Black,32,1024,16,Gaming Laptop IPS,NVIDIA GeForce RTX 4060,29,4.8,Intel,SSD,Windows11, i7 - G6X 9KG-43US864SH
+$249.99,HP,Silver,4,64eMMC,14,No Model,No Graphics,16,3.8,Intel,eMMC,Windows11, Celeron with - 47X83UA#ABA
+"$1,223.99",Lenovo,Grey,16,512,16,Legion,NVIDIA GeForce RTX 4060,302,4.6,AMD Ryzen,SSD,Windows11, 7 7840HS - 82Y9000PUS
+"$1,147.99",Lenovo,Oatmeal,16,512,14,Yoga,No Graphics,513,4.6,Intel,SSD,Windows11, Evo Platform - 83B1001WUS
+"$1,754.99",ASUS,Black,16,1024,16,ROG Zephyrus,NVIDIA GeForce RTX 4070,1205,4.5,Intel,SSD,Windows11, 13th Gen - GU604VI-M16.I94070
+$749.99,Lenovo,Gray,16,1024,16,No Model,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 83DD002QUS
+"$1,089.99",Dell,Silver,16,512,15.6,Latitude 5000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - VFR3R
+$799.99,Dell,Blue,16,1024,16.0,Inspiron,No Graphics,139,4.8,AMD Ryzen,SSD,Windows11, 7 7730U - i7635-A497BLU-PUS
+$849.99,Dell,Silver,16,1024,14.0,Inspiron,No Graphics,1766,4.7,Intel,SSD,Windows11, Core i7 - i7430-7374SLV-PUS
+$759.99,Lenovo,Gray,16,512,16,ThinkBook,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21KH000AUS
+$700.99,Lenovo,Teal,16,512,13.3,Yoga,No Graphics,259,4.7,AMD Ryzen,SSD,Windows11, 7 7730U - 83B2001TUS
+"$1,759.00",MSI,Black,32,1024,16,Summit,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - SUM16EVO14024
+"$2,564.99",Razer,Black,32,1024,14,Blade,NVIDIA GeForce RTX 4070,3,5,AMD Ryzen,SSD,Windows11, 9 8945HS - RZ09-05081ED3-R3U1
+"$1,378.99",Dell,Silver,16,2048,17.3,Precision,No Graphics,4,5,Intel,SSD,Windows11, 9th Gen - Precision 7740
+"$2,199.99",Dell,Silver,32,1024,15.6,XPS,NVIDIA GeForce RTX 4060,165,4.5,Intel,SSD,Windows11, Evo i9 - XPS9530-9565SLV-PUS
+$700.99,Lenovo,Black,8,256,13.3,ThinkPad,No Graphics,4,3.5,Intel,SSD,Windows11,Core i5-1335 - 21FJS05V00
+"$1,299.99",Microsoft,(Metal),16,512,13.5,No Model,No Graphics,206,4.7,Intel,SSD,Windows11, Evo Platform - RBG-00062
+$750.99,Acer,Black,12,512PCIe,17.3,No Model,NVIDIA GeForce RTX 3050,242,4.4,Intel,PCIe,Windows11, Core i5 - AN517-55-5354
+$639.99,Lenovo,Black,8,256,14,ThinkPad,No Graphics,3,4.7,AMD Ryzen,SSD,Windows11, 5 - 21JR001QUS
+"$2,699.99",MSI,Black,32,2048,17.3,Stealth,NVIDIA GeForce RTX 4080,37,4.1,Intel,SSD,Windows11, Core i9 - STEALTH1713008
+$919.99,Lenovo,Gray,16,256,14,ThinkPad,No Graphics,1,5,Intel,SSD,Windows11, Core i5 - 21JK0051US
+"$1,319.99",Samsung,Silver,16,1024,15.6,Galaxy Book2 Pro,No Graphics,1014,4.6,Intel,SSD,Windows11, 12th Gen - NP950QED-KB1US
+$599.99,HP,Silver,8,512,17.3,No Model,No Graphics,48,4.7,Intel,SSD,Windows11, Pentium Silver - 17-CN0076nr
+"$1,499.99",HP,Black,16,512,13.5,Spectre,No Graphics,436,4.7,Intel,SSD,Windows11, Core i7 - 14-ef2013dx
+"$2,299.99",MSI,Gray,32,2048,16,Prestige,NVIDIA GeForce RTX 4070,4,4,Intel,SSD,Windows11, Evo Edition - PRE16STU14019
+"$1,039.99",Acer,Blue,16,512,14,TravelMate,No Graphics,1,5,Intel,SSD,Windows11, Core i5 - NX.VP4AA.00B
+$899.99,Microsoft,Platinum,16,512,14.4,GSRF Surface,NVIDIA GeForce RTX 3050,2,3.5,Intel,SSD,Windows11, Core i7 - GSRF A1Y-00001
+$599.99,Microsoft,Platinum,16,256,14.4,GSRF Surface,No Graphics,9,3,Intel,SSD,Windows11, Core i5 - GSRF THR-00001
+$776.99,Dell,Black,32,1024,17.3,Precision,No Graphics,11,3.7,Intel,SSD,Windows11, Core i7 - PRECISION 7710-32304
+$399.99,HP,Gray,32,512,14,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, i7 - HP.15UG6.I7.8665U.32.512.W10P
+"$1,729.99",Dell,Gray,16,256,14,Latitude 7000,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 4H3CC
+"$2,449.99",Dell,Gray,32,512,14,Precision,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 6223J
+$639.99,Lenovo,Grey,8,256,14,ThinkBook 14 G7,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - 21MV0008US
+$409.99,Microsoft,Sandstone,8,128,12.4,Refurbished,No Graphics,5,4,Intel,SSD,Windows11, Core i5 - GSRF THH-00035
+$849.99,Dell,Black,32,512,14,Latitude,No Graphics,2,5,Intel,SSD,Windows11, 12th Gen - 7430
+$799.99,Dell,Gray,16,512,14.0,Inspiron,No Graphics,0,0 Reviews,Snapdragon,SSD,Windows11, X Plus - i5441-SX8027GRY-PUS
+"$1,569.99",HP,Silver,16,512,14,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A14RXUT#ABA
+"$1,969.99",Lenovo,Black,16,1024,14,ThinkPad T14s,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - 21LS004BUS
+$339.99,Microsoft,eMMC,4,64eMMC,12.4,Refurbished,No Graphics,1,1,Intel,eMMC,Windows11, Core i5 - GSRF 1ZO-00001
+"$1,319.99",HP,Silver,16,256,14,EliteBook 640,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A1NQ1UT#ABA
+"$1,189.99",HP,Gray,16,512,14,No Model,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - A1WB7UT#ABA
+"$1,819.99",HP,Silver,16,512,14,No Model,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A29XPUT#ABA
+"$1,139.99",HP,Gray,16,512,14,No Model,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - A1WB4UT#ABA
+$909.99,HP,Silver,16,512,15.6,ProBook,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - 7P3B4UT#ABA
+"$3,299.99",Dell,Gray,32,1024,16.3,XPS,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - 6CVC6
+$572.99,Refurbished,Black,16,512,14,Refurbished,No Graphics,6,5,Intel,SSD,Windows11,Core i7-8650 - ThinkPad T480
+"$1,499.99",HP,Silver,16,512,13.3,Elite x360 830 G11,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - A14RMUT#ABA
+$556.99,Lenovo,Blue,12,256,15.6,Refurbished,No Graphics,1,5,Intel,SSD,Windows11, Core i7 - GSRF 81JS005CUS
+$249.99,Microsoft,Platinum,4,64eMMC,12.4,GSRF Surface,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, 10th Generation - GSRF PG1-00001
+$635.99,Lenovo,Black,16,500,14,Refurbished,No Graphics,2,5,Intel,SSD,Windows11, Core i7 - X1 Carbon
+$445.99,Microsoft,Platinum,8,128,13.5,GSRF Surface,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - GSRF 5M8-00001/5M8-00022
+$647.12,Lenovo,Black,16,500,14,Refurbished,No Graphics,6,4,Intel,SSD,Windows11, Core i7 - X1 Carbon
+"$1,079.99",Microsoft,Black,16,512,13.5,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Evo Platform - GSRF RBG-00026
+$859.99,Microsoft,Blue,16,256,13.5,GSRF Surface,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - GSRF 7IP-00051/7IP-00124
+"$1,007.99",Dell,Black,16,512,15.6,Refurbished,No Graphics,1,3,Intel,SSD,Windows11, Core i7 - GSRF I7586-7205BLK-PUS
+"$1,349.99",Microsoft,Black,16,512,15,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF 5IM-00001
+$345.99,Lenovo,Black,16,512,14,ThinkPad,No Graphics,20,4,Intel,SSD,Windows11, Core i5 - BB5-32877
+"$1,999.99",Lenovo,Black,16,512,16.0,ThinkPad,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - 21DC003BUS
+"$1,799.99",Razer,Pink,16,512,15.6,Refurbished,NVIDIA GeForce RTX 2060,2,5,Intel,SSD,Windows11, Core i7 - GSRF RZ09-03006EQ2-R3U1
+$719.31,HP,Silver,32,2048,14,Refurbished,Intel UHD Graphics 620,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - 840 G6
+$599.99,HP,Silver,8,256,13.3,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - GSRF 13M-BD0063DX
+"$1,187.99",HP,Silver,16,256,14,Refurbished,No Graphics,0,0 Reviews,No Info,SSD,Windows11,No Info - GSRF 14-EB0010NR
+$799.99,MSI,Black,16,1024,15.6,Refurbished,No Graphics,0,0 Reviews,Intel,HDD,Windows11, Core i7 - GSRF GS63 STEALTH-010
+"$1,475.99",Alienware,Silver,16,1024,17.3,Refurbished,No Graphics,0,0 Reviews,Intel,HDD,Windows11, Core i7 - GSRF AW17R4-7001SLV-PUS
+$259.99,Lenovo,Gray,4,500,15.6,Refurbished,No Graphics,2,3,Intel,Hard Drive,Windows11, Celeron  - GSRF 81D1003TUS
+$611.99,LG,White,8,256,13,No Model,No Graphics,0,0 Reviews,No Info,NVMe,Windows11,No Info - GSRF 13U70P-G.ARW5U1
+$799.99,Dell,Gray,8,2048,15.6,Refurbished,No Graphics,3,3.7,Intel,Hard Drive,Windows11, Core i5 - GSRF I7573-5104GRY-PUS
+"$2,519.99",Razer,White,32,1024,15.6,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF RZ09-03135EM3-R3U1
+$651.99,HP,Silver,32,1024,14,Refurbished,Intel UHD Graphics 620,2,4.5,Intel,SSD,Windows11, 8th Gen - 840 G6
+"$2,249.99",Microsoft,Black,32,1024,15,Refurbished,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 7 - GSRF VFP-00001
+"$1,629.99",Microsoft,Black,16,1024,13.5,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF VGL-00001
+$647.12,Dell,Black,32,1024,15.6,Precision,No Graphics,10,3.8,Intel,SSD,Windows11, 6th Gen - Precision 3520
+"$1,599.99",Microsoft,Platinum,16,512,13.5,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF VGS-00001
+$152.99,Thomson,White,4,64eMMC,10.1,Refurbished,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, Atom  - GSRF WWNEO10A4WH64
+$197.99,Thomson,Black,4,64eMMC,14.1,Refurbished,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, Celeron  - GSRF WWNEO14C4BK64
+$152.99,Thomson,Black,4,64eMMC,10.1,Refurbished,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, Atom  - GSRF WWNEO10A4BK64
+$197.99,Thomson,Pink,4,64eMMC,14.1,Refurbished,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, Celeron  - GSRF WWNEO14C4PK64
+"$1,439.99",Geek,SSD,16,256,13.4,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF RZ09-03571EM1-R3U1
+$224.99,Thomson,Tungstene,4,64eMMC,14.1,Refurbished,No Graphics,0,0 Reviews,Intel,eMMC,Windows11, Celeron  - GSRF WWX14C4T64
+"$1,223.99",ASUS,Gray,16,1024,15.6,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF Q546FD-BI7T14
+"$1,529.99",LG,Black,16,1024,16,gram,No Graphics,0,0 Reviews,Intel,NVMe,Windows11, Evo Platform - GSRF 16Z90P-K.AAB8U1
+"$1,241.99",HP,Black,8,256,15.6,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF V1P80UT
+"$1,799.99",Razer,White,16,512,13.4,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF RZ09-03571EM2-R3U1
+"$1,799.99",Razer,Black,16,512,13.3,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF RZ09-03272E82-R3U1
+"$1,279.99",Microsoft,Sandstone,16,256,13.5,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF VEF-00064
+"$1,599.99",Razer,Aluminum,16,512,13.3,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF RZ09-01964E32-R3U1
+"$1,599.99",Razer,Black,16,512,12.5,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF RZ09-01962E52-R3U1
+$583.99,HP,Silver,16,512,14,Refurbished,Intel UHD Graphics 620,0,0 Reviews,Intel,SSD,Windows11, 8th Gen - 840 G6
+"$2,399.99",Microsoft,Platinum,32,1024,14,Refurbished,No Graphics,1,1,Intel,SSD,Windows11, Core i7 - GSRF SMV-00001
+$119.99,Apple,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,1,5,Intel,Flash Storage,Mac OS, Core i5 - 3PL GSRF MMGG2LL/A
+$129.99,Apple,Silver,4,500,15.4,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,HDD,Mac OS, Core i7 - GSRF MD103LL/A
+$509.99,MacBook,Gray,8,256,13.3,MacBook Air,No Graphics,4869,4.9,Apple,SSD,Windows11,M1 chip - MGN63LL/A
+$969.99,Geek,Gray,16,512,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,75,4.2,Apple,SSD,Windows11,Apple M1 Pro chip - GSRF MKGP3LL/A
+"$1,179.99",Dell,Gray,16,512,15.6,Latitude,No Graphics,4,4.3,Intel,SSD,Windows11, Core i7 - TDKWD
+$999.99,Geek,Gray,16,1024,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,21,2.9,Apple,SSD,Windows11,Apple M1 Pro chip - GSRF MKGQ3LL/A
+"$2,599.99",MSI,Blue,16,512,16,Stealth,No Graphics,2,3.5,Intel,SSD,Windows11, Core Ultra - STEALTH16A1036
+"$1,109.99",Geek,Gray,16,1024,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,19,3.8,Apple,SSD,Windows11,Apple M1 Pro chip - GSRF MK193LL/A
+$199.99,ASUS,Grey,4,64eMMC,17.3,Chromebook,No Graphics,343,4.6,Intel,eMMC,Windows11, Celeron N4500 - CX1700CK-CL464
+$255.99,Samsung,Titan,4,64eMMC,15.6,Chromebook,No Graphics,301,4.6,Intel,eMMC,Windows11, Celeron  - XE350XBA-K02US
+"$2,599.99",Alienware,Moon,16,2048,16,No Model,NVIDIA GeForce RTX 4070,0,0 Reviews,Intel,SSD,Windows11, Core Ultra - BBY-0NCW5FX
+"$2,199.99",Apple,Aluminum,16,512,14,Refurbished,No Graphics,0,0 Reviews,No Info,SSD,Mac OS,No Info - TI-GSRF MC975LL/A
+"$1,410.99",ASUS,Gray,16,1024,16,ROG Strix G16,NVIDIA GeForce RTX 4060,3,3.7,Intel,SSD,Windows11, Core i9 - G614JV-AS94
+$269.99,Apple,Gray,8,128,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,49,3.4,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXQ2LL/A
+"$1,499.99",ASUS,Gray,16,1024,16,ROG Strix G16,NVIDIA GeForce RTX 4050,2,5,Intel,SSD,Windows11, 13th Gen - G614JU-ES94
+"$2,399.99",ASUS,Black,32,1024,14.5,Zenbook,No Graphics,10,4.3,Intel,SSD,Windows11, 13 Gen - UX8402VV-PS96T
+$339.99,Apple,Silver,8,512,13.3,MacBook Pro,No Graphics,7,3.7,Intel,Flash Storage,Mac OS, Core i5 - A1502
+"$1,299.99",ASUS,Gray,32,1024,15.6,Zenbook,No Graphics,1,1,AMD Ryzen,SSD,Windows11, 7 7735U - UM3504DA-DS76
+$539.99,Apple,Gray,16,512,15,Geek Squad Certified Refurbished MacBook Pro,No Graphics,16,4.3,Intel,Flash Storage,Mac OS, Core i7 - GSRF MPTT2LL/A
+"$1,499.99",Microsoft,Platinum,32,2048,14.4,GSRF Surface,NVIDIA GeForce RTX 3050,1,5,Intel,SSD,Windows11, Core i7 - GSRF AI2-00001
+$279.99,Apple,Silver,8,128,13.3,MacBook Pro,No Graphics,15,4.5,Intel,Flash Storage,Mac OS, Core i5 - A1502
+"$1,299.00",Apple,Silver,8,256,13.3,MacBook Pro,No Graphics,3164,4.9,Apple,SSD,Mac OS,M2 chip - MNEP3LL/A
+"$1,799.99",Apple,Silver,16,512,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,3,5,Apple,SSD,Mac OS,M2 Pro - GSRF MNWC3LL/A
+$799.99,Microsoft,Platinum,8,512,13.5,GSRF Surface,No Graphics,2,3,Intel,SSD,Windows11, Evo Platform - GSRF R1S-00001
+$799.99,Microsoft,Sage,8,512,13.5,GSRF Surface,No Graphics,2,3,Intel,SSD,Windows11, Evo Platform - GSRF R1S-00051
+$799.99,Microsoft,Sandstone,8,512,13.5,GSRF Surface,No Graphics,2,3,Intel,SSD,Windows11, Evo Platform - GSRF R1S-00062
+$799.99,Microsoft,Black,8,512,13.5,GSRF Surface,No Graphics,2,3,Intel,SSD,Windows11, Evo Platform - GSRF R1S-00026
+"$1,499.00",Apple,Silver,8,512,13.3,MacBook Pro,No Graphics,1364,4.9,Apple,SSD,Mac OS,M2 chip - MNEQ3LL/A
+"$1,799.99",Apple,Gray,16,1024,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,4,3,Apple,SSD,Mac OS,M2 Pro - GSRF MNW93LL/A
+$779.99,Microsoft,Black,8,256,13.5,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - GSRF DAG-00114
+"$1,099.99",Microsoft,Platinum,16,512,14.4,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - GSRF 9WI-00001
+$639.99,Microsoft,Platinum,8,128,13.5,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - GSRF KSR-00001
+"$1,359.99",Microsoft,Black,16,512,13.5,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF VGS-00022
+"$2,510.99",Apple,Silver,32,1024,14,Geek Squad Certified Refurbished MacBook Pro,No Graphics,1,1,Apple,SSD,Mac OS,M2 Max - GSRF MPHK3LL/A
+"$1,519.99",Microsoft,Black,32,1024,15,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Evo Platform - GSRF RKL-00001
+"$1,039.99",Microsoft,Platinum,16,512,15,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Evo Platform - GSRF RIP-00001
+"$1,059.99",Microsoft,Black,16,512,15,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Evo Platform - GSRF RIP-00026
+$899.99,Microsoft,Black,8,512,15,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Evo Platform - GSRF RFB-00026
+"$1,499.99",MSI,Gray,32,1024,13.3,Prestige,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i7 - PRE13EVO13050
+$719.99,Microsoft,Sandstone,16,256,13.5,GSRF Surface,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - GSRF 7IP-00062/7IP-00135
+"$1,099.99",Microsoft,Platinum,16,512,13.5,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Evo Platform - GSRF RBG-00001
+"$1,099.99",Microsoft,Sage,16,512,13.5,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Evo Platform - GSRF RBG-00051
+$999.99,Microsoft,Sandstone,16,512,13.5,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Evo Platform - GSRF RBG-00062
+$719.99,Microsoft,Black,16,256,13.5,GSRF Surface,No Graphics,0,0 Reviews,AMD Ryzen,SSD,Windows11, 5 - GSRF 7IP-00026/7IP-00099
+"$1,679.99",Microsoft,Platinum,32,1024,14.4,GSRF Surface,NVIDIA GeForce RTX 3050,0,0 Reviews,Intel,SSD,Windows11, Core i7 - GSRF ABY-00001
+"$1,099.99",Geek,Silver,8,512,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,31,4,Apple,SSD,Windows11,M1 chip - GSRF MYDC2LL/A
+"$1,099.99",Geek,Silver,8,512,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,31,4,Apple,SSD,Windows11,M1 chip - GSRF MYDC2LL/A
+"$1,099.99",Geek,Gray,8,256,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,116,4.4,Apple,SSD,Windows11,M1 chip - GSRF MYD82LL/A
+$999.99,Geek,Gray,8,256,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,8,4.4,Apple,SSD,Windows11,M2 chip - GSRF MNEH3LL/A
+"$1,349.99",Apple,Midnight,16,1024,15,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M2 chip - GSRF Z18U0LL/A
+"$1,259.99",Apple,Midnight,16,512,15,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M2 chip - GSRF Z18U2LL/A
+$529.99,Microsoft,Platinum,4,128,13.5,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core m3 - GSRF DAP-00001
+"$1,199.99",Microsoft,Blue,16,512,13.5,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - GSRF 5AI-00047
+"$1,199.99",Microsoft,Metal,16,512,13.5,GSRF Surface,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - GSRF 5AI-00001
+"$1,499.99",Apple,Gray,16,1024,15,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Apple,SSD,Mac OS,M2 chip - TI-GSRF MQTK3LL/A
+"$1,499.99",Apple,Silver,32,512,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i7 - GSRF 13860036
+$189.99,Apple,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SDD,Mac OS, Core i5 - GSRF ME865LL/A
+$149.99,Apple,Silver,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,1,5,Intel,Flash Storage,Mac OS, Core i5 - 3PL GSRF MMGF2LL/A
+$179.99,Apple,Silver,4,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,1,5,Intel,Flash Storage,Mac OS, Core i5 - GSRF MD760LL/B
+$499.99,Apple,Silver,8,512,12,No Model,No Graphics,2,5,Intel,Flash Storage,Mac OS, Core i5 - GSRF MNYJ2LL/A
+$379.99,Apple,Silver,8,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,15,4.1,Intel,SSD,Mac OS, Core i5 - GSRF MR9V2LL/A
+$409.99,Apple,Storage,8,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,15,3.9,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXW2LL/A
+$369.99,Apple,Gray,8,128,13,MacBook Pro,No Graphics,28,3.7,Intel,SSD,Mac OS, Core i5 - MPXQ2LL/A
+$299.99,Apple,Silver,8,256,13.3,MacBook Pro,No Graphics,19,3.9,Intel,Flash Storage,Mac OS, Core i5 - A1502
+$399.99,Apple,Silver,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,58,4.3,Intel,Flash Storage,Mac OS, Core i5 - GSRF MREA2LL/A
+$399.99,Apple,Gray,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,21,4.1,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXV2LL/A
+$809.99,Apple,Silver,4,64,11.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - GSRF MD223LL/A
+"$1,439.99",Apple,Aluminium,4,250,15.4,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,HDD,Mac OS, Core 2 - GSRF MC118LL/A
+$369.99,Apple,Silver,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,62,3.5,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXU2LL/A
+$349.99,Apple,Gold,8,256,12,Geek Squad Certified Refurbished Macbook®,No Graphics,5,3.2,Intel,Flash Storage,Mac OS, Core M3 - GSRF MNYK2LL/A
+"$1,453.99",Geek,Gray,16,1024,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Windows11,M2 chip - GSRF Z16S0LL/A
+"$1,300.99",Geek,Gray,16,512,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Apple,SSD,Windows11,M2 chip - GSRF Z16S4LL/A
+$209.99,Apple,Silver,4,512,11.6,MacBook Air,No Graphics,34,3.7,Intel,SSD,Mac OS, Core i5 - A1465
+$259.99,Apple,Silver,8,128,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,49,3.4,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXR2LL/A
+$269.99,Samsung,Red,8,128eMMC,13.3,Refurbished,No Graphics,8,4.9,Intel,eMMC,Windows11, Core i3 - GSRF XE530QDA-KA1US
+"$1,519.99",Apple,Silver,16,512,14-Inch,MacBook Pro,No Graphics,1,5,Apple,SSD,Mac OS,M2 Pro - MPHH3LL/A
+$989.99,Apple,Silver,4,256,11.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core i5 - GSRF MJVP2LL/A
+$699.99,Apple,Gold,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,58,4.3,Intel,Flash Storage,Mac OS, Core i5 - TI-GSRF MREE2LL/A
+$699.99,Apple,Gray,16,512,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,1,1,Intel,SSD,Mac OS, Core i7 - GSRF Z0UK9LL/A
+$389.99,Apple,Gray,8,256,13.3,MacBook Pro,No Graphics,23,3.6,Intel,SSD,Mac OS, Core i5 - MLL42LL/A
+"$1,349.99",Apple,Silver,8,750,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,HDD,Mac OS, Core i7 - GSRF MD102LL/A
+"$1,304.99",Apple,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SDD,Mac OS, Core i5 - GSRF ME662LL/A
+$449.99,Apple,Gray,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,21,4.1,Intel,Flash Storage,Mac OS, Core i5 - TI-GSRF MPXT2LL/A
+$899.99,Apple,Silver,4,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - GSRF MD231LL/A
+$719.99,Apple,Silver,4,128,11.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - GSRF MD711LL/A
+"$1,999.99",Apple,Silver,16,512,15.4,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i9 - GSRF MV932LL/A
+"$2,399.99",Apple,Gray,16,512,15,Geek Squad Certified Refurbished MacBook Pro,No Graphics,16,4.3,Intel,Flash Storage,Mac OS, Core i7 - GSRF MPTT2LL/A
+"$2,799.99",Apple,Gray,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,14,4.7,Intel,SSD,Mac OS, Core i5 - GSPR MV962LL/A
+"$1,799.99",Apple,Silver,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,21,4.1,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXX2LL/A
+$269.99,Apple,Gray,16,256,15,Geek Squad Certified Refurbished MacBook Pro,No Graphics,9,2.3,Intel,Flash Storage,Mac OS, Core i7 - GSRF MPTR2LL/A
+"$1,999.99",Apple,Silver,8,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,15,4.1,Intel,SSD,Mac OS, Core i5 - GSRF MR9V2LL/A
+$999.00,Apple,Silver,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,95,3.9,Intel,Flash Storage,Mac OS, Core i5 - GSRF MQD32LL/A
+$999.00,Apple,Silver,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,95,3.9,Intel,Flash Storage,Mac OS, Core i5 - GSRF MQD32LL/A
+"$1,349.99",Apple,Silver,4,750,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,No Info,Hard Drive,Mac OS,No Info - GSRF MD314LL/A
+"$1,299.99",Apple,Gray,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,58,4.3,Intel,Flash Storage,Mac OS, Core i5 - GSRF MRE82LL/A
+$519.99,Apple,Gray,8,256,13.3,MacBook Pro,No Graphics,1,4,Intel,SSD,Mac OS, Core i5 - 5V962LL/A
+"$1,299.99",Apple,Gray,8,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,15,3.9,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXW2LL/A
+"$1,499.99",Apple,Silver,8,128,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,49,3.4,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXR2LL/A
+$599.99,Apple,SSD,8,256,13.3,Refurbished,No Graphics,0,0 Reviews,No Info,SSD,Mac OS,No Info - GSRF Z0YJ00029
+"$1,069.99",Apple,Gray,32,512,16,MacBook Pro,No Graphics,4,2.8,Intel,SSD,Mac OS, 9th Gen - A2141
+$359.99,Apple,Gray,8,512,12,Geek Squad Certified Refurbished Macbook®,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core M5 - 3PL GSRF MLH82LL/A
+$179.99,Apple,Silver,8,128,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,No Info,Flash Storage,Mac OS,No Info - 3PL GSRF MF839LL/A
+$189.99,Apple,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,No Info,Flash Storage,Mac OS,No Info - 3PL GSRF MF840LL/A
+$299.99,Apple,Gray,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core i5 - 3PL GSRF MLL42LL/A
+$169.99,Apple,Silver,4,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core i5 - 3PL GSRF MJVE2LL/A
+$239.99,Apple,Silver,4,500,13.3,Refurbished MacBook®,No Graphics,0,0 Reviews,Intel,Hard Drive,Mac OS, Core i5 - GSRF MD101LL/A
+$149.99,Apple,Silver,4,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core i5 - GSRF MD761LL/B
+"$1,499.99",Apple,Silver,32,1024,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i9 - GSRF 13860093
+"$1,199.99",Apple,Silver,16,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i7 - GSRF 13687690
+$669.99,Apple,Gray,16,256,15,MacBook Pro,No Graphics,5,3.6,Intel,SSD,Mac OS, 8th Gen - MR932LL/A
+"$1,499.99",Apple,Silver,8,128,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,49,3.4,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXR2LL/A
+$429.99,Apple,Silver,8,256,12,No Model,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core M3 - GSRF MNYH2LL/A
+"$1,199.99",Apple,Gray,16,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i7 - GSRF 13687677
+"$1,999.99",Apple,Aluminum,4,500,15.4,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,Hard Drive,Mac OS, Core i7 - GCRF MC721LL/A
+$299.99,Apple,Gray,8,256,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,62,3.5,Intel,Flash Storage,Mac OS, Core i5 - GSRF MPXT2LL/A
+"$2,399.99",Apple,Gray,16,256,15,Geek Squad Certified Refurbished MacBook Pro,No Graphics,9,2.3,Intel,Flash Storage,Mac OS, Core i7 - GSRF MPTR2LL/A
+"$3,361.99",Apple,Gray,32,1024,15,GSRF MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i9 - GSRF MUQH2LL/A
+$399.99,Apple,Gray,8,128,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,2,1.5,Intel,Flash Storage,Mac OS, Core i5 - TI-GSRF MPXQ2LL/A
+$949.99,Apple,Silver,8,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - GSRF MXK72LL/A
+$279.99,Dell,Black,8,256,14,Latitude,No Graphics,0,0 Reviews,Intel,SSD,Windows11, Core i5 - E5450-1557
+"$2,609.99",Apple,Silver,16,1024,13,GSRF MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i7 - GSRF MQ012LL/A
+$959.99,Apple,Gray,16,1024,15,Refurbished,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i7 - GSRF MPTW2LL/A
+$489.99,Apple,Gray,8,256,13.3,MacBook Air,No Graphics,3,5,Intel,SSD,Mac OS, Core i3 - MWTJ2LL/A
+"$2,969.99",Apple,Silver,16,1024,15,GSRF MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i7 - GSRF MPTX2LL/A
+"$1,499.99",Apple,Silver,4,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,No Info,Flash Storage,Mac OS,No Info - TI-GSRF MD232LL/A
+$949.99,Apple,Silver,4,128,11.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,No Info,Flash Storage,Mac OS,No Info - TI-GSRF MD224LL/A
+"$1,799.99",Apple,Silver,16,512,13.3,Refurbished,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core i7 - 3PL GSRF MF843LL/A
+"$2,609.99",Apple,Gray,16,1024,13,GSRF MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i7 - GSRF MQ002LL/A
+"$1,699.99",Apple,Silver,8,128,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,No Info,Flash Storage,Mac OS,No Info - TI-GSRF MD212LL/A
+"$1,999.99",Apple,Silver,4,128,11.6,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core i5 - TI-GSRF MC969LL/A
+"$1,999.99",Apple,Silver,4,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core i5 - TI-GSRF MC965LL/A
+$389.99,Apple,Gray,8,256,13.3,MacBook Pro,No Graphics,33,4,Intel,SSD,Mac OS, Core i5 - MPXT2LL/A
+"$2,437.99",Apple,Gray,16,1024,13,GSRF MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i7 - GSRF MR9T2LL/A
+$239.99,Apple,Silver,8,256,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core i5 - TI-GSRF MQD42LL/A
+"$3,149.99",Apple,Gray,32,1024,15.4,GSRF MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i9 - GSRF MV952LL/A
+"$1,299.00",Apple,Gold,8,256,12,Geek Squad Certified Refurbished Macbook®,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core M3 - 3PL GSRF MLHE2LL/A
+$589.99,Apple,Gray,16,256,15,MacBook Pro,No Graphics,28,3.8,Intel,SSD,Mac OS, Core i7 - MPTR2LL/A
+"$1,299.99",Apple,Gray,8,256,12,Refurbished MacBook®,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core M3 - GSRF MNYF2LL/A
+"$1,199.99",Apple,Silver,8,512,13,Refurbished,No Graphics,0,0 Reviews,Intel,Flash Storage,Mac OS, Core i5 - 3PL GSRF MNQG2LL/A
+$699.99,Apple,Gray,16,512,15,MacBook Pro,No Graphics,23,3.5,Intel,SSD,Mac OS, Core i7 - MPTT2LL/A
+"$2,799.99",Apple,Gray,16,2048,16,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i9 - TI GSRF Z0Y0005J1
+$899.99,Apple,Gray,16,512,13,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - TI-GSRF MWP42LL/A
+$449.99,Apple,Gray,8,256,13.3,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - TI-GSRF MPXV2LL/A
+$699.99,Apple,Gray,8,128,13.3,Geek Squad Certified Refurbished MacBook Air,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i5 - TI-GSRF MRE82LL/A
+"$4,149.99",Apple,Gray,32,1024,15.4,Geek Squad Certified Refurbished MacBook Pro,No Graphics,0,0 Reviews,Intel,SSD,Mac OS, Core i9 - GSRF MV952LL/A
