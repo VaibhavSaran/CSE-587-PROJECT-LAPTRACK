@@ -1,0 +1,1931 @@
+Laptop_Brand,Laptop_Name,Processor_Company,Operating_System,Processor,Number_of_Reviews,Price,Storage_Type,Storage,Rating,Screen_Size,RAM,Source
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1079.0,SSD,2048,4.0,16.0,32,Amazon
+Apple,MacBook Air,Apple,Mac OS,Apple M3,0,929.0,SSD,256,4.0,13.6,8,Amazon
+Apple,MacBook Air,Apple,Mac OS,Apple M3,0,1449.0,SSD,512,4.0,15.3,16,Amazon
+HP,HP Laptop,Intel,Windows 11 Home,Celeron N,905,246.99,SSD,64,4.5,14.0,8,Amazon
+Lenovo,"Ideapad 1 15"" - 82R400EMUS",AMD,Windows 11 Home,AMD Ryzen 5 5500U,485,399.99,SSD,512,4.3,15.6,8,Amazon
+ASUS,Strix G16,Intel,Windows 11 Home,Core i7,331,1282.76,SSD,2048,4.0,16.0,16,Amazon
+HP,255 G10,AMD,Windows 11 Pro,Ryzen 3,50,449.99,SSD,2048,4.5,15.6,16,Amazon
+acer,Nitro V,Intel,Windows 11 Home,Intel Core i5,55,759.54,SSD,512,4.3,15.6,8,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,0,799.0,SSD,512,4.5,16.0,16,Amazon
+HP,TPN-I139_767K9AV,Intel,Windows 11 Home,Core i5 Family,5,795.63,SSD,2048,4.3,17.3,32,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,899.0,SSD,2048,4.3,16.0,40,Amazon
+HP,14-dq0040nr,Intel,Windows 11 S,Celeron N4020,712,177.89,SSD,64,4.4,14.0,4,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M3,0,1299.0,SSD,512,4.0,14.2,8,Amazon
+HP,TPN-I139_320M3AV,Intel,Windows 11 Pro,Core i3 Family,345,472.74,SSD,2048,4.4,17.3,32,Amazon
+HP,Chromebook 14a-na0226nr,Intel,Chrome OS,Celeron,747,199.99,SSD,64,4.4,14.0,4,Amazon
+Lenovo,IdeaPad 1 15IJL7,Intel,Windows 11 Home,Celeron,693,389.0,SSD,2048,4.3,15.6,20,Amazon
+Apple,MacBook Air,Intel,macOS 10.12 Sierra,Core i5,882,174.99,SSD,128,4.5,13.3,8,Amazon
+acer,Laptop,AMD,Windows 11 S,Ryzen 3,179,299.99,SSD,128,4.6,15.6,8,Amazon
+Lenovo,Newest Flagship Lenovo Chromebook,MediaTek,Chrome OS,Cortex,425,203.98,EMMC,64,4.5,14.0,4,Amazon
+HP,TPN-Q222,Intel,Windows 11 Home,Core i3 Family,63,439.97,SSD,2048,4.5,15.6,32,Amazon
+Dell,Dell Inspiron,Intel,Windows 11 Pro,Core i5,140,483.99,SSD,2048,4.4,15.6,16,Amazon
+Apple,MacBook Air,Apple,Mac OS,Apple M1,153,446.49,SSD,128,4.4,13.3,8,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M3 Max,0,2999.0,SSD,2048,4.0,16.2,36,Amazon
+MSI,Thin 15 B12VE-2023US,Intel,Windows 11 Home,Intel Core i7,822,899.99,SSD,512,4.3,15.6,16,Amazon
+acer,Nitro V,Intel,Windows 11 Home,Intel Core i7,305,839.0,SSD,512,4.3,15.6,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1269.0,SSD,8192,4.0,16.0,40,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,22,989.0,SSD,4096,4.1,16.0,40,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+HP,HP Newest Flagship LAPTOP,Intel,Windows 11 Pro,Core i3,22,599.98,SSD,2048,4.4,15.6,40,Amazon
+Lenovo,IdeaPad 3,Intel,Chrome OS,Celeron P4500,300,260.0,EMMC,64,4.6,15.6,8,Amazon
+Lenovo,Lenovo V15 G2 ALC,AMD,Windows 11 Pro,Ryzen 5,422,489.0,SSD,512,4.4,15.6,16,Amazon
+Lenovo,V15,Intel,Windows 11 Pro,Celeron,315,499.0,SSD,2048,4.4,15.6,16,Amazon
+acer,Aspire Go 15,Intel,Windows 11 S,Intel Core i3,171,279.99,SSD,128,4.4,15.6,8,Amazon
+MSI,Katana A17 AI B8VG-879US,AMD,Windows 11 Home,Ryzen 9,233,1699.99,SSD,4096,4.0,17.3,64,Amazon
+HP,HP 14inch Laptop,Intel,Windows 11,Celeron,996,152.0,SSD,64,4.5,14.0,4,Amazon
+HP,HP 14inch Laptop,Intel,Windows 11,Celeron,421,168.93,SSD,64,4.5,14.0,4,Amazon
+acer,NH.QLLAA.002,AMD,Windows 11 Home,AMD Ryzen 7,379,957.47,SSD,1000,4.1,16.0,16,Amazon
+acer,Predator Helios Neo 16 Gaming Laptop,Intel,Windows 11 Home,Intel Core i7,960,1109.0,SSD,512,4.0,16.0,16,Amazon
+HP,TPN-Q221,Intel,Windows 11 Home,Celeron,480,217.99,SSD,64,4.5,14.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,10,1296.71,SSD,4096,4.0,15.6,64,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+acer,Swift Go 14,Intel,Windows 11 Home,Intel Core i7-1355U,283,599.99,SSD,512,4.4,14.0,16,Amazon
+ASUS,ROG Strix G16,Intel,Windows 11 Home,Core i9,494,1871.64,SSD,2048,4.0,16.0,16,Amazon
+Apple,Macbook Pro,Intel,Mac OS,Core i5-4278U,44,249.97,SSD,128,4.6,13.3,8,Amazon
+Lenovo,IdeaPad,Intel,Windows 11 Home,Core i3,594,327.98,SSD,256,4.5,15.6,12,Amazon
+Apple,MacBook Air,Apple,Mac OS,Unknown,968,472.0,SSD,256,4.4,13.3,8,Amazon
+HP,Pavilion,Intel,Windows 11,Core i3,43,599.0,SSD,512,4.4,15.6,32,Amazon
+HP,HP Chromebook,Intel,Chrome OS,Celeron N,428,148.9,EMMC,64,4.2,14.0,4,Amazon
+ASUS,TUF Gaming A15,AMD,Windows 11 Home,Ryzen 5,630,761.13,SSD,512,4.3,15.6,8,Amazon
+Apple,MacBook Pro,Intel,Mac OS 9,Unknown,869,499.0,SSD,512,4.4,16.0,16,Amazon
+ASUS,ASUS 15.5 Laptop,Intel,Windows 11 Home,Celeron,48,171.99,SSD,128,4.5,15.5,4,Amazon
+acer,"Acer 15"" Laptop",Intel,Chrome OS,Celeron N,174,151.99,EMMC,64,4.5,15.0,4,Amazon
+HP,hp laptop,Intel,Windows 11 Home,Intel Core i3,693,411.74,SSD,2048,4.5,15.6,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Molegar,2024 Latest Laptop Computer,Intel,Windows 11,Celeron N5095,5,499.99,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1349.0,SSD,4096,4.0,15.6,64,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1049.0,SSD,2048,4.0,16.0,24,Amazon
+Lenovo,IdeaPad 1 15IJL7,Intel,Windows 11 Home,Celeron,396,359.0,SSD,512,4.5,15.6,12,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 11 Laptop PC,Intel,Windows 11 Pro,Core i7 Family,25,1374.77,SSD,2048,4.4,14.0,32,Amazon
+Lenovo,Chromebook,MediaTek,Chrome OS,Mediatek Mt8173C,249,63.99,EMMC,32,4.4,11.6,4,Amazon
+MSI,Katana 15 B13VGK-2000US,Intel,Windows 11 Home,Core i7,353,1290.68,SSD,2048,4.0,15.6,16,Amazon
+Lenovo,ThinkPad E16 Gen 1,AMD,Windows 11 Pro,AMD R Series,23,617.99,SSD,512,4.4,16.0,16,Amazon
+Dell,Latitude 7490,Intel,Windows 10 Pro,Core i7-8650U,81,249.99,SSD,512,4.6,14.0,16,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i5,599,323.27,SSD,256,4.5,13.0,8,Amazon
+HP,HP,Intel,Windows 11,Core i3,346,436.99,SSD,2048,4.5,17.3,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,849.0,SSD,2048,4.3,15.6,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1079.0,SSD,2048,4.0,16.0,32,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Lenovo,Lenovo V15-IKB,Intel,Windows 11 Pro,Core i7 Family,49,789.0,SSD,2048,4.3,15.6,24,Amazon
+ASUS,Vivobook Go,AMD,Windows 11 Home,Ryzen 3,199,249.0,SSD,128,4.5,15.0,8,Amazon
+Dell,Inspiron,Intel,Windows 11,Core i5 Family,355,414.97,SSD,256,4.5,15.6,12,Amazon
+HEWLETT PACKARD,HP Probook,Intel,Windows 10 Pro,Intel Core i5,5,144.99,SSD,256,4.5,11.6,8,Amazon
+Dell,dell 3100,Intel,Chrome OS,Celeron N4000,349,59.53,HDD,16,4.4,11.6,4,Amazon
+HP,HP Flagship,Intel,Windows 11,Celeron N,8,369.99,SSD,128,4.3,14.0,16,Amazon
+Apple,MacBook Pro,Intel,macOS 10.14 Mojave,Core i5,44,269.0,SSD,128,4.6,13.3,8,Amazon
+Lenovo,IdeaPad 3 81X800ENUS,Intel,Windows 11,Core i3,104,323.95,SSD,256,4.5,15.6,20,Amazon
+Lenovo,Lenovo V15 G4 ABP,AMD,Windows 11 Pro,AMD Ryzen 7,52,699.0,SSD,2048,4.4,15.6,40,Amazon
+Lenovo,V15,Intel,Windows 11 Pro,Celeron,348,549.0,SSD,2048,4.4,15.6,32,Amazon
+Dell,Inspiron,Intel,Windows 11 Home,Core i5 Family,405,501.35,SSD,2048,4.4,15.6,32,Amazon
+Lenovo,Lenovo Ideapad 1i,Intel,Windows 11,Celeron N4020,536,158.89,EMMC,64,4.5,14.0,4,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,0,1069.0,SSD,2048,4.4,16.0,32,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+Oemgenuine,ThinkPad E15 Gen 2,AMD,Windows 10 Pro,Ryzen 5 4500U,2,829.95,SSD,512,4.4,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+MSI,Raider GE76 12UE-871,Intel,Windows 11 Home,Core i9,39,1199.99,SSD,2048,4.4,17.3,16,Amazon
+Apple,MacBook Pro,Intel,"macOS Catalina (version 10,15)",Core i5,540,488.5,SSD,512,4.4,13.3,16,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M1,617,523.74,SSD,256,4.4,13.3,8,Amazon
+Lenovo,ThinkPad E14 Gen 5,AMD,Windows 11 Pro,Ryzen 7,79,664.0,SSD,512,4.4,14.0,16,Amazon
+Apple,MKGP3LL/A,Apple,Mac OS,Apple M1,616,999.99,SSD,512,4.4,14.0,16,Amazon
+ACEMAGIC,AX16PRO,AMD,Windows 11,AMD Ryzen 7,7,599.99,SSD,512,4.4,16.1,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,10,1296.71,SSD,4096,4.0,15.6,64,Amazon
+Apple,Macbook pro,Intel,Mac OS,Intel Core i9,531,573.99,SSD,2048,4.4,16.0,16,Amazon
+Dell,nspiron 15 3530,Intel,Windows 11 Pro,Core i7 Family,42,709.99,SSD,2048,3.8,15.6,32,Amazon
+HP,HP Envy,Intel,Windows 11 Home,Core i7,44,670.0,SSD,2048,4.4,14.0,16,Amazon
+SGIN,SGIN-M15N,Intel,11,Celeron,18,169.98,SSD,128,4.5,15.6,4,Amazon
+HP,HP 15 Laptop,Intel,Windows 11,Pentium,75,241.5,SSD,128,4.5,15.6,16,Amazon
+Dell,Dell inspiron,Intel,Windows 11 Pro,Core i5,62,649.99,SSD,2048,4.4,15.6,32,Amazon
+HP,HP Notebook,Intel,Windows 11 Home,Core i5,442,378.0,SSD,256,4.3,15.0,8,Amazon
+HP,HP Stream,Intel,Windows 11 S,Celeron,928,309.0,EMMC,128,4.2,14.0,16,Amazon
+Apple,MacBook Air,Intel,Catalina,Core i3,282,379.0,SSD,128,4.3,13.3,8,Amazon
+HP,"HP 15"" Laptop",Intel,Windows 11,Pentium,878,207.26,SSD,128,4.5,15.0,8,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1299.0,SSD,2048,4.0,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+jumper,EZbook S5,Intel,Windows 11,Celeron,12,409.99,SSD,512,4.5,14.0,12,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,959.0,SSD,2048,4.1,15.6,16,Amazon
+acer,Acer Laptop,Intel,Chrome OS,Celeron,94,187.4,EMMC,64,4.4,15.6,4,Amazon
+HP,HP,Intel,Windows 11,Pentium,22,369.99,SSD,2048,4.5,14.0,16,Amazon
+Apple,MacBook Air,Apple,Mac OS,Apple M2,85,849.5,SSD,256,4.3,15.0,8,Amazon
+HP,TPN-I140_799**AV,AMD,Windows 11 Home,Ryzen 5,146,626.88,SSD,2048,4.4,17.3,32,Amazon
+Dell,Dell Latitude 7490,Intel,Windows 10 Pro,Core i5,527,200.0,SSD,256,4.5,14.1,16,Amazon
+Apple,Macbook Air,Intel,macOS 10.12 Sierra,Core i5-5250U,600,149.99,SSD,128,4.4,13.3,8,Amazon
+Lenovo,IdeaPad 3i,Intel,Windows 11 Pro,Intel Core i3,14,799.99,SSD,2048,3.4,15.6,24,Amazon
+HP,laptop,Intel,Windows 11,Intel Pentium 4,195,399.0,SSD,128,4.3,15.6,16,Amazon
+HP,TPN-I139_320M3AV,Intel,Windows 11 Home,Core i3 Family,180,360.0,SSD,256,4.3,17.3,8,Amazon
+Dell,"Dell 11"" Chromebook",Intel,Chrome OS,Celeron,864,66.99,SSD,16,4.4,11.0,4,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,749.0,SSD,4096,4.3,14.0,32,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+HP,TPN-Q284_632**AV,Intel,Windows 11 Home,Pentium,606,308.98,SSD,128,4.2,15.6,16,Amazon
+ASUS,VivoBook 16,AMD,Windows 11 Home,Ryzen 7,68,499.99,SSD,2048,4.4,16.0,16,Amazon
+HP,HP 14inch Chromebook,AMD,Chrome OS,AMD A4,626,79.95,SSD,32,4.0,14.0,4,Amazon
+HP,Essential,Intel,Windows 11 S,Celeron,18,399.99,SSD,256,4.3,15.6,32,Amazon
+Dell,Inspiron,Intel,Windows 11 Pro,Core i5,9,679.0,SSD,2048,4.4,15.6,64,Amazon
+HP,hp eg2000,Intel,Windows 11,Core i7 Family,124,779.99,SSD,2048,4.5,15.6,32,Amazon
+HP,2024 HP 17 Pavilion Laptop,Intel,Windows 11 Pro,Core i3,56,549.0,SSD,2048,4.4,17.3,32,Amazon
+Lenovo,Laptop,Intel,Windows 11 Home,Pentium,117,360.99,SSD,2048,4.5,15.6,16,Amazon
+Dell,Dell 11.6inch Chromebook,Intel,Chrome OS,Celeron,380,68.0,SSD,16,4.5,11.6,4,Amazon
+ASUS,2026 Flagship ASUS Vivobook 14,Intel,Windows 11 Pro,Core i3,0,399.0,SSD,512,4.5,14.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,1,729.0,SSD,4096,1.0,14.0,64,Amazon
+Oemgenuine,ThinkPad E15 Gen 2,AMD,Windows 10 Pro,Ryzen 5 4500U,2,829.95,SSD,512,4.4,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1169.0,SSD,2048,4.4,16.0,64,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+HP,Chromebook 15,Intel,Chrome OS,Pentium,59,299.98,EMMC,128,4.6,15.6,8,Amazon
+HP,TPN-I139_4V788AV,Intel,Windows 11 Home,Core i7 Family,364,919.59,SSD,4096,4.1,17.3,64,Amazon
+Apple,MacBook Air,Apple,macOs Ventura,Unknown,460,769.0,SSD,256,4.3,13.6,8,Amazon
+HP,ProBook 450 G10,Intel,Windows 11 Pro,Core i7,4,769.0,SSD,512,4.5,15.6,16,Amazon
+Apple,MacBook Pro,Intel,macOS 10.12 Sierra,Core i5,623,379.0,SSD,256,4.3,13.3,8,Amazon
+Lenovo,Legion 5i,Intel,Windows 11 Home,Core i7,40,1551.5,SSD,512,4.0,16.0,32,Amazon
+Lenovo,ThinkPad E16,AMD,Windows 11 Pro,AMD Ryzen 7,61,848.0,SSD,4096,4.3,16.0,40,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i5,62,429.0,SSD,256,4.5,13.3,16,Amazon
+Lenovo,Lenovo IdeaPad 1 Laptop,Intel,Windows 11 S,Celeron,33,174.99,EMMC,128,4.5,14.0,4,Amazon
+ASUS,5Z8N,Intel,Windows 11 Home,Core i3 Family,12,311.85,SSD,512,4.2,14.0,16,Amazon
+Dell,Inspiron 15 3511,Intel,Windows 11 Home,Core i3 Family,391,343.99,SSD,256,4.5,15.6,8,Amazon
+Lenovo,Lenovo Thinkpad,AMD,Windows 10 Pro,AMD Ryzen 7,0,479.0,SSD,512,4.4,15.6,16,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1269.0,SSD,8192,4.0,16.0,40,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,749.0,SSD,4096,4.3,14.0,32,Amazon
+HP,HP Chromebook x360 14b-cd0010nr,Intel,Chrome OS,Core i3,577,469.99,SSD,128,4.4,14.0,8,Amazon
+ASUS,Vivobook Go,Intel,Windows 11 Home,Celeron,704,219.99,SSD,128,4.5,11.6,4,Amazon
+ACEMAGIC,AX15,Intel,window11,Intel Mobile CPU,17,359.98,SSD,512,4.3,15.6,16,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i7,314,341.0,SSD,512,4.5,15.0,16,Amazon
+MSI,Thin 15 B12UCX-2041US,Intel,Windows 11 Home,Intel Core i5,873,595.0,SSD,512,4.4,15.6,16,Amazon
+Apple,MacBook Air,Intel,Mac OS,Core i5,208,179.0,SSD,128,4.4,13.3,4,Amazon
+HP,HP Stream,Intel,Windows 11 S,Celeron N,210,296.65,EMMC,64,4.6,14.0,16,Amazon
+acer,Chromebook Spin 311,Intel,Chrome OS,Celeron,242,229.0,SSD,32,4.5,11.6,4,Amazon
+Lenovo,Legion Pro 7i Gen 9,Intel,Windows 11 Pro,Intel Core i9,8,2550.0,SSD,4096,4.3,16.0,32,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+HP,TPN-C164,Intel,Windows 11 Pro,Intel Mobile CPU,0,1492.91,SSD,2048,4.0,17.3,32,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1229.0,SSD,4096,4.0,16.0,64,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1049.0,SSD,2048,4.0,16.0,24,Amazon
+Apple,MacBook Air,Intel,Mac OS,Core i5,208,179.0,SSD,128,4.4,13.3,4,Amazon
+Dell,3180 chromebook,Intel,Chrome OS,Celeron,300,83.59,SSD,32,4.4,11.6,4,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i7,314,341.0,SSD,512,4.5,15.0,16,Amazon
+HP,HP Pro,Intel,Windows 11,Celeron,329,169.99,SSD,64,4.5,14.0,4,Amazon
+HP,TPN-Q245,Intel,Windows 11 Pro,Core i7 Family,71,812.0,SSD,2048,4.4,15.6,32,Amazon
+HP,HP 14inch laptop,Intel,Chrome OS,Core i3,81,379.0,SSD,2048,4.3,15.6,16,Amazon
+HP,HP,Intel,Windows 11,Pentium,13,299.99,SSD,128,4.6,15.6,16,Amazon
+Apple,MK193LL/A,Apple,Mac OS,Apple M1,577,1294.95,SSD,2048,4.4,16.0,16,Amazon
+HP,HP,Intel,Windows 11 Home,Pentium,52,579.0,SSD,2048,4.4,17.3,16,Amazon
+HP,Essential,Intel,Windows 11 Pro,Core i5,97,569.99,SSD,2048,4.1,15.6,32,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+Apple,MacBook Air,Intel,OS X 10.10 Yosemite,Core i5,574,324.99,SSD,128,4.3,13.3,8,Amazon
+Dell,XPS 13 9315,Intel,Windows 11 Pro,Core i7,7,1399.0,SSD,512,4.4,13.4,16,Amazon
+Apple,MacBook Air,Apple,Mac OS,Unknown,488,739.99,SSD,256,4.5,13.6,8,Amazon
+ASUS,G834JZR-XS96,Intel,Windows 11 Pro,Core i9,144,2781.05,SSD,2048,4.0,18.0,32,Amazon
+ACEMAGIC,AX15,Intel,window11,Intel Mobile CPU,17,359.98,SSD,512,4.3,15.6,16,Amazon
+HP,HP Chromebook,AMD,Chrome OS,AMD A Series,475,64.0,SSD,32,4.4,16.0,4,Amazon
+Lenovo,500w Gen 3,Intel,Windows 11 Home,Core m3-8100Y,174,299.99,SSD,256,4.6,11.6,8,Amazon
+HP,HP Spectre x360,Intel,Chrome OS,Celeron N4020,562,149.99,SSD,64,4.5,14.0,4,Amazon
+HP,"HP 15.6""",Intel,Windows 11,Intel Core i5,201,464.99,SSD,2048,4.4,15.6,16,Amazon
+Dell,Dell latitude 5420 Laptop,Intel,Windows 10 Pro,Core i7,32,359.78,SSD,512,4.3,14.0,16,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,22,899.0,SSD,2048,4.3,16.0,24,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,749.0,SSD,4096,4.3,14.0,32,Amazon
+Dell,Dell Inspiron,AMD,Windows 11 Pro,1.2GHz Cortex A8 Processor,0,649.0,SSD,2048,4.4,15.6,36,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,1,1159.0,SSD,4096,4.4,16.0,64,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1079.0,SSD,2048,4.0,16.0,32,Amazon
+acer,Aspire,AMD,Windows 11 Pro,Ryzen 5,518,689.0,SSD,2048,4.4,15.6,32,Amazon
+acer,Acer Chromebook,MediaTek,Chrome OS,MediaTek MT8183,12,89.99,SSD,32,4.6,11.6,4,Amazon
+ASUS,Asus,Intel,Windows 10,Celeron,651,150.88,EMMC,64,4.5,14.0,4,Amazon
+MSI,MSI GF63,Intel,Windows 11,Core i5 Family,134,635.0,SSD,512,4.4,15.6,16,Amazon
+Microsoft,Surface Laptop Go 3,Intel,Windows 11 Home,Core i5-1235U,104,749.0,SSD,256,4.5,12.45,8,Amazon
+ApoloSign,NJP1561P,Intel,Windows 11 Home,Celeron N,32,649.99,SSD,512,4.4,15.6,12,Amazon
+Dell,Dell G Series 16 7630 Laptop,Intel,Windows 11 Home,Core i9,11,1535.3,SSD,2048,4.0,16.0,16,Amazon
+Dell,dell 5480,Intel,Windows 10 Pro,Intel Core i5,600,155.0,SSD,256,4.5,14.0,8,Amazon
+HP,14-dq0070nr,Intel,Windows 11 S,Celeron N4020,859,240.99,EMMC,4,4.5,14.0,4,Amazon
+Dell,DELL XPS 15 9530,Intel,Windows 11 Pro,Core i7,15,1576.75,SSD,2048,4.4,15.6,32,Amazon
+Apple,MacBook Pro,Intel,macOS 10.13 High Sierra,Core i7,149,398.99,SSD,512,4.4,15.0,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,529.0,SSD,512,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,849.0,SSD,2048,4.3,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,2,729.0,SSD,4096,5.0,14.0,32,Amazon
+Lenovo,Ideapad 3i,Intel,Windows 11 Pro,Core i5,600,422.0,SSD,512,4.5,15.6,8,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Others,69,1639.99,SSD,2048,4.4,16.2,32,Amazon
+ASUS,FX607JV-ES73,Intel,Windows 11 Home,Core i7,1,1029.99,SSD,512,4.0,16.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1189.0,SSD,2048,4.0,15.6,32,Amazon
+HP,G9,AMD,Windows 11,Athlon,42,499.99,SSD,2048,4.4,15.6,16,Amazon
+ACEMAGIC,AX16PRO,AMD,Windows 11,AMD Ryzen 7,68,599.99,SSD,512,4.3,16.1,16,Amazon
+acer,Chromebook 516 GE,Intel,Chrome OS,Core i5-1240P,36,580.67,SSD,256,4.4,16.0,16,Amazon
+HP,TPN-Q278_599J4AV,Intel,Windows 11 Home,Core i5 Family,8,672.99,SSD,2048,4.4,15.6,16,Amazon
+Lenovo,IdeaPad Flex 5i,Intel,Chrome OS,Core i3 Family,211,499.98,SSD,256,4.4,14.0,8,Amazon
+ASUS,G814JIR-XS96,Intel,Windows 11 Pro,Core i9,141,2212.99,SSD,2048,4.0,18.0,32,Amazon
+Lenovo,ThinkBook 15 Gen 4,Intel,Windows 11 Pro,Core i7,18,635.0,SSD,512,4.4,15.6,16,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1049.0,SSD,2048,4.0,16.0,24,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,869.0,SSD,2048,4.3,16.0,24,Amazon
+Oemgenuine,ThinkPad E15 Gen 2,AMD,Windows 10 Pro,Ryzen 5 4500U,2,829.95,SSD,512,4.4,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1229.0,SSD,4096,4.0,16.0,64,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,0,1039.0,SSD,4096,4.4,16.0,64,Amazon
+ist computers,V14 Laptop,AMD,Windows 11 Pro,Ryzen 5,11,449.99,SSD,512,4.5,14.0,16,Amazon
+Dell,Dell Inspiron 15 3525 Laptop,AMD,Windows 11 Home,Ryzen 5,232,448.0,SSD,512,4.2,15.6,16,Amazon
+HP,HP 15.6 inch Laptop PC,Intel,Windows 11 Home,Core i5,281,450.0,SSD,512,4.4,15.6,8,Amazon
+Lenovo,IdeaPad Flex 5i,Intel,Chrome OS,Core i3,277,469.0,SSD,128,4.4,14.0,8,Amazon
+Lenovo,Yoga 7i,AMD,Windows 11 Pro,Ryzen 7,16,999.99,SSD,2048,4.3,16.0,16,Amazon
+Lenovo,21JT,AMD,Windows 11 Pro,Ryzen 5,111,717.0,SSD,2048,4.5,16.0,24,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 11 Laptop PC,Intel,Windows 11 Pro,Core i7 Family,8,1339.77,SSD,2048,4.0,14.0,32,Amazon
+acer,Acer Chromebook Plus 514,Intel,Chrome OS,Intel Core i3,38,344.98,SSD,128,4.5,14.0,8,Amazon
+ASUS,Q420V,Intel,Windows 11 Pro,Core i7 Family,67,899.0,SSD,2048,4.4,14.5,16,Amazon
+HP,TPN-Q279_598U1AV,AMD,Windows 11 Home,Ryzen 5,856,674.87,SSD,512,4.4,15.6,16,Amazon
+Apple,FBA_MQD42LL/A,Intel,Mac OS,Core i5,172,184.34,SSD,256,4.5,13.3,8,Amazon
+Dell,"Dell 11"" Chromebook",Intel,Chrome OS,Celeron N,17,74.99,SSD,32,4.4,11.0,4,Amazon
+HP,TPN-I139_767K9AV,Intel,Windows 11 Home,Core i5 Family,5,795.63,SSD,2048,4.3,17.3,32,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,1099.0,SSD,8192,4.0,16.0,40,Amazon
+HP,HP Stream,Intel,Windows 11 S,Celeron,413,298.0,EMMC,128,4.6,14.0,16,Amazon
+HP,EliteBook 840,Intel,Windows 10 Pro,Core i5 6200U,543,158.68,SSD,256,4.5,14.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,889.0,SSD,2048,4.3,15.6,32,Amazon
+Apple,MacBook Air,Intel,macOS 12 Monterey,Core i5 5300U,441,139.99,HDD,128,4.4,11.6,8,Amazon
+Lenovo,IdeaPad 1 15IJL7,Intel,Windows 11 Home,Celeron,297,288.15,SSD,512,4.6,15.6,12,Amazon
+Apple,MacBook Air,Intel,Mac OS,Core i5,173,384.95,SSD,512,4.5,13.0,8,Amazon
+Lenovo,X1 Carbon Gen 11,Intel,Windows 11 Pro,Intel Core i7,29,1139.11,SSD,512,4.4,14.0,16,Amazon
+HP,TPN-Q278_599J4AV,Intel,Windows 11 Home,Core i5 Family,5,728.0,SSD,2048,4.5,15.6,32,Amazon
+SAMSUNG,Samsung Chromebook Plus V2,Intel,Chrome OS,Celeron,259,279.98,SSD,128,4.6,12.2,4,Amazon
+Hp,Multitasking Slim,Intel,Windows 11,Intel Mobile CPU,29,349.85,SSD,128,4.2,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,2,729.0,SSD,8192,5.0,14.0,64,Amazon
+HP,TPN-C164,Intel,Windows 11 Home,Intel Mobile CPU,0,1536.59,SSD,4096,4.4,17.3,64,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1049.0,SSD,2048,4.0,16.0,24,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,869.0,SSD,2048,4.3,16.0,24,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M1,269,619.97,SSD,512,4.4,13.3,8,Amazon
+ASUS,ROG Flow Z13,Intel,Windows 11 Home,Core i9,96,1574.99,SSD,2048,4.0,13.4,16,Amazon
+Lenovo,ThinkPad P15v Gen 3,Intel,Windows 11 Pro,Core i7 Family,2,1259.0,SSD,2048,4.4,15.6,32,Amazon
+Lenovo,T480s,Intel,Windows 10 Pro,Intel Core i7,405,321.74,SSD,512,4.5,14.0,24,Amazon
+FUNYET,DuetBook,Intel,Windows 11 Pro,Celeron,531,349.99,SSD,512,4.2,16.0,16,Amazon
+Naclud,M17S,Intel,11,Celeron,34,239.99,SSD,128,4.5,17.3,4,Amazon
+BiTECOOL,HaloBook,Intel,Windows 11 Pro,Core i3,266,289.0,SSD,512,4.6,15.6,16,Amazon
+SAMSUNG,Chromebook Plus V2,Intel,Chrome OS,Celeron,83,238.99,SSD,64,4.5,12.2,4,Amazon
+NIAKUN,NiaBook,Intel,Windows 11 Pro,Celeron,68,359.99,SSD,512,4.3,16.0,16,Amazon
+ist computers,Lenovo Thinkpad,AMD,Windows 11 Pro,Ryzen 5,60,699.99,SSD,512,4.4,16.0,16,Amazon
+ASUS,TUF Gaming A16,AMD,Windows 11 Home,Ryzen 7,48,1568.0,SSD,1000,4.0,16.0,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,529.0,SSD,512,4.4,15.6,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1079.0,SSD,2048,4.0,16.0,32,Amazon
+acer,Chromebook Spin 713,Intel,Chrome OS,Core i3-10110U,6,104.99,EMMC,64,4.4,13.5,4,Amazon
+Dell,Dell Latitude 7420 Laptop,Intel,Windows 11 Pro,Intel Core i7-1165G7,74,386.65,SSD,512,4.5,14.0,16,Amazon
+HP,HP Laptop,Intel,Windows 11 S,Core i3,112,342.97,SSD,256,4.5,15.6,8,Amazon
+HP,HP,Intel,Windows 11 Pro,Intel Core i3,70,519.0,SSD,2048,4.4,17.3,32,Amazon
+Dell,Dell XPS 15,Intel,Windows 11 Pro,Core i7,149,1759.99,SSD,2048,4.0,15.6,32,Amazon
+HP,HP,Intel,Windows 11,Pentium,50,329.99,SSD,128,4.5,15.6,16,Amazon
+HP,HP Chromebook 14a-na0031wm,Intel,Chrome OS,Celeron N,851,149.99,EMMC,64,4.6,14.0,4,Amazon
+HP,Pavilion,AMD,Windows 11,AMD R Series,259,412.0,SSD,512,4.5,15.6,16,Amazon
+HP,HP,Intel,Windows 11 Pro,Core i3,61,549.0,SSD,2048,4.4,17.3,32,Amazon
+jumper,EZbook S5Max,Intel,11,Celeron,65,199.99,EMMC,128,4.4,16.0,4,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Unknown,264,799.98,SSD,256,4.4,13.0,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,2,729.0,SSD,2048,5.0,14.0,16,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+HP,HP EliteBook,Intel,Windows 10 Pro,Core i7,750,248.0,SSD,512,4.5,14.0,16,Amazon
+HP,hp 15,Intel,Windows 11,Core i3,17,548.55,SSD,512,4.4,15.6,32,Amazon
+Dell,Dell Chromebook 11,Intel,Chrome OS,Celeron N3060,356,54.99,SSD,16,4.1,11.6,4,Amazon
+Lenovo,ThinkBook 15 G3 ACL,Intel,Windows 11 Pro,Core i7 Family,2,603.0,SSD,512,4.4,15.6,16,Amazon
+Lenovo,ThinkPad T14s,Intel,Windows 11 Pro,Core i7,11,469.99,SSD,512,4.4,14.0,32,Amazon
+Lenovo,V15,Intel,Windows 11 Pro,Core i5,42,569.0,SSD,512,4.4,15.6,16,Amazon
+ACEMAGIC,AX16PRO,AMD,Windows 11,AMD Ryzen 7,48,599.99,SSD,512,4.2,16.1,16,Amazon
+HP,HP,AMD,Windows 11 Home,Ryzen 3,80,369.0,SSD,256,4.3,17.3,8,Amazon
+HP,HP Laptop 14-dq5009nr,Intel,Windows 11 Home,Core i3,240,314.99,SSD,256,4.2,14.0,8,Amazon
+Samsung,NP964XGK-KG1US,Intel,Windows 11 Pro,1.2GHz Cortex A8 Processor,20,1799.0,SSD,2048,4.4,16.0,32,Amazon
+ASUS,Business Laptop,Intel,Windows 11 Pro,Intel Core i3,34,499.0,SSD,2048,4.4,14.0,24,Amazon
+ist computers,V15 G3 Business Laptop,Intel,Windows 11 Pro,Core i7 Family,14,728.98,SSD,2048,4.5,15.6,40,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+WIPEMIK,M,Intel,11 Pro,Celeron N,8,199.0,SSD,256,4.4,14.0,8,Amazon
+ASUS,Asus Chromebook,Intel,Chrome OS,Celeron N3350,659,127.99,SSD,64,4.6,14.0,4,Amazon
+acer,Aspire 5,AMD,Windows 10 Home,Ryzen 3 3200U,929,399.0,SSD,128,4.3,15.6,4,Amazon
+HP,15-ey0013dx,AMD,Windows 11 Home,AMD R Series,86,508.98,SSD,256,4.4,15.6,8,Amazon
+Apple,MacBook Air,Intel,macOS 10.15 Catalina,Intel Core i5,296,466.9,SSD,256,4.4,13.3,8,Amazon
+HP,HP Laptop 17,AMD,Windows 11 Home,Ryzen 5,15,519.99,SSD,2048,4.4,17.3,32,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Pentium,251,102.8,SSD,64,4.4,11.6,4,Amazon
+ASUS,FX507VI-F15.I74070,Intel,Windows 11 Pro,Core i7 Family,10,1391.99,SSD,2048,4.4,15.6,32,Amazon
+Lenovo,ThinkPad,Intel,Windows 10 Pro,Core i5,460,243.97,SSD,512,4.5,14.0,16,Amazon
+Dell,Dell Inspiron Laptop,Intel,Windows 11,Intel Celeron D,16,469.0,SSD,2048,4.4,15.6,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,10,1296.71,SSD,4096,4.0,15.6,64,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1299.0,SSD,2048,4.0,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,1,1159.0,SSD,4096,4.4,16.0,64,Amazon
+jumper,EZbook S7Hi,Intel,Windows 11,Celeron 5205U,8,379.99,SSD,128,4.3,15.6,4,Amazon
+MSI,Raider GE68HX 14VHG-286US,Intel,Windows 11 Home,Intel Core i9,3,3199.0,SSD,4096,3.4,16.0,64,Amazon
+ist computers,EliteBook 845 G8,AMD,Windows 11 Pro,Ryzen 5,68,579.99,SSD,512,4.4,14.0,16,Amazon
+Lenovo,Lenovo Thinkpad Yoga,Intel,Windows 10,Celeron N,520,99.0,SSD,128,4.5,11.6,4,Amazon
+acer,CB315-4H-C8XU,Intel,Chrome OS,Celeron,41,189.0,SSD,64,4.4,15.6,4,Amazon
+Dell,Latitude 7430,Intel,Windows 11 Pro,Core i7,12,594.02,SSD,512,4.4,14.0,32,Amazon
+Dell,Inspiron 15 3520,Intel,Windows 11 Home,Core i7 Family,51,633.95,SSD,2048,4.4,15.6,32,Amazon
+Lenovo,Lenovo V15 G2 IJL,Intel,Windows 11 Pro,Celeron,0,349.0,SSD,2048,3.8,15.6,16,Amazon
+Dell,Latitude 3380,Intel,Windows 10 Pro,Core i3 Family,136,119.99,SSD,128,4.4,13.3,4,Amazon
+HP,HP,Intel,Windows 11 Home,Core i3-1115G4E,364,417.99,SSD,2048,4.5,15.6,16,Amazon
+MSI,Stealth 16 AI Studio A1VGG-036US,Intel,Windows 11 Pro,Intel Mobile CPU,49,2599.0,SSD,2048,4.0,16.0,64,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1079.0,SSD,2048,4.0,16.0,32,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,869.0,SSD,2048,4.3,16.0,24,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,849.0,SSD,2048,4.3,15.6,16,Amazon
+acer,Nitro V Gaming Laptop ANV15-51-92XK,Intel,Windows 11 Home,Intel Core i9,305,1349.99,SSD,2048,4.4,15.6,32,Amazon
+Lenovo,V15,Intel,Windows 11 Home,Intel Pentium 4,138,325.98,SSD,256,4.5,15.0,40,Amazon
+Lenovo,T14 Gen 1,Intel,Windows 11 Pro,Core i5 Family,81,314.0,SSD,512,4.5,14.0,16,Amazon
+Lenovo,Ideapad,Intel,Windows 11 Home,Intel Core i3,509,320.0,SSD,256,4.5,15.6,8,Amazon
+HP,HP,Intel,Windows 11,Pentium,153,329.98,EMMC,2048,4.2,14.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i5,0,829.99,SSD,512,4.4,15.6,16,Amazon
+ASUS,Zenbook Pro 14,Intel,Windows 11 Home,Core i9,101,2094.99,SSD,2048,4.3,14.5,32,Amazon
+Oemgenuine,Latitude 3550,Intel,Windows 11 Pro,Core i5,16,819.95,SSD,512,4.4,15.6,16,Amazon
+ApoloSign,NJP1561P,Intel,Windows 11 Home,Celeron N,8,629.99,SSD,512,4.4,15.6,12,Amazon
+Microsoft,"Surface Laptop 3 15""",Intel,Windows 11 Pro,Core i5,45,394.03,SSD,256,4.3,15.0,16,Amazon
+Lenovo,V15,Intel,Windows 11 Pro,Celeron,2,599.99,SSD,2048,4.4,15.6,32,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,22,889.0,SSD,2048,4.3,16.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+MSI,Titan 18 HX A14VIG-036US,Intel,Windows 11 Pro,Intel Core i9,14,4939.0,SSD,8192,5.0,18.0,128,Amazon
+ist computers,ThinkPad T16,Intel,Windows 11 Pro,Core i7,8,1299.0,SSD,2048,4.0,16.0,32,Amazon
+Lenovo,LOQ 15,AMD,Windows 11 Home,Ryzen 7,17,991.85,SSD,512,4.1,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,10,1007.98,SSD,512,4.0,15.6,16,Amazon
+Dell,Latitude E7470,Intel,Windows 10 Pro,Intel Core i5,521,151.09,SSD,256,4.5,14.0,8,Amazon
+Microsoft,Microsoft Surface,Intel,Windows 10,Core i7,65,374.99,SSD,256,4.3,13.5,16,Amazon
+HP,HP Laptop,AMD,Windows 11 Home,Ryzen 5,40,759.99,SSD,4096,4.5,17.3,64,Amazon
+Samsung,XE530QDA-KA1US,Intel,Chrome OS,Core i3,191,454.99,SSD,128,4.4,13.3,8,Amazon
+acer,Spin 311 2H,Intel,Chrome OS,MediaTek MT8183,480,257.5,EMMC,64,4.6,11.6,4,Amazon
+Apple,MacBook Pro,Intel,macOS 10.12 Sierra,Core i7,948,404.97,SSD,512,4.5,15.0,16,Amazon
+Dell,Inspiron 15 3000 3520,Intel,Windows 11 Pro,Intel Core i5,49,511.02,SSD,2048,4.4,15.6,32,Amazon
+HP,Newest HP 14 Inch Laptop,Intel,Windows 11 Home,Celeron N,47,249.0,EMMC,64,4.5,14.0,4,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+HP,HP,Intel,Windows 11 Pro,Core i5-1235U,280,599.0,SSD,2048,4.4,15.6,32,Amazon
+Lapbook,S15,Intel,Windows 11 Home S Edition,Celeron N4020,154,199.99,SSD,512,4.4,15.6,8,Amazon
+HP,HP-840G6,Intel,Windows 10 Pro,Core i5,141,215.89,SSD,256,4.5,14.0,16,Amazon
+Apple,MacBook Pro,Apple,macOS Sonoma,1,10,1587.0,SSD,512,4.4,14.2,18,Amazon
+HP,HP Stream,Intel,Windows 11 S,Celeron N,480,309.0,EMMC,64,4.5,14.0,16,Amazon
+acer,A514-56M-576D,Intel,Windows 11 Home,Core i5,40,439.89,SSD,512,4.5,14.0,8,Amazon
+jumper,EZbook S7MAX,Intel,Windows 11 Home,Celeron,7,327.96,SSD,640,4.2,16.0,12,Amazon
+Dell,Inspiron 15 3520 Laptop,Intel,Windows 11 Home,Core i5,36,380.0,SSD,256,4.3,15.6,8,Amazon
+HP,HP Chromebook,Intel,Chrome OS,Celeron N,39,154.99,EMMC,64,4.5,14.0,4,Amazon
+HP,HP Laptop 17-cp2099nr,AMD,Windows 11 Home,Ryzen 5,46,550.0,SSD,512,4.4,17.3,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,10,1296.71,SSD,4096,4.0,15.6,64,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,1099.0,SSD,8192,4.0,16.0,40,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,AN515-58-525P,Intel,Windows 11 Home,Core i5,827,669.88,SSD,512,4.4,15.6,8,Amazon
+HP,Notebook,AMD,Windows 11,Ryzen 3 3250U,504,379.0,SSD,2048,4.3,14.0,16,Amazon
+acer,Predator Helios 16 PH16-71-71AV,Intel,Windows 11 Home,Intel Core i7,3,1189.99,SSD,2048,4.4,16.0,16,Amazon
+Dell,Dell 11.5 Chromebook,Intel,Chrome OS,Celeron,2,74.99,SSD,32,4.4,11.5,4,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M1,61,799.95,SSD,512,4.4,13.3,16,Amazon
+Microsoft,Surface Laptop 5,Intel,Windows 11 Pro,Core i7,1,1231.1,SSD,512,4.4,13.5,16,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 12,Intel,Windows 11 Pro,Core i7,0,1543.99,SSD,512,4.0,14.0,32,Amazon
+HP,TPN-I139,Intel,Windows 11 Home,Core i7 Family,68,795.0,SSD,2048,4.5,17.3,32,Amazon
+ist computers,ThinkPad E16,AMD,Windows 11 Pro,Ryzen 5,13,649.98,SSD,512,4.4,16.0,16,Amazon
+ist computers,ThinkPad T14,AMD,Windows 11 Pro,Ryzen 5,31,799.98,SSD,512,4.5,14.0,16,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1049.0,SSD,2048,4.0,16.0,24,Amazon
+Lenovo,Lenovo Thinkpad,AMD,Windows 10 Pro,AMD Ryzen 7,0,479.0,SSD,512,4.4,15.6,16,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,1,1159.0,SSD,4096,4.4,16.0,64,Amazon
+SGIN,SGIN-M15,Intel,11,Celeron,8,189.99,SSD,128,4.4,15.6,4,Amazon
+SAMSUNG,Lenovo,Intel,Windows 11 Pro,Core i7,44,699.0,SSD,512,4.4,14.0,16,Amazon
+ist computers,ThinkPad E15 Gen 4,AMD,Windows 11 Pro,AMD Ryzen 7,50,799.99,SSD,512,4.5,15.6,16,Amazon
+Lenovo,Lenovo 500E,Intel,Chrome OS,Celeron N3450,509,84.95,SSD,32,4.4,11.6,4,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Unknown,86,1347.0,SSD,512,4.4,14.0,16,Amazon
+Alienware,Alienware m18 AMD Gaming Laptop,AMD,Windows 11 Home,Ryzen 9,204,2650.68,SSD,2048,4.3,18.0,32,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 12,Intel,Windows 11 Pro,Core i7,3,939.0,SSD,2048,5.0,14.0,32,Amazon
+Dell,Inspiron 3000,Intel,Windows 11 Pro,Core i5,59,467.0,SSD,512,4.4,15.6,16,Amazon
+Apple,MacBook Air,Apple,macOS 10.15 Catalina,Unknown,130,825.0,SSD,256,4.4,15.0,8,Amazon
+Dell,Dell Latitude,Intel,Windows 11,Core i7,139,349.9,SSD,2048,4.5,13.3,16,Amazon
+acer,Chromebook Spin 713,Intel,Chrome OS,Core i3-10110U,6,104.99,EMMC,64,4.4,13.5,4,Amazon
+Oemgenuine,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i5,42,799.95,SSD,250,4.5,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,19,949.0,SSD,4096,4.3,14.0,32,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+HP,HP,Intel,Windows 11,Intel Core i3,2,449.99,SSD,512,4.2,17.3,16,Amazon
+ASUS,Strix G16,Intel,Windows 11 Home,Core i7,331,1274.99,SSD,2048,4.0,16.0,16,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 12,Intel,Windows 11 Pro,Core i7,0,2298.83,SSD,4096,4.3,14.0,64,Amazon
+SAMSUNG,Chromebook 4+,Intel,Chrome OS,Celeron N3450,568,210.0,SSD,64,4.5,15.6,4,Amazon
+ist computers,Lenovo Thinkpad E16,Intel,Windows 11 Pro,Core i5 Family,109,799.99,SSD,512,4.5,16.0,16,Amazon
+Oemgenuine,ThinkPad E16,Intel,Windows 11 Pro,Core i5,42,779.95,SSD,500,4.5,15.6,16,Amazon
+HP,250,Intel,Windows 11 Home,Celeron,167,569.99,SSD,4096,4.4,15.6,32,Amazon
+Lenovo,N23 Yoga Chromebook,MediaTek,Chrome OS,H8S,305,74.99,SSD,32,4.4,11.6,4,Amazon
+HP,11-G2 X360,Intel,Windows 10 Pro,Intel Core M-5Y10 Processor,108,119.0,SSD,128,4.4,11.6,8,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 12,Intel,Windows 11 Pro,Others,9,1849.99,SSD,4096,4.4,14.0,32,Amazon
+Apple,Macbook Pro,Apple,Mac OS,Apple M1,0,614.99,SSD,256,4.4,13.3,8,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M1,103,624.95,SSD,256,4.4,13.3,8,Amazon
+Dell,Latitude 7430,Intel,Windows 11 Pro,Core i7,5,597.0,SSD,512,4.4,14.0,32,Amazon
+Lenovo,82YN0002US,Intel,Windows 11 Home,Intel Core i7-1355U,26,841.68,SSD,512,4.3,16.0,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+jumper,EZbook S5,Intel,Windows 11,Celeron,12,409.99,SSD,512,4.5,14.0,12,Amazon
+HP,Essential,Intel,Windows 11 S,Celeron,0,399.99,SSD,256,4.3,15.6,32,Amazon
+acer,Acer Aspire 3,AMD,Windows 11 Home,Ryzen 7,170,445.0,SSD,512,4.2,15.6,16,Amazon
+Apple,MV962LL/A,Intel,Mac OS,Core i5,395,404.05,SSD,256,4.5,13.3,8,Amazon
+acer,Swift Go 14,Intel,Windows 11 Home,Intel Core i7,69,799.99,SSD,2048,4.3,14.0,16,Amazon
+ASUS,FA617_280W,AMD,Windows 11 Home,Ryzen 7,4,1099.0,SSD,4096,4.4,16.0,32,Amazon
+MSI,Raider GE78HX 14VIG-600US,Intel,Windows 11 Home,Intel Core i9,5,3499.0,SSD,4096,3.4,17.0,64,Amazon
+Lenovo,Lenovo IdeaPad 3,Intel,Windows 11 Pro,Intel Core i7,83,699.0,SSD,2048,4.4,15.6,40,Amazon
+HP,HP Laptop 15-ef2024nr,AMD,Windows 11 Home,Ryzen 3,489,336.95,SSD,256,4.5,15.0,8,Amazon
+Lenovo,lenovo,Intel,Windows 11,Celeron N,243,296.29,SSD,256,4.6,15.6,12,Amazon
+LG,17Z90SP-G.ADB9U1,Intel,Windows 11 Home,Intel Core Ultra 7,42,1849.0,SSD,4096,4.0,17.0,32,Amazon
+ASUS,Zenbook S,Intel,Windows 11 Pro,Core i7,8,1399.0,SSD,1000,4.4,13.3,32,Amazon
+HP,"HP 14"" Chromebook",Intel,Chrome OS,Celeron,268,199.99,SSD,64,4.4,14.0,4,Amazon
+jumper,Ezbook S5MAX,Intel,Windows 11,Intel Mobile CPU,41,329.99,SSD,512,4.5,16.0,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+HP,TPN-C164,Intel,Windows 11 Pro,Intel Mobile CPU,0,1699.0,SSD,2048,4.0,17.3,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+jumper,EZbook S5 MAX,Intel,Windows 11 Home,Celeron,12,329.99,SSD,512,3.0,16.0,16,Amazon
+Dell,Inspiron,Intel,Windows 11 Home,Core i5-1035G1,619,504.69,SSD,2048,4.4,15.6,32,Amazon
+WIPEMIK,P15,Intel,Windows 11 Pro,core_m,98,289.0,SSD,512,4.6,15.6,16,Amazon
+ACEMAGIC,AX16,Intel,Windows 11,Intel Mobile CPU,10,341.96,SSD,512,4.5,16.0,16,Amazon
+Lenovo,Laptop,Intel,Windows 11 Pro,Celeron,66,499.99,SSD,2048,4.4,15.6,16,Amazon
+ApoloSign,NJP1561P,Intel,Windows 11,Celeron N5095,7,799.99,SSD,512,4.5,15.6,12,Amazon
+acer,Acer Chromebook,Intel,Chrome OS,Celeron,71,51.0,EMMC,32,4.1,11.6,4,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Intel Core i7,224,476.99,SSD,256,4.0,15.4,16,Amazon
+Apple,MacBook Air,Apple,macOS Sonoma,Unknown,3,849.0,SSD,256,4.3,13.6,8,Amazon
+Lenovo,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i7,10,818.98,SSD,512,4.4,16.0,16,Amazon
+Dell,Dell Latitude 5420,Intel,Windows 10 Pro,Core i5,78,279.99,SSD,512,4.6,14.0,16,Amazon
+HP,HP Elitebook 840 G5,Intel,Windows 11,Core i5,193,240.0,SSD,512,4.5,14.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,819.0,SSD,512,4.3,15.6,16,Amazon
+Oemgenuine,ThinkPad E15 Gen 2,AMD,Windows 10 Pro,Ryzen 5 4500U,2,829.95,SSD,512,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,1319.0,SSD,4096,4.0,15.6,64,Amazon
+jumper,Ezbook S5MAX,Intel,Windows 11,Intel Mobile CPU,41,329.99,SSD,512,4.5,16.0,16,Amazon
+Microsoft,Microsoft Surface,Intel,Windows 11,Core i7,15,500.23,SSD,256,4.4,13.5,16,Amazon
+Apple,MacBook Pro,Intel,macOS 10.15 Catalina,Core i7,12,519.99,SSD,512,4.4,16.0,32,Amazon
+Dell,Latitude 7400,Intel,Windows 10 Pro,Core i7,211,229.0,SSD,512,4.5,14.0,16,Amazon
+Lenovo,IdeaPad Slim 3i,Intel,Windows 11 Home,Core i5 Family,12,547.85,SSD,512,4.4,15.6,16,Amazon
+HP,HP,Intel,Windows 11,Celeron,93,237.59,EMMC,128,4.5,14.0,16,Amazon
+HP,Newest HP 14 Inch Laptop,Intel,Windows 11 Home,Celeron N,139,239.0,EMMC,64,4.5,14.0,4,Amazon
+Dell,Dell Mobile Workstation 7670,Intel,Windows 11 Pro,Core i7,7,1788.99,SSD,4096,4.0,16.0,64,Amazon
+HP,HP Pavilion Laptop 15-eg2025nr,Intel,Windows 11 Pro,Core i7,584,764.03,SSD,512,4.5,15.6,16,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Core i7,58,165.6,SSD,512,4.5,14.0,16,Amazon
+HP,Laptop,Intel,Windows 11 Home,Core i5,383,569.99,SSD,512,4.4,15.6,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1369.0,SSD,8192,4.0,16.0,64,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,11,1159.0,SSD,4096,4.0,16.0,40,Amazon
+Oemgenuine,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i5,42,799.95,SSD,250,4.5,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+HP,Elite,Intel,Windows 11 Pro,Ryzen 3,7,449.68,SSD,2048,4.2,15.6,32,Amazon
+HP,"2024 Newest HP 14"" Chromebook",Intel,Chrome OS,Celeron N,32,206.1,EMMC,64,4.5,14.0,4,Amazon
+NIAKUN,LAITMIN-G5,AMD,Windows 11 Pro,AMD Ryzen 7 5700U,19,599.99,SSD,2048,4.4,15.6,16,Amazon
+Lenovo,Idea Premium Series,Intel,Windows 11 Pro,Core i3,444,669.0,SSD,2048,4.4,15.6,40,Amazon
+HP,TPN-C160,Intel,Windows 11 Pro,Core i7 Family,91,1329.99,SSD,4096,4.4,17.3,64,Amazon
+HP,TPN-Q221,Intel,Windows 11 Home,Celeron N,8,339.0,SSD,128,4.2,14.0,16,Amazon
+ACEMAGIC,AX16PRO,AMD,Windows 11,AMD Ryzen 7,28,759.54,SSD,512,3.9,16.1,16,Amazon
+ist computers,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i7,9,999.99,SSD,2048,4.3,16.0,40,Amazon
+HP,TPN-I140,AMD,Windows 11 Home,Ryzen 5,86,620.02,SSD,2048,4.4,17.3,32,Amazon
+Apple,MacBook Pro,Intel,OS X 10.9 Mavericks,Core i7,797,348.19,SSD,256,4.3,15.4,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+HP,HP 14 Laptop,Intel,Windows 11 Home,Celeron,71,279.98,SSD,192,4.6,14.0,16,Amazon
+Lenovo,X1 Carbon Gen 11,Intel,Windows 11 Pro,Core i7,3,1390.76,SSD,2048,4.4,14.0,32,Amazon
+ASUS,F1502Z,Intel,Windows 11 Home,Core i7 Family,46,639.0,SSD,2048,4.4,15.6,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 5,25,549.0,SSD,2048,4.4,15.6,32,Amazon
+HP,HP Chromebook,Intel,Chrome OS,Celeron,606,53.0,SSD,16,4.4,11.6,4,Amazon
+AimCare,Ideapad,Intel,Windows 11 S,Celeron,22,189.0,EMMC,128,4.4,14.0,4,Amazon
+ASUS,F1505Z,Intel,Windows 11 Home,Core i7 Family,35,795.98,SSD,4096,4.3,15.6,40,Amazon
+acer,Aspire,AMD,Windows 11 Pro,Ryzen 5,39,599.0,SSD,2048,4.4,15.6,32,Amazon
+Dell,Dell Latitude 7400,Intel,Windows 11,Core i5,15,267.0,SSD,2048,4.6,14.0,32,Amazon
+ASUS,F1605Z,Intel,Windows 11 Home,Core i7 Family,35,615.0,SSD,2048,4.4,16.0,24,Amazon
+NIAKUN,NIABook,Intel,Windows 11 Pro,Celeron,36,359.99,SSD,2048,4.3,16.1,16,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,10,1296.71,SSD,4096,4.0,15.6,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1299.0,SSD,2048,4.0,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,999.0,SSD,4096,4.1,16.0,40,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+HP,Essiential,Intel,Windows 11,Intel Core i3,2,699.0,SSD,512,4.4,17.3,40,Amazon
+Dell,Latitude 5300 2-in-1,Intel,Windows 10 Pro,Intel Core i7,52,238.89,SSD,512,4.5,13.3,16,Amazon
+Harry Potter,ProBook X360 11 G4 EE,Intel,Windows 10 Pro,Core i5 Family,1,119.99,SSD,256,4.5,11.6,8,Amazon
+SAMSUNG,"Samsung 11.5"" Chromebook",Intel,Chrome OS,Celeron N,59,133.99,SSD,64,4.6,11.5,4,Amazon
+Dell,Dell Mobile Workstation 7670,Intel,Windows 11 Pro,Core i7,7,1788.99,SSD,4096,4.0,16.0,64,Amazon
+HP,HP 14inch Touch Laptop,Intel,Windows 11,Celeron,27,229.99,SSD,64,4.5,14.0,4,Amazon
+Lenovo,X1 Carbon Gen 11,Intel,Windows 11 Pro,Core i7,3,1390.77,SSD,2048,4.4,14.0,32,Amazon
+HP,HP Chromebook,Intel,Chrome OS,Celeron,606,53.0,SSD,16,4.4,11.6,4,Amazon
+MSI,Prestige 16 AI Evo B1MG-020US,Intel,Windows 11 Pro,Intel Mobile CPU,173,1549.0,SSD,4096,4.0,16.0,32,Amazon
+HP,TPN-I140,AMD,Windows 11 Home,Ryzen 5,86,620.02,SSD,2048,4.4,17.3,32,Amazon
+HP,15.6 FHD,Intel,Windows 11,Core i7,40,659.0,SSD,2048,4.4,15.6,16,Amazon
+acer,Chromebook 11 N7 C731,Intel,Chrome OS,Celeron,68,48.0,SSD,16,3.8,11.6,4,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,0,999.0,SSD,512,4.3,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+HP,TPN-C164,Intel,Windows 11 Pro,Intel Mobile CPU,0,1634.21,SSD,8192,4.0,17.3,64,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Core i7,790,241.99,SSD,512,4.5,14.0,16,Amazon
+Lenovo,Thinkpad T480,Intel,Windows 10 Pro,Core i5,376,199.0,SSD,256,4.4,14.0,16,Amazon
+acer,CP314-1H-P1Q5,Intel,Chrome OS,Pentium,244,355.0,EMMC,128,4.3,14.0,8,Amazon
+acer,CB315-3HT,Intel,Chrome OS,Celeron N4020,865,240.99,SSD,64,4.5,15.6,4,Amazon
+Apple,MacBook Pro,Intel,OS X 10.9 Mavericks,Core i7,797,348.19,SSD,256,4.3,15.4,16,Amazon
+Lenovo,IdeaPad Slim 5 16IRL8,Intel,Windows 11 Home,Core i7,16,439.99,SSD,512,4.5,16.0,16,Amazon
+HP,3NU63UT,Intel,Chrome OS,Celeron N3350,600,94.95,SSD,16,4.5,14.0,4,Amazon
+HP,HP 14 Laptop,Intel,Windows 11 Home,Celeron,71,279.98,SSD,192,4.6,14.0,16,Amazon
+NIAKUN,NIABook,Intel,Windows 11 Pro,Celeron,36,359.99,SSD,2048,4.3,16.1,16,Amazon
+Dell,3520,Intel,Windows 11 Home,Intel Core i5,6,349.99,SSD,256,4.2,15.6,8,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i5,220,369.0,SSD,256,4.3,13.3,8,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1229.0,SSD,4096,4.0,16.0,64,Amazon
+acer,Chromebook Spin 713,Intel,Chrome OS,Core i3-10110U,6,104.99,EMMC,64,4.4,13.5,4,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,2,729.0,SSD,2048,5.0,14.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+KOOFORWAY,P8,Intel,Windows 11 Pro,Others,73,469.0,SSD,2048,4.4,8.0,12,Amazon
+acer,Aspire,AMD,Windows 11 Pro,Ryzen 5,39,599.0,SSD,2048,4.4,15.6,32,Amazon
+Apple,MacBook Air,Intel,Mac OS,Core i5,289,170.07,SSD,128,4.5,13.0,8,Amazon
+HP,HP,Intel,Windows 11 Home,Core i5-1235U,12,499.99,SSD,2048,4.4,15.6,16,Amazon
+Dell,3190 2in1,Intel,Windows 10 Pro,Pentium N5000,479,107.0,SSD,128,4.4,11.6,8,Amazon
+ist computers,ProBook 450 G10,Intel,Windows 11 Pro,Intel Core i7,2,949.98,SSD,2048,4.3,15.6,32,Amazon
+HP,hp,Intel,Chrome OS,Celeron,66,56.0,EMMC,16,4.1,11.6,4,Amazon
+Dell,Latitude 7210 2-in-1,Intel,Windows 10 Pro,Core i7,19,495.97,SSD,256,4.3,12.3,16,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i7,97,331.83,SSD,256,4.3,15.4,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+Razer,Razer Blade 16,Intel,Windows 11,Intel Core i9,45,3299.99,SSD,2048,3.4,16.0,32,Amazon
+HP,Notebook,Intel,Windows 11 Home,Core i5 Family,19,454.0,SSD,512,4.4,15.6,16,Amazon
+Apple,MacBook Pro,Intel,Chrome OS,Core i5-3210M,234,107.84,SSD,500,4.4,13.3,8,Amazon
+HP,Essential 17,Intel,Windows 11,Intel Core i7,17,999.0,SSD,4096,4.3,17.3,64,Amazon
+Apple,MacBook Pro 16-inch,Intel,Mac OS X 10.0 Cheetah,Core i7,148,569.99,SSD,512,4.4,16.0,16,Amazon
+Lenovo,Yoga,Intel,Windows 11 Pro,Others,4,899.99,SSD,2048,4.4,16.0,16,Amazon
+LG,16T90SP-K.ADB9U1,Intel,Windows 11 Home,Intel Core Ultra 7,10,1889.0,SSD,2048,4.0,16.0,32,Amazon
+Lenovo,Lenovo V15-IKB,AMD,Windows 11 Pro,Ryzen 5,148,549.0,SSD,2048,4.4,15.6,24,Amazon
+Apple,MacBook Pro,Intel,macOS 10.13 High Sierra,Core i5,816,339.97,SSD,256,4.3,13.3,8,Amazon
+HP,Notebook,Intel,Windows 11 Home,Core i5 Family,37,520.0,SSD,2048,4.4,15.6,32,Amazon
+ASUS,F1704ZA,Intel,Windows 11 Home,Pentium,10,539.0,SSD,2048,4.4,17.3,12,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1299.0,SSD,2048,4.0,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,10,1296.71,SSD,4096,4.0,15.6,64,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+Microsoft,Surface Laptop,Intel,Windows 11,Intel Core i5,24,610.0,SSD,256,4.4,14.0,16,Amazon
+ASUS,2024 Flagship ASUS Chromebook,Intel,Chrome OS,2.8 GHz,9,279.0,EMMC,64,4.6,17.3,4,Amazon
+HP,Essiential,Intel,Windows 11,Intel Core i3,2,699.0,SSD,512,4.4,17.3,40,Amazon
+Microsoft,Microsoft Surface Laptop 4,Intel,Windows 10 Home,AMD Ryzen 7,21,748.99,SSD,256,4.5,15.0,8,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i5,220,369.0,SSD,256,4.3,13.3,8,Amazon
+ASUS,Zephyrus Duo,AMD,Windows 11 Pro,Ryzen 9,41,3760.99,SSD,4096,3.4,16.0,32,Amazon
+Dell,Dell 11 Chromebook,Intel,Chrome OS,Celeron,3,98.99,SSD,32,4.5,11.0,4,Amazon
+HP,"2024 Newest HP 14"" Chromebook",Intel,Chrome OS,Celeron N,23,217.08,EMMC,64,4.5,14.0,4,Amazon
+Lenovo,ThinkPad L13 Yoga Laptop,Intel,Windows 10 Pro,Intel Core i5,33,404.97,SSD,512,4.2,13.3,16,Amazon
+KOOFORWAY,P8,Intel,Windows 11 Pro,Others,73,469.0,SSD,2048,4.4,8.0,12,Amazon
+HP,Notebook,Intel,Windows 11 Home,Core i5 Family,37,520.0,SSD,2048,4.4,15.6,32,Amazon
+HP,HP,Intel,Windows 11 Home,Core i5-1235U,12,499.99,SSD,2048,4.4,15.6,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,529.0,SSD,512,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,849.0,SSD,2048,4.3,15.6,16,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,1,1159.0,SSD,4096,4.4,16.0,64,Amazon
+Razer,Blade 18,Intel,Windows 11 Home,Intel Core i9,7,3899.99,SSD,8192,4.3,18.0,32,Amazon
+HP,Notebook,Intel,Windows 11 Home,Core i5 Family,19,454.0,SSD,512,4.4,15.6,16,Amazon
+Lenovo,IdeaPad 3 15IAU7,Intel,Windows 11 Home,Core i5 Family,2,819.95,SSD,2048,5.0,15.6,40,Amazon
+ist computers,ProBook 450 G10,Intel,Windows 11 Pro,Intel Core i7,2,949.98,SSD,2048,4.3,15.6,32,Amazon
+Dell,7490,Intel,Windows 10 Pro,Core i7-8650U,90,402.0,SSD,1000,4.5,14.0,32,Amazon
+Apple,MacBook Pro,Intel,macOS 10.13 High Sierra,Core i5,816,339.97,SSD,256,4.3,13.3,8,Amazon
+Apple,MacBook Pro,Intel,Mac OS X 10.0 Cheetah,Core i9,103,589.6,SSD,2048,4.4,16.0,16,Amazon
+Lenovo,82XQ006RUS,AMD,Windows 11 Home,AMD Ryzen 5 3450U,30,485.0,SSD,256,4.4,15.6,8,Amazon
+Lenovo,ThinkBook 15 G3 ACL,Intel,Windows 11 Pro,Core i7 Family,7,720.0,SSD,2048,4.5,15.6,40,Amazon
+HP,HP Stream,Intel,Windows 11 S,Pentium,21,349.0,EMMC,2048,4.5,14.0,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1169.0,SSD,2048,4.4,16.0,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,2,729.0,SSD,8192,5.0,14.0,64,Amazon
+Oemgenuine,ThinkPad E15 Gen 2,AMD,Windows 10 Pro,Ryzen 5 4500U,2,829.95,SSD,512,4.4,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,1,729.0,SSD,4096,1.0,14.0,64,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+HP,HP Chromebook,Intel,Chrome OS,Celeron N,41,182.0,EMMC,128,4.4,14.0,4,Amazon
+HP,EliteBook 840 G10,Intel,Windows 11 Pro,Core i5,0,759.77,SSD,512,4.5,14.0,16,Amazon
+Panasonic,CF53RL1A,Intel,Windows 10 Pro,Core i5-2520M,239,448.99,SSD,2048,4.5,14.0,16,Amazon
+Lenovo,Lenovo ThinkPad E15 Gen 2,AMD,Windows 10 Pro,Ryzen 5 4500U,5,380.0,SSD,512,4.3,15.6,16,Amazon
+HP,HP,Intel,Windows 10 Pro,Core i3 Family,96,547.9,SSD,2048,4.4,17.3,32,Amazon
+Apple,MacBook Pro,Intel,macOS 10.15 Catalina,Core i5,220,438.97,SSD,256,4.4,13.0,8,Amazon
+ZENAERO,AeonBook 2024,Intel,Windows 11 Pro,Celeron N,35,249.99,SSD,512,4.5,15.6,12,Amazon
+INHONLAP,No,Intel,11 Pro,Celeron N4000,15,198.99,SSD,256,4.4,14.0,8,Amazon
+HP,Newest HP 14 Inch Laptop,Intel,Windows 11 Home,Celeron N,41,259.0,EMMC,64,4.4,14.0,4,Amazon
+Microsoft,Surface Laptop,Intel,Windows 11,Intel Core i5,24,610.0,SSD,256,4.4,14.0,16,Amazon
+Lenovo,Lenovo Thinkpad,AMD,Windows 10 Pro,AMD Ryzen 7,0,479.0,SSD,512,4.4,15.6,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,899.0,SSD,4096,4.3,14.0,64,Amazon
+HP,HP Stream,Intel,Windows 11 S,Celeron N,338,220.5,EMMC,64,4.5,14.0,16,Amazon
+HP,HP Stream,Intel,Windows 11 S,Pentium,21,349.0,EMMC,2048,4.5,14.0,16,Amazon
+Lenovo,"Lenovo 15"" Laptop",Intel,Windows 11,Pentium,155,219.99,SSD,256,4.5,15.0,8,Amazon
+Lenovo,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i7,2,1049.99,SSD,2048,4.4,16.0,32,Amazon
+Apple,MacBook Pro,Intel,Mac OS X 10.0 Cheetah,Core i9,103,589.6,SSD,2048,4.4,16.0,16,Amazon
+ACEMAGIC,AX15,Intel,Windows 11,Intel Mobile CPU,11,899.99,SSD,512,4.3,16.0,16,Amazon
+HP,Essential 17,Intel,Windows 11,Intel Core i7,4,1039.99,SSD,4096,4.4,17.0,64,Amazon
+HP,"2024 Newest HP 14"" Chromebook",Intel,Chrome OS,Celeron N,23,217.08,EMMC,64,4.5,14.0,4,Amazon
+Dell,Latitude 5540,Intel,Windows 11 Pro,Core i5,0,1159.99,SSD,8192,4.4,15.6,64,Amazon
+ASUS,Zephyrus Duo,AMD,Windows 11 Pro,Ryzen 9,41,3760.99,SSD,4096,3.4,16.0,32,Amazon
+ist computers,ThinkPad E14 Gen 5,Intel,Windows 11 Pro,Core i5,2,799.98,SSD,512,4.5,14.0,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1079.0,SSD,2048,4.0,16.0,32,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,999.0,SSD,4096,4.1,16.0,40,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i5,2,929.0,SSD,2048,4.1,15.6,32,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1229.0,SSD,4096,4.0,16.0,64,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1049.0,SSD,2048,4.0,16.0,24,Amazon
+ASUS,TUF Gaming A16,AMD,Windows 11,Ryzen 7,2,884.99,SSD,512,4.4,16.0,16,Amazon
+Dell,Dell Latitude E5470,Intel,Windows 10 Pro,Core i5 Family,793,148.99,SSD,256,4.6,14.0,8,Amazon
+Dell,Latitude 5420 Rugged,Intel,Windows 10 Pro,68LC040,7,929.95,SSD,2048,4.3,14.0,32,Amazon
+HP,Essential 17,Intel,Windows 11,Intel Core i7,17,999.0,SSD,4096,4.3,17.3,64,Amazon
+Lenovo,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i7,2,1049.99,SSD,2048,4.4,16.0,32,Amazon
+Lenovo,IdeaPad 3i,Intel,Windows 11 Home,Celeron N4020,236,161.99,SSD,128,4.5,14.0,4,Amazon
+FUNYET,NY-01,Intel,Windows 11 Pro,Celeron,284,259.99,SSD,256,4.4,14.1,8,Amazon
+Lenovo,"Lenovo 15"" Laptop",Intel,Windows 11,Pentium,155,219.99,SSD,256,4.5,15.0,8,Amazon
+Apple,MR9Q2LL/A,Intel,macOS 10.14 Mojave,Core i7,72,448.98,SSD,512,4.4,13.3,16,Amazon
+Dell,3520,Intel,Windows 11 Home,Intel Core i5,6,349.99,SSD,256,4.2,15.6,8,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,869.0,SSD,2048,4.3,16.0,24,Amazon
+Dell,Dell Inspiron,AMD,Windows 11 Pro,1.2GHz Cortex A8 Processor,0,649.0,SSD,2048,4.4,15.6,36,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,19,949.0,SSD,4096,4.3,14.0,32,Amazon
+Panasonic,CF53RL1A,Intel,Windows 10 Pro,Core i5-2520M,239,448.99,SSD,2048,4.5,14.0,16,Amazon
+Apple,MacBook Pro,Intel,macOS 10.15 Catalina,Core i5,220,438.97,SSD,256,4.4,13.0,8,Amazon
+Lenovo,Lenovo T480 T480s,Intel,Windows 10 Pro,Intel Core i5,162,201.5,SSD,512,4.5,14.0,16,Amazon
+jumper,EZbook S7Max,Intel,Windows 11,Celeron,9,229.99,SSD,128,4.5,16.0,4,Amazon
+ASUS,FA607PV-AS93,AMD,Windows 11 Home,Ryzen 9,8,1338.18,SSD,512,4.0,16.0,16,Amazon
+Dell,Latitude 5540,Intel,Windows 11 Pro,Core i5,0,1159.99,SSD,8192,4.4,15.6,64,Amazon
+acer,Acer Chromebook Plus 514,Intel,Chrome OS,Intel Core i3,11,325.0,SSD,128,4.5,14.0,8,Amazon
+HP,TPN-I139,Intel,Windows 11 Home,Core i7 Family,0,999.0,SSD,4096,4.1,17.3,64,Amazon
+Apple,MacBook Pro,Intel,macOS Big Sur,Intel Core i7,45,525.0,SSD,512,4.5,16.0,32,Amazon
+Alienware,Alienware X16 R1 Gaming Laptop,Intel,Windows 11 Home,Core i9,165,2766.0,SSD,2048,4.3,16.0,32,Amazon
+HP,EliteBook 840 G10,Intel,Windows 11 Pro,Core i5,0,759.77,SSD,512,4.5,14.0,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,629.0,SSD,512,4.4,14.0,16,Amazon
+Dell,Dell Mobile Workstation 7670,Intel,Windows 11 Pro,Core i9,1,2099.99,SSD,4096,4.0,16.0,64,Amazon
+HP,TPN-C147,Intel,Windows 11 Home,Intel Mobile CPU,2,719.0,SSD,2048,4.5,16.0,16,Amazon
+HP,HP Chromebook,Intel,Chrome OS,Celeron N,41,182.0,EMMC,128,4.4,14.0,4,Amazon
+HP,"HP 11"" Laptop",Intel,Windows 11,Pentium,261,214.99,SSD,128,4.5,11.0,8,Amazon
+HP,A14M,AMD,Windows 11 Home,AMD R Series,2,797.0,SSD,2048,4.5,15.6,32,Amazon
+Maxsignage,Notebook-NJP1561P,Intel,Windows 11 Home,Celeron,13,899.99,SSD,512,4.4,15.6,12,Amazon
+ACEMAGIC,AX16,Intel,Windows 11,Intel Mobile CPU,4,379.95,SSD,512,5.0,16.0,16,Amazon
+ist computers,ThinkPad T14,Intel,Windows 11 Pro,Core i5,17,949.98,SSD,512,4.3,14.0,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+HP,TPN-C169,Intel,Windows 11 Home,Core i7 Family,12,1199.0,SSD,2048,4.4,16.1,32,Amazon
+Lenovo,IdeaPad Slim 3 Chromebook,MediaTek,Chrome OS,MediaTek Helio,20,249.98,SSD,128,4.5,14.0,4,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i7,59,379.95,SSD,256,4.5,13.3,16,Amazon
+CHUWI,HeroBook Pro Laptop,Intel,Windows 11,Celeron N4020,565,192.99,SSD,256,4.4,14.1,8,Amazon
+HP,Chromebook 14,Intel,Chrome OS,Celeron,9,209.99,SSD,128,4.2,14.0,4,Amazon
+acer,Acer Chromebook Plus 514 Laptop CB514-3HT-R8RB,AMD,Chrome OS,Ryzen 3,101,370.0,EMMC,128,4.3,14.0,8,Amazon
+Lenovo,Legion Pro 9i Gen 9,Intel,Windows 11 Home,Core i9,2,3699.95,SSD,4096,4.2,16.0,32,Amazon
+HP,TPN-I139,Intel,Windows 11 Home,Pentium,42,530.1,SSD,2048,4.4,17.3,16,Amazon
+HP,FCFSV,Intel,Windows 11 S,Pentium Other,78,549.0,SSD,2048,4.4,17.3,20,Amazon
+Lenovo,Lenovo,Intel,Windows 11 Home,Core i3-1215U,33,519.0,SSD,2048,4.4,15.6,24,Amazon
+Microsoft,Microsoft Surface Laptop 5,Intel,Windows 11 Pro,Core i7,3,1680.18,SSD,2048,4.0,15.0,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1299.0,SSD,2048,4.0,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+HP,HP,Intel,Windows 11,Intel Core i3,2,449.99,SSD,512,4.2,17.3,16,Amazon
+HP,Essential,Intel,Windows 11 S,Celeron,6,399.99,SSD,256,4.3,15.6,32,Amazon
+Lenovo,Lenovo V15 G2 IJL,Intel,Windows 11 Home,Celeron N,20,279.0,SSD,128,4.6,15.6,8,Amazon
+ASUS,TP3402Z,Intel,Windows 11 Pro,Intel Core i9,5,1029.0,SSD,2048,4.4,16.0,32,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i5-6267U,59,359.0,SSD,256,4.3,13.3,8,Amazon
+HP,ELITEBOOK X360 1040 G6,Intel,Windows 11 Pro,Intel Core i7,37,349.99,SSD,512,4.2,14.0,16,Amazon
+SGIN,M17,Intel,11,Celeron,3,239.99,SSD,128,4.5,17.3,4,Amazon
+HP,HP 15,Intel,Windows 10,Core I3 1115G4,447,303.0,SSD,256,4.5,15.6,8,Amazon
+HP,Chromebook,Intel,Chrome OS,Celeron N,373,288.99,SSD,4,4.6,14.0,4,Amazon
+HP,HP Notebook 15-dy1731ms,Intel,Windows 10,Intel Core i3,876,354.99,SSD,128,4.3,15.6,8,Amazon
+Microsoft,Surface Laptop 5,Intel,Windows 11 Pro,Core i7,1,1570.0,SSD,2048,4.4,15.0,32,Amazon
+ApoloMedia,NJP1561P,Intel,Windows 11 Home,Celeron N,64,288.0,SSD,512,4.2,15.6,12,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+jumper,EZbook S5,Intel,Windows 11,Celeron,12,409.99,SSD,512,4.5,14.0,12,Amazon
+LETSUNG,ABLE 1,Intel,Windows 11 Home,Celeron N3350,16,199.0,SSD,256,4.4,14.0,4,Amazon
+Lenovo,Essential,Intel,Windows 11,Mobile Intel Celeron Processor,2,499.99,SSD,512,4.4,15.6,36,Amazon
+ASUS,ROG Strix G17,AMD,Windows 11 Home,Ryzen 7,162,1148.99,SSD,512,4.0,17.3,16,Amazon
+ACEMAGIC,AX15,Intel,Windows 11,Intel Mobile CPU,18,899.99,SSD,512,4.4,15.6,16,Amazon
+Microsoft,Surface Laptop 5,Intel,Windows 11 Pro,Core i7,2,1295.18,SSD,512,4.4,15.0,16,Amazon
+acer,Aspire 5,AMD,Windows 11,Ryzen 3 3350U,977,385.0,SSD,128,4.3,15.6,4,Amazon
+HP,HP,Intel,Windows 11 Home,Core i7,34,617.0,SSD,512,4.4,15.6,16,Amazon
+ASUS,ASUS ROG Strix G18 Gaming Laptop,Intel,Windows 11 Pro,Core i9,6,2939.65,SSD,8192,4.3,18.0,64,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Core i7-8650U,183,214.0,SSD,512,4.5,14.0,16,Amazon
+ist computers,IdeaPad Flex 5i,Intel,Chrome OS,Core i3 Family,3,499.98,SSD,256,4.4,14.0,8,Amazon
+acer,Acer Aspire 3,AMD,Windows 11 Pro,Ryzen 7,10,699.0,SSD,2048,4.4,15.6,40,Amazon
+SAMSUNG,Samsung Galaxy Book4,Intel,Windows 11 Pro,Intel Core 7,104,899.0,SSD,2048,4.4,15.6,16,Amazon
+acer,A314-36P-35UU,Intel,Windows 11 S,Intel Core i3,57,299.09,SSD,128,4.6,14.0,8,Amazon
+jumper,Ezbook S5MAX,Intel,Windows 11,Intel Mobile CPU,41,329.99,SSD,512,4.5,16.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1349.0,SSD,4096,4.0,15.6,64,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,AMD Ryzen 7,18,939.0,SSD,4096,4.3,16.0,40,Amazon
+acer,Acer Nitro V Gaming Laptop,AMD,Windows 11 Home,Ryzen 5,25,769.99,SSD,512,4.3,15.6,8,Amazon
+HP,HP ENVY x360,Intel,Windows 11 Pro,Core i7,0,1669.0,SSD,8192,4.4,15.6,64,Amazon
+acer,Aspire,AMD,Windows 11,Ryzen 7,1,389.0,SSD,512,4.3,15.6,16,Amazon
+HP,HP Laptop,Intel,Windows 11 S,Pentium,2,344.0,SSD,128,4.2,17.3,4,Amazon
+ASUS,VivoBook 15,Intel,Windows 10 Home,Core i3-1005G1,21,323.0,SSD,128,4.5,15.6,8,Amazon
+HP,HP laptop,Intel,Windows 11 Home,Core i3,694,609.0,SSD,2048,4.4,15.6,32,Amazon
+ist computers,ThinkPad T16,Intel,Windows 11 Pro,Core i7,21,1349.99,SSD,2048,4.4,16.0,32,Amazon
+ACEMAGIC,AX16,Intel,Windows 11,Intel Mobile CPU,25,379.95,SSD,512,4.3,16.0,16,Amazon
+TPV,RenoPad,Intel,Windows 11 Pro,Intel Processor N100,21,349.0,SSD,512,4.7,14.0,16,Amazon
+HP,HP Stream,Intel,Windows 11 S,Celeron N,338,220.5,EMMC,64,4.5,14.0,16,Amazon
+Lenovo,IdeaPad 3 14ITL05,Intel,Windows 11 Home,Core i5 Family,3,341.0,SSD,512,4.2,14.0,12,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+Lenovo,IdeaPad Slim 3i,Intel,Windows 11 Home,Core i7,1,636.77,SSD,512,4.4,14.0,16,Amazon
+Lenovo,ThinkPad T14 Gen 4,Intel,Windows 11 Pro,Core i7,1,1098.0,SSD,512,4.4,14.0,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Core i7,22,1079.0,SSD,2048,4.4,15.6,32,Amazon
+acer,Spin,Intel,Chrome OS,Core i5,24,552.9,SSD,128,4.4,13.5,8,Amazon
+ist computers,ProBook 450 G10,Intel,Windows 11 Pro,Core i5 Family,8,738.98,SSD,512,4.5,15.6,16,Amazon
+Lenovo,Lenovo Laptop,Intel,Windows 10 S,Celeron,24,64.99,SSD,64,4.4,11.6,4,Amazon
+ASUS,FX507VI-F15.I74070,Intel,Windows 11 Home,Core i7 Family,10,1499.99,SSD,2048,4.4,15.6,16,Amazon
+Apple,MacBook Pro,Apple,Mac OS,1,5,1189.99,SSD,512,4.0,14.2,8,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i5,178,199.99,SSD,256,4.6,13.3,8,Amazon
+HP,ProBook 445 G9,AMD,Windows 11 Pro,Ryzen 7,32,599.98,SSD,512,4.4,14.0,16,Amazon
+Lenovo,IdeaPad 1 15IJL7,Intel,Windows 11 Home,Celeron N,11,359.0,SSD,256,4.3,15.6,12,Amazon
+ZENAERO,AeonBook 2024,Intel,Windows 11 Pro,Celeron N,35,249.99,SSD,512,4.5,15.6,12,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,529.0,SSD,512,4.4,15.6,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1169.0,SSD,2048,4.4,16.0,64,Amazon
+Dell,Latitude E6440,Intel,Windows 10 Pro,Intel Core i5,631,153.26,SSD,256,4.5,14.0,8,Amazon
+Lenovo,Lenovo Chromebook,Intel,Chrome OS,Celeron N,54,279.0,SSD,64,4.6,15.6,4,Amazon
+ACEMAGIC,AX15,Intel,Windows 11,Intel Mobile CPU,32,359.98,SSD,512,3.5,16.0,16,Amazon
+Dell,Vostro,Intel,Windows 11 Pro,Core i5,2,779.0,SSD,2048,4.5,15.6,32,Amazon
+Lenovo,V15,Intel,Windows 11 Pro,Celeron,24,549.0,SSD,2048,4.4,15.6,32,Amazon
+HP,HP Laptop,Intel,Windows 11 Pro,Pentium,295,659.99,SSD,2048,4.4,17.3,32,Amazon
+Dell,DELL XPS 15 9530,Intel,Windows 11 Pro,Core i7,12,1798.99,SSD,4096,4.4,15.6,64,Amazon
+HP,Essential 17,AMD,Windows 11,Ryzen 5,15,699.0,SSD,2048,4.4,17.0,32,Amazon
+MSI,MSI Katana A15,Intel,Windows 11,Core i7,2,1129.0,SSD,2048,4.0,15.6,32,Amazon
+HP,2024 Flagship HP 17 Laptop,Intel,Windows 11 Pro,Core i3,15,558.2,SSD,2048,4.4,17.3,32,Amazon
+Lenovo,ThinkBook,Intel,Windows 11 Pro,Intel Core Ultra 5,18,839.0,SSD,2048,4.4,16.0,32,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,749.0,SSD,4096,4.3,14.0,32,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,22,899.0,SSD,2048,4.3,16.0,24,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1149.0,SSD,4096,4.0,16.0,40,Amazon
+Lenovo,Lenovo ThinkBook,Intel,Windows 11 Pro,Core i7 Family,14,760.0,SSD,2048,4.5,15.6,40,Amazon
+Dell,Dell Latitude 7480,Intel,Windows 10,Core i5,453,209.0,SSD,256,4.5,14.0,16,Amazon
+ACEMAGIC,AX16,Intel,Windows 11,Intel Mobile CPU,6,341.96,SSD,512,2.6,16.0,16,Amazon
+jumper,Ezbook S5MAX,Intel,Windows 11,Intel Mobile CPU,101,679.99,SSD,512,4.4,16.0,16,Amazon
+MSI,MSI Thin 15,Intel,Windows 11,Core i5,2,699.0,SSD,512,4.4,15.6,16,Amazon
+HP,TPN-C159,Intel,Windows 11 Pro,Core i7 Family,2,1178.1,SSD,2048,4.4,16.0,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i5,2,819.99,SSD,512,4.4,15.6,16,Amazon
+HP,HP 17 Laptop,AMD,Windows 11 Home,Ryzen 5,19,564.99,SSD,2048,4.4,17.3,16,Amazon
+acer,Aspire 5,AMD,Windows 11 S,Ryzen 3,266,498.88,SSD,2048,4.4,15.6,20,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Core i7,12,1219.0,SSD,4096,4.0,15.6,64,Amazon
+Dell,Dell Mobile Workstation 7670,Intel,Windows 11 Pro,Core i5,1,1299.99,SSD,2048,4.0,16.0,32,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,999.0,SSD,4096,4.1,16.0,40,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i5,1,799.99,SSD,256,4.5,15.6,16,Amazon
+ASUS,F1504Z,Intel,Windows 11 Home,Core i7 Family,28,696.0,SSD,2048,4.4,15.6,40,Amazon
+Microsoft,Microsoft Surface Laptop Studio,Intel,Windows 11 Home,Intel Core i7-11700,159,1699.0,SSD,2048,4.4,14.4,32,Amazon
+HP,HP Essential,Intel,Windows 11,Intel Core i3,3,499.0,SSD,2048,4.4,15.6,64,Amazon
+Lenovo,IdeaPad,Intel,Windows 11 Pro,Core i5,0,479.99,SSD,512,4.4,15.6,16,Amazon
+Lenovo,Lenovo Thinkpad,Intel,Windows 10 Pro,Core i5,219,178.17,SSD,256,4.4,14.0,16,Amazon
+Dell,Latitude 7440,Intel,Windows 11 Pro,Core i7,11,1049.0,SSD,512,4.0,14.0,32,Amazon
+HP,HP-830 G6,Intel,Windows 10 Pro,Intel Core i7,144,199.99,SSD,256,4.6,14.0,16,Amazon
+Lenovo,IdeaPad,Intel,Windows 11 Home,Core i3 Family,361,446.99,SSD,2048,4.5,14.0,20,Amazon
+LG,17Z90S-G.AAB4U1,Intel,Windows 11 Home,Intel Core Ultra 5,44,1139.23,SSD,512,4.0,17.0,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1369.0,SSD,8192,4.0,16.0,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i5,2,929.0,SSD,2048,4.1,15.6,32,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Dell,Dell Inspiron,Intel,Windows 11 Home,Core i5,56,443.99,SSD,512,4.5,15.6,16,Amazon
+ist computers,ThinkPad P14s Gen 2,Intel,Windows 11 Pro,Core i7,2,1019.98,SSD,2048,4.4,14.0,32,Amazon
+Lenovo,Lenovo Slim Pro 9 16IRP8,Intel,Windows 11 Home,Core i9,30,1079.99,SSD,4096,4.4,16.0,32,Amazon
+Oemgenuine,Latitude 5550,Intel,Windows 11 Pro,Intel Core 7,3,1219.95,SSD,2048,4.0,15.6,32,Amazon
+HP,TPN-Q278,Intel,Windows 11 Home,Core i5 Family,26,847.95,SSD,2048,4.3,15.6,32,Amazon
+ist computers,ThinkPad E16,AMD,Windows 11 Pro,Ryzen 7,6,848.99,SSD,2048,4.4,16.0,40,Amazon
+ASUS,TUF Gaming F15,Intel,Windows 11 Home,Core i5,56,985.0,SSD,2048,4.1,15.6,16,Amazon
+Apple,MacBook Air,Intel,OS X 10.10 Yosemite,Core i7,204,240.0,SSD,256,4.5,13.3,8,Amazon
+CHUWI,CHUWI MiniBook X (N100),Intel,Windows 11,Celeron,62,349.0,SSD,512,4.5,10.51,12,Amazon
+Lenovo,Newest Lenovo Slim 3 Chromebook,MediaTek,Chrome OS,Cortex,29,216.0,EMMC,64,4.5,14.0,4,Amazon
+Lenovo,ThinkPad T14 Gen4,Intel,Windows 11 Pro,Core i5,2,1049.99,SSD,2048,4.4,14.0,40,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1149.0,SSD,4096,4.0,16.0,40,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,679.0,SSD,2048,4.4,14.0,16,Amazon
+Oemgenuine,ThinkPad E15 Gen 2,AMD,Windows 10 Pro,Ryzen 5 4500U,2,829.95,SSD,512,4.4,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1079.0,SSD,2048,4.0,16.0,32,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,699.0,SSD,2048,4.4,14.0,32,Amazon
+HP,HP EliteBook,Intel,Windows 10,Core i7 6600U,985,189.99,SSD,512,4.5,14.1,16,Amazon
+LG,gram,Intel,Windows 11 Pro,Core i7,2,990.0,SSD,2048,4.1,17.0,16,Amazon
+Lenovo,ThinkBook,Intel,Windows 11 Pro,Intel Core i5,30,719.0,SSD,512,4.3,16.0,16,Amazon
+Lenovo,ThinkPad E16 Gen 1,AMD,Windows 11 Pro,Ryzen 5,8,610.18,SSD,256,4.4,16.0,8,Amazon
+Lenovo,V15,Intel,Windows 11 Pro,Celeron,101,279.0,SSD,256,4.2,15.6,16,Amazon
+acer,Newest Acer 15 Inch Chromebook,Intel,Chrome OS,Celeron,22,239.0,EMMC,64,4.5,15.6,4,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,1,1159.0,SSD,4096,4.4,16.0,64,Amazon
+Lenovo,Legion 5 16IRX9,Intel,Windows 11 Home,Core i9,2,1999.99,SSD,4096,4.4,16.0,64,Amazon
+Dell,Inspiron,Intel,Windows 11 Home S,Intel Core i5,22,579.0,SSD,2048,4.4,15.6,32,Amazon
+ASUS,ASUS VivoBook Go 14,Intel,Windows 11 Home S,Celeron,287,217.0,SSD,64,4.5,14.0,4,Amazon
+HP,TPN-Q234,Intel,Windows 11 Pro,Intel Mobile CPU,0,1629.0,SSD,4096,4.0,17.3,64,Amazon
+Lenovo,Lenovo Thinkpad,AMD,Windows 10 Pro,AMD Ryzen 7,0,479.0,SSD,512,4.4,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+VAIZMOYE,A25,Intel,Windows 11,Celeron,0,349.99,SSD,2048,4.5,15.6,32,Amazon
+HP,14-dq0703dx,Intel,Windows 11 Home,Pentium N5000,0,449.99,SSD,1000,4.2,14.0,16,Amazon
+ASUS,Asus ROG Strix G18 G814,Intel,Windows 11,Core i9,4,2249.0,SSD,8192,4.3,18.0,64,Amazon
+ASUS,ASUS Zenbook 14 OLED,Intel,Windows 11,Intel Mobile CPU,9,905.0,SSD,2048,4.3,14.0,16,Amazon
+Panasonic,Panasonic Toughbook 31,Intel,Windows 10 Pro,Core i5 5300U,93,449.95,SSD,2048,4.4,13.1,16,Amazon
+HP,15-DY1031WM,Intel,Windows 10 Home,Core i3,715,315.0,SSD,256,4.5,15.6,8,Amazon
+Lenovo,IdeaPad 1,Intel,Windows 11,Celeron N4000,3,219.0,SSD,64,4.5,14.0,4,Amazon
+Lenovo,T480,Intel,Windows 10 Pro,Intel Core i5,48,150.0,SSD,256,4.5,14.0,16,Amazon
+AimCare,XPS,Intel,Windows 11 Pro,Core i7,6,1599.0,SSD,2048,4.4,15.6,32,Amazon
+HP,HP Laptop 17-by4025nr,Intel,Windows 11 Home,Intel Core i3,252,346.99,SSD,256,4.5,17.3,4,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,999.0,SSD,4096,4.1,16.0,40,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,2,729.0,SSD,512,5.0,14.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+HP,HP laptop,Intel,Windows 11,Pentium,2,599.99,SSD,2048,4.4,17.3,32,Amazon
+HP,TPN-C164,Intel,Windows 11 Pro,Intel Mobile CPU,0,1650.72,SSD,8192,4.0,17.3,64,Amazon
+Dell,Latitude 3540 7YN,Intel,Windows 10 Pro,Core i5,12,799.0,SSD,256,4.5,15.6,16,Amazon
+Dell,Dell Touchscreen Laptop,Intel,Windows 11 Pro,Core i7,834,1059.99,SSD,4096,4.4,15.6,64,Amazon
+ZENAERO,ExceBook,Intel,Windows 11 Pro,Celeron N4000,32,199.99,SSD,256,4.4,15.6,8,Amazon
+Panasonic,Toughbook 55 MK1,Intel,Windows 10 Pro,Core i7-8665U,7,1100.0,SSD,512,4.4,14.0,16,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 12,Intel,Windows 11 Pro,Core i7 Family,0,2099.99,SSD,2048,4.3,14.0,64,Amazon
+Lenovo,ThinkPad T16 Gen 2,Intel,Windows 11 Pro,Core i5,0,888.0,SSD,512,4.4,14.0,16,Amazon
+Lenovo,Lenovo V15 G4 IRU,Intel,Windows 11 Pro,Core i5 Family,6,589.0,SSD,512,4.4,15.6,16,Amazon
+Lenovo,LOQ,Intel,Windows 11 Home,Intel Core i5,8,728.0,SSD,512,4.5,15.6,16,Amazon
+Microsoft,Surface Laptop 5,Intel,Windows 11 Pro,Core i7,0,699.99,SSD,256,4.4,13.5,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+HP,15-DY5033DX,Intel,Windows 10 Pro,Intel Core i3,25,549.0,SSD,2048,4.4,15.6,16,Amazon
+LG,16Z90R-K.AAS8U1,Intel,Windows 11 Home,Core i7,11,935.0,SSD,2048,4.3,16.0,16,Amazon
+Dell,Dell Mobile Workstation 7770,Intel,Windows 11 Pro,Core i7,2,1899.99,SSD,2048,4.0,17.3,64,Amazon
+Lenovo,Lenovo IdeaPad,Intel,Windows 11 S,Pentium,237,399.99,SSD,2048,4.3,15.6,20,Amazon
+HP,"HP 11"" Laptop",Intel,Windows 11,Celeron,78,152.99,SSD,64,4.5,11.0,4,Amazon
+HP,HP 14inch Touch Laptop,Intel,Windows 11,Celeron,15,259.99,SSD,64,4.6,14.0,4,Amazon
+HP,A14M,AMD,Windows 11 Home,AMD R Series,0,823.0,SSD,4096,4.4,15.6,32,Amazon
+hp,DFSFGSGD15,Intel,Windows 11,Pentium,468,359.0,SSD,128,4.5,15.6,16,Amazon
+HP,TPN-W155,Intel,Windows 11 Home,Core i7 Family,41,1019.99,SSD,2048,4.4,15.6,32,Amazon
+ASUS,Zenbook 14X,Intel,Windows 11 Home,Core i5,33,699.99,SSD,512,4.4,14.5,8,Amazon
+HP,Chromebook 11 G4,Intel,Chrome OS,Celeron N2840,177,45.06,SSD,16,3.8,11.6,4,Amazon
+Lenovo,Lenovo Chromebook,MediaTek,Chrome OS,MediaTek MT8183,17,369.0,SSD,32,4.3,11.6,4,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+KOOSMILE,p8,Intel,OS,Celeron N,130,469.0,SSD,2048,4.4,8.0,12,Amazon
+Lenovo,Yoga 7,AMD,Windows 11 Pro,Ryzen 7,11,999.99,SSD,2048,4.3,16.0,16,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Core i5,770,190.0,SSD,256,4.4,14.0,16,Amazon
+HP,laptop,Intel,Windows 11 Pro,Core i7,8,1049.0,SSD,2048,4.4,15.6,16,Amazon
+NIAKUN,VenBook,Intel,Windows 11 Pro,Celeron N4000,46,259.99,SSD,256,4.6,15.6,8,Amazon
+Apple,MacBook Pro,Intel,macOS 10.14 Mojave,Core i7,421,326.0,SSD,512,4.2,13.0,16,Amazon
+SAMSUNG,Chromebook 4,Intel,Chrome OS,Celeron N3450,844,229.99,SSD,32,4.5,11.6,4,Amazon
+HP,ZBook Firefly G10,Intel,Windows 11 Pro,Core i7,0,1299.99,SSD,512,4.4,16.0,32,Amazon
+VGKE,B15_Pro,Intel,Windows 11 Home,Celeron,40,279.99,SSD,256,4.4,15.6,12,Amazon
+Microsoft,Surface Pro,Intel,Windows 11,4.2 GHz,188,890.0,SSD,256,4.5,13.0,256,Amazon
+acer,2023 Newest Acer X360 Chromebook Spin,MediaTek,Chrome OS,MediaTek MT8183,113,225.0,EMMC,64,4.5,11.6,4,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+ist computers,Lenovo ThinkBook 15 Gen 4,AMD,Windows 11 Pro,Ryzen 7,43,649.98,SSD,512,4.4,15.6,16,Amazon
+ApoloSign,NJP1561P,Intel,Windows 11,Intel Celeron D,6,299.99,HDD,512,4.6,15.6,12,Amazon
+Dell,Latitude 5440,Intel,Windows 11 Pro,Core i7 Family,3,899.0,SSD,512,4.4,14.0,16,Amazon
+HP,TPN-W146_300N1AV,Intel,Windows 11 Pro,Core i5 Family,0,869.99,SSD,2048,4.4,17.3,32,Amazon
+SAMSUNG,Galaxy Book3 Pro 360,Intel,Windows 11 Pro,Core i7 Family,6,1349.99,SSD,2048,4.0,16.0,16,Amazon
+HP,TPN-I139_4V788AV,Intel,Windows 11 Home,Core i7 Family,59,809.0,SSD,2048,4.4,17.3,32,Amazon
+HP,Newest HP 14 Inch Laptop,Intel,Windows 11 S,Celeron N,66,229.0,EMMC,64,4.5,14.0,4,Amazon
+Lenovo,ThinkBook,Intel,Windows 11 Pro,Intel Core i7,49,1149.0,SSD,2048,4.0,16.0,32,Amazon
+Apple,MWP72LL/A,Intel,Mac OS,Core i5,132,524.99,SSD,512,4.4,13.3,16,Amazon
+Apple,"2022 Apple MacBook Air M2, 16GB RAM, 1TB Storage - Midnight (Z160000B6)",Apple,macOS 12 Monterey,Unknown,18,1038.99,SSD,2048,4.4,13.0,16,Amazon
+ANPCOWER,A26,Intel,Windows 11 Pro,Celeron,12,229.49,SSD,512,4.5,16.0,16,Amazon
+Lenovo,ThinkPad X1 Titanium Yoga,Intel,Windows 11 Pro,Core i5,18,899.99,SSD,2048,4.4,13.5,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1299.0,SSD,2048,4.0,15.6,16,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+GIGABYTE,AORUS 17X AZF-D5US665SH,Intel,Windows 11 Home,Intel Core i9,13,2899.0,SSD,4096,4.3,17.3,32,Amazon
+Lenovo,ThinkPad X1 Titanium Yoga,Intel,Windows 11 Pro,Core i5,18,899.99,SSD,2048,4.4,13.5,16,Amazon
+ASUS,Zenbook Pro 14 Duo,Intel,Windows 11 Home,Core i9,81,999.0,SSD,2048,4.2,14.5,32,Amazon
+Microsoft,Surface Laptop 5,Intel,Windows 11 Pro,Core i7,0,699.99,SSD,256,4.4,13.5,16,Amazon
+HP,Newest HP 14 Inch Laptop,Intel,Windows 11 S,Celeron N,66,229.0,EMMC,64,4.5,14.0,4,Amazon
+Dell,Dell Inspiron,Intel,Windows 11 Home,Core i5,56,443.99,SSD,512,4.5,15.6,16,Amazon
+Lenovo,Lenovo IdeaPad 3,Intel,Windows 11 Pro,Intel Core i5,5,599.0,SSD,2048,4.4,15.6,16,Amazon
+HP,Elitebook x360 1040 G8,Intel,Windows 11 Pro,Core i7,72,499.0,SSD,512,4.4,14.0,16,Amazon
+Apple,MWP72LL/A,Intel,Mac OS,Core i5,132,524.99,SSD,512,4.4,13.3,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+ASUS,F1504Z,Intel,Windows 11 Home,Core i7 Family,28,696.0,SSD,2048,4.4,15.6,40,Amazon
+HP,TPN-Q279,AMD,Windows 11 Pro,Ryzen 5,1,759.0,SSD,2048,4.5,15.6,16,Amazon
+Oemgenuine,Latitude 5550,Intel,Windows 11 Pro,Intel Core 7,3,1219.95,SSD,2048,4.0,15.6,32,Amazon
+HP,17,Intel,Windows 11 Home,Core i5 Family,70,678.24,SSD,2048,4.4,17.3,32,Amazon
+Lenovo,Newest Lenovo Slim 3 Chromebook,MediaTek,Chrome OS,Cortex,29,216.0,EMMC,64,4.5,14.0,4,Amazon
+HP,HP 17 Laptop,AMD,Windows 11 Home,Ryzen 5,19,564.99,SSD,2048,4.4,17.3,16,Amazon
+Lenovo,ThinkBook,Intel,Windows 11 Pro,Intel Core Ultra 7,20,1119.0,SSD,4096,4.4,16.0,64,Amazon
+HP,TPN-W155,Intel,Windows 11 Home,Core i7 Family,41,1019.99,SSD,2048,4.4,15.6,32,Amazon
+ANPCOWER,A26,Intel,Windows 11 Pro,Celeron,12,229.49,SSD,512,4.5,16.0,16,Amazon
+acer,Aspire 3,AMD,Windows 11 Pro,AMD Ryzen 7 5700U,7,489.99,SSD,512,4.4,15.6,16,Amazon
+Dell,Precision 5540 Laptop,Intel,Windows 10 Pro,Core i9,11,875.96,SSD,512,3.7,15.6,32,Amazon
+KOOSMILE,p8,Intel,OS,Celeron N,130,469.0,SSD,2048,4.4,8.0,12,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+ApoloSign,NJP1561P-1,Intel,Windows 11,Celeron N5095,23,265.99,SSD,512,4.6,15.6,12,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,0,749.0,SSD,256,4.3,14.0,16,Amazon
+HP,HP,Intel,Windows 10,Celeron N4020,477,399.99,EMMC,64,4.3,14.0,16,Amazon
+jumper,EZbook S7-Hi,Intel,Windows 11,Celeron 5205U,23,379.99,SSD,128,3.3,15.6,4,Amazon
+ASUS,ASUS Laptop L410MA,Intel,Windows 10 S,Celeron N4020,821,152.11,SSD,64,4.5,14.0,4,Amazon
+HP,TPN-Q279,AMD,Windows 11 Pro,Ryzen 5,0,797.94,SSD,2048,4.5,15.6,32,Amazon
+EXCaliberPC,ASUS ROG Zephyrus G16 GU605,Intel,Windows 11 Home,Intel Mobile CPU,1,1720.09,SSD,2048,4.0,16.0,16,Amazon
+ASUS,TUF Gaming A16,AMD,Windows 11,Ryzen 7,5,899.0,SSD,512,4.4,16.0,16,Amazon
+HP,17,Intel,Windows 11 Home,Core i5 Family,70,678.24,SSD,2048,4.4,17.3,32,Amazon
+LG,16Z90S-G.ADB9U1,Intel,Windows 11 Home,Intel Core Ultra 7,18,1399.99,SSD,4096,4.0,16.0,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+Lenovo,Lenovo,MediaTek,Chrome OS,MediaTek Helio,47,221.0,SSD,64,4.5,14.0,4,Amazon
+Dell,Latitude 7480,Intel,Windows 10 Pro,Core i7,335,214.99,SSD,512,4.5,14.0,16,Amazon
+acer,Aspire 3,AMD,Windows 11 Pro,AMD Ryzen 7 5700U,7,489.99,SSD,512,4.4,15.6,16,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 12,Intel,Windows 11 Pro,Core i7,0,1690.99,SSD,2048,4.4,14.0,32,Amazon
+Lenovo,Yoga 7i,Intel,Windows 11 Home,Core i5,31,649.98,SSD,512,4.4,16.0,8,Amazon
+HP,HP Laptop,Intel,Windows 11 Pro,Core i5,1,539.0,SSD,512,4.4,15.6,16,Amazon
+Oemgenuine,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i7,172,1009.95,SSD,2048,4.4,16.0,40,Amazon
+Microsoft,Surface Laptop Studio 2,Intel,Windows 11,Core i7,0,2634.96,SSD,2048,4.0,14.4,32,Amazon
+Apple,MacBook Pro,Intel,macOS 10.14 Mojave,Core i5,90,309.99,SSD,256,4.5,13.3,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1299.0,SSD,2048,4.0,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,1,729.0,SSD,4096,1.0,14.0,64,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Dell,Latitude 5520,Intel,Windows 11 Pro,Core i7,0,1149.99,SSD,2048,4.0,15.6,32,Amazon
+HP,HP 15,Intel,Windows 11 Home,Core i3 Family,15,399.99,SSD,512,4.5,15.6,16,Amazon
+EYY,N100 2 in 1 Laptop,Intel,Windows 11 Pro,Intel Processor N100,18,389.99,SSD,512,4.3,14.0,512,Amazon
+ASUS,TUF Gaming A15,AMD,Windows 11 Home,Ryzen 7,76,1130.53,SSD,2048,4.0,15.6,16,Amazon
+HP,HP Envy 16 120Hz Touch i7 RTX4060,Intel,Windows 11 Pro,Core i7,5,1179.0,SSD,2048,4.4,16.0,32,Amazon
+HP,Elitebook x360 1040 G8,Intel,Windows 11 Pro,Core i7,72,499.0,SSD,512,4.4,14.0,16,Amazon
+HP,Elitebook 840 G7,Intel,Windows 10 Pro,Intel Core i5,26,219.0,SSD,256,4.6,14.0,16,Amazon
+Microsoft,Surface Laptop Go 2,Intel,Windows 11 Home,Intel Core i5,391,604.99,SSD,256,4.4,12.45,8,Amazon
+Dell,Precision 5540 Laptop,Intel,Windows 10 Pro,Core i9,11,875.96,SSD,512,3.7,15.6,32,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i5,2,929.0,SSD,2048,4.1,15.6,32,Amazon
+Dell,Dell Inspiron,AMD,Windows 11 Pro,1.2GHz Cortex A8 Processor,0,649.0,SSD,2048,4.4,15.6,36,Amazon
+GIGABYTE,AORUS 17X AZF-D5US665SH,Intel,Windows 11 Home,Intel Core i9,13,2899.0,SSD,4096,4.3,17.3,32,Amazon
+Lenovo,Lenovo Chromebook 100e 2nd Gen,ARM,Chrome OS,ARMv7,33,49.99,SSD,32,4.4,11.6,4,Amazon
+HP,TPN-Q279,AMD,Windows 11 Pro,Ryzen 5,1,759.0,SSD,2048,4.5,15.6,16,Amazon
+Morostron,LeadBook T11,Intel,Windows 11,Celeron,4,169.99,SSD,192,4.5,14.1,4,Amazon
+AimCare,Laptop,Intel,Windows 11 S,Pentium,15,229.0,SSD,128,4.5,14.0,4,Amazon
+MSI,Cyborg 15 A12UCX-276US,Intel,Windows 11 Home,Core i5 Family,30,616.0,SSD,512,4.4,15.6,16,Amazon
+HP,HP Spectre,Intel,Windows 11 Pro,Intel Core Ultra 7,73,1322.7,SSD,2048,4.4,14.0,16,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 12,Intel,Windows 11 Pro,Core i7 Family,0,1509.99,SSD,512,4.4,14.0,32,Amazon
+Lenovo,Slim 7 ProX,AMD,Windows 11 Home,Ryzen 9,26,998.0,SSD,2048,4.3,14.5,32,Amazon
+acer,acer laptop,Intel,Windows 11 Home,Intel Core i3,2,350.24,SSD,512,4.3,14.0,8,Amazon
+HP,HP 2024 Newest Laptop,Intel,Windows 11,Core i3,2,599.99,SSD,2048,4.4,15.6,64,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,649.0,SSD,512,4.4,14.0,16,Amazon
+Dell,Dell Inspiron 15 3520 Laptop,Intel,Windows 11 Home,Core i5,51,829.99,SSD,4096,4.4,15.6,64,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+HP,14dq0760dx,Intel,Windows 11 Home,Celeron N4020,0,279.0,EMMC,128,4.6,14.0,16,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,1099.0,SSD,8192,4.0,16.0,40,Amazon
+HP,HP Laptop,Intel,Windows 11 Pro,Celeron,802,323.0,EMMC,128,4.5,14.0,16,Amazon
+Lenovo,ThinkPad P14s Gen 3,Intel,Windows 11 Pro,Core i7 Family,10,999.0,SSD,2048,4.3,14.0,32,Amazon
+HP,HP 17t,Intel,Windows 11 Home,Core i5,186,651.97,SSD,2048,4.4,17.3,32,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Others,11,1949.0,SSD,2048,5.0,16.0,18,Amazon
+Lenovo,Lenovo IdeaPad 3,Intel,Windows 11 Pro,Intel Core i5,5,599.0,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude E7470,Intel,Windows 10 Pro,Core i7,165,198.5,SSD,512,4.4,14.1,16,Amazon
+ist computers,ProBook 455 G10,AMD,Windows 11 Pro,Ryzen 7,15,749.98,SSD,512,4.5,15.6,16,Amazon
+Dell,Vostro,Intel,Windows 11 Pro,Intel Core i7,12,679.0,SSD,2048,4.4,15.6,32,Amazon
+ASUS,ASUS Business Laptop,Intel,Windows 11 S,Celeron,0,179.0,EMMC,64,4.4,14.0,4,Amazon
+acer,Aspire 5,AMD,Windows 11,AMD Ryzen 5 5500U,839,449.97,SSD,256,4.5,15.6,8,Amazon
+ASUS,TUF Dash 15 (2022),Intel,Windows 11 Home,Core i7,468,1095.0,SSD,512,4.0,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,2,729.0,SSD,2048,5.0,14.0,16,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,629.0,SSD,256,4.4,14.0,16,Amazon
+AOC,AX15,Intel,Windows 11,Intel Mobile CPU,3,999.99,SSD,512,4.1,15.6,16,Amazon
+HP,Laptop,Intel,Windows 11 Pro,Intel Core i5,11,769.0,SSD,2048,4.5,15.6,32,Amazon
+Lenovo,IdeaPad 3 15ITL6,Intel,Windows 11 Home,Core i5 Family,173,476.95,SSD,2048,4.2,15.6,24,Amazon
+Dell,Latitude 5490,Intel,Windows 10 Pro,Core i5 7200U,136,171.22,SSD,16,4.5,14.0,16,Amazon
+ASUS,CX1500,Intel,Chrome OS,Celeron N3350,35,118.0,SSD,64,4.4,15.6,4,Amazon
+ist computers,ThinBook 14 Gen 6,AMD,Windows 11 Pro,Ryzen 7,14,749.98,SSD,512,4.5,14.0,16,Amazon
+HP,ENVY 17t-cr100,Intel,Windows 11 Pro,Core i7,69,1265.99,SSD,4096,4.4,17.3,64,Amazon
+Microsoft,Surface Pro,Intel,Windows 11 Home,Core i7,281,1091.0,SSD,256,4.4,13.0,16,Amazon
+HP,HP Pavilion,Intel,Windows 11,Intel Core i5-1135G7,116,479.01,SSD,256,4.4,14.0,8,Amazon
+Morostron,LeadBook T7 Pro,Intel,Windows 11,Celeron,28,289.99,SSD,2048,4.6,15.6,16,Amazon
+acer,Spin 513,Qualcomm,Chrome OS,Qualcomm Snapdragon S4 MSM8270,26,279.99,SSD,192,4.6,13.3,4,Amazon
+Lenovo,Laptop,Intel,Windows 11 Home,Celeron N,89,387.0,SSD,2048,4.5,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,0,1039.0,SSD,4096,4.4,16.0,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,889.0,SSD,2048,4.3,15.6,32,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1079.0,SSD,2048,4.0,16.0,32,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,11,1099.0,SSD,2048,4.0,16.0,40,Amazon
+HP,HP,Intel,Windows 11,Intel Core i3,38,529.0,SSD,512,4.4,17.3,32,Amazon
+acer,Aspire,AMD,Windows 11 Pro,Ryzen 7,2,649.0,SSD,2048,4.4,15.6,32,Amazon
+Alienware,Gaming Laptop,Intel,Windows 11 Pro,Unknown,3,3799.99,SSD,4096,3.4,16.0,32,Amazon
+ASUS,CXB170CK,Intel,Chrome OS,Celeron,35,269.0,SSD,64,4.6,17.3,4,Amazon
+GIGABYTE,AORUS 16X ASG-53USC64SH,Intel,Windows 11 Home AD,Intel Core i7,92,1825.99,SSD,1000,4.0,16.0,32,Amazon
+Apple,MacBook Air,Apple,Mac OS,Unknown,7,1446.2,SSD,512,5.0,15.3,16,Amazon
+Dell,Inspiron,Intel,Windows 11 Pro S,Intel Core i5,16,499.0,SSD,512,4.4,15.6,16,Amazon
+Dell,DELL Inspiron,Intel,Windows 11,Intel Core i7,0,1099.0,SSD,4096,4.4,15.0,64,Amazon
+Lenovo,ThinkBook,Intel,Windows 11 Pro,Intel Core Ultra 7,20,1119.0,SSD,4096,4.4,16.0,64,Amazon
+HP,TPN-Q245,Intel,Windows 11 Home,Core i7 Family,2,1249.0,SSD,8192,4.4,15.6,64,Amazon
+Lenovo,ThinkPad T14,Intel,Windows 11 Pro,Others,7,1299.99,SSD,2048,4.0,14.0,32,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,0,1039.0,SSD,4096,4.4,16.0,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,1319.0,SSD,4096,4.0,15.6,64,Amazon
+Lenovo,Lenovo IdeaPad Slim 1-14AST-05,Intel,Windows 11 Pro,Core i7 Family,1,699.99,SSD,2048,4.4,15.6,16,Amazon
+HP,HP ProBook 445 G7,AMD,Windows 10 Pro,Ryzen 5 4500U,285,244.99,SSD,512,4.5,14.0,16,Amazon
+Nmybwo,HL-K701,Intel,Windows 11 Pro,Others,115,469.9,SSD,2048,4.4,16.0,12,Amazon
+Lenovo,Thinkpad T490,Intel,Windows 10 Pro,Intel Core i7,0,239.99,SSD,256,4.5,14.0,16,Amazon
+ist computers,ThinkPad L14 Gen 3,AMD,Windows 11 Pro,Ryzen 7,2,799.98,SSD,2048,4.5,14.0,32,Amazon
+ASUS,G733PZ-XS97,AMD,Windows 11 Pro,Ryzen 9,70,2999.99,SSD,4096,4.0,17.3,32,Amazon
+MSI,Thin GF63 12UCX-484US,Intel,Windows 11 Home,Core i5 Family,78,559.99,SSD,512,4.4,15.6,8,Amazon
+Lenovo,ThinkBook 15 Gen 4,Intel,Windows 11 Pro,Core i7,7,699.98,SSD,512,4.4,15.6,16,Amazon
+HP,TPN-I139_767K9AV,Intel,Windows 11 Home,Core i5,35,809.99,SSD,2048,4.3,17.3,16,Amazon
+ASUS,ASUS ROG Strix Gaming Laptop,Intel,Windows 11 Pro,Intel Core i9,40,2589.99,SSD,8192,4.3,16.0,64,Amazon
+Dell,Alienware,Intel,Windows 11 Pro,Others,1,2399.99,SSD,4096,4.3,16.0,64,Amazon
+ist computers,ThinkPad T14,AMD,Windows 11 Pro,Ryzen 5,13,799.98,SSD,512,4.5,14.0,16,Amazon
+HP,TPN-C164,Intel,Windows 11 Home,Intel Mobile CPU,0,1536.59,SSD,4096,4.4,17.3,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1249.0,SSD,4096,4.0,15.6,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i7,5,1229.0,SSD,4096,4.0,15.6,64,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+ApoloSign,NJP1561P,Intel,Windows 11 Home,Celeron N,32,649.99,SSD,512,4.4,15.6,12,Amazon
+HP,Essential,Intel,Windows 11 S,Celeron,6,399.99,SSD,256,4.3,15.6,32,Amazon
+Microsoft,CRTMS5EI00019RB,Intel,Windows 11,Core i7 Family,8,539.0,SSD,512,4.4,13.5,16,Amazon
+MSI,Stealth 16 AI Studio A1VFG-028US,Intel,Windows 11 Pro,Intel Mobile CPU,7,2099.0,SSD,2048,4.0,16.0,32,Amazon
+Coolby,YealBook X,Intel,Windows 11 Pro,Celeron,1,199.0,SSD,256,4.4,14.1,8,Amazon
+HP,HSN-Q28C_39Q09AV,Intel,Windows 11 Pro,Core i5 Family,3,682.01,SSD,2048,4.4,17.3,32,Amazon
+LG,16Z90SP-A.ADB9U1,Intel,Windows 11 Home,Intel Core Ultra 7,16,1849.0,SSD,4096,4.0,16.0,32,Amazon
+Lenovo,LOQ 15IRX9,Intel,Windows 11 Pro,Core i7 Family,6,1449.0,SSD,4096,4.4,15.6,64,Amazon
+ist computers,Ideapad 1i,Intel,Windows 11 S,Celeron N4020,62,209.98,SSD,256,4.5,14.0,4,Amazon
+CHUWI,CHUWI FreeBook,Intel,Windows 11,Celeron N,261,359.99,SSD,512,4.5,13.5,12,Amazon
+ACEMAGIC,AX17,Intel,Windows 11,Intel PDC G2030,161,1496.99,SSD,512,4.0,17.3,16,Amazon
+HP,Newest HP 14 Inch Laptop,Intel,Windows 11 S,Celeron N,139,289.0,EMMC,320,4.4,14.0,16,Amazon
+Oemgenuine,ThinkPad E15 Gen 2,AMD,Windows 10 Pro,Ryzen 5 4500U,2,829.95,SSD,512,4.4,15.6,16,Amazon
+HP,HP,Intel,Windows 11,Intel Core i3,2,449.99,SSD,512,4.2,17.3,16,Amazon
+Dell,Dell Latitude 7390,Intel,Windows 11,Core i7,0,245.0,SSD,256,4.5,13.3,16,Amazon
+HP,EliteBook x360 1030 G2,AMD,Chrome OS,AMD A4,87,52.0,SSD,16,4.1,11.6,4,Amazon
+Dell,Inspiron 15,Intel,Windows 11 Pro,Intel Core i5,14,689.0,SSD,2048,4.4,15.6,32,Amazon
+HP,14-dq0060nr,Intel,Windows 11 S,Core i3-4120U,492,233.53,EMMC,64,4.5,14.0,4,Amazon
+THKGRCE,NX 16,Intel,Windows 11 Pro,Celeron,4,329.99,SSD,512,4.3,16.0,16,Amazon
+Lenovo,Lenovo V15 G4 IRU,Intel,Windows 11 Home,Core i5 Family,14,569.0,SSD,512,4.4,15.6,16,Amazon
+Dell,Dell Laptop,Intel,Windows 11 Home,Intel Core i7-1355U,23,760.0,SSD,2048,4.5,15.6,32,Amazon
+HP,TPN-W155,Intel,Windows 11 Pro,Core i7 Family,9,1019.99,SSD,2048,4.4,15.6,32,Amazon
+Acer,Aspire 3,AMD,Windows 11,Ryzen 7,5,595.0,SSD,2048,4.4,15.0,32,Amazon
+Apple,MVH42LL/A,Intel,Mac OS,Core i5,34,388.99,SSD,512,4.5,13.0,8,Amazon
+HP,Chromebook 14 Ca061Dx,Intel,Chrome OS,Celeron N3350,557,239.99,EMMC,32,4.5,14.0,4,Amazon
+acer,Chromebook Spin 713,Intel,Chrome OS,Core i3-10110U,6,104.99,EMMC,64,4.4,13.5,4,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,749.0,SSD,4096,4.3,14.0,32,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,749.0,SSD,4096,4.3,14.0,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,2,729.0,SSD,4096,5.0,14.0,32,Amazon
+HP,Elitebook 840 G11,Intel,Windows 11 Pro,Intel Core Ultra 7,4,1099.0,SSD,512,4.0,14.0,32,Amazon
+Lenovo,Newest Flagship Lenovo Chromebook,MediaTek,Chrome OS,Cortex,0,269.0,EMMC,64,4.6,14.0,4,Amazon
+Dell,Latitude 9000,Intel,Windows 11 Pro,Core i5,0,1131.77,SSD,512,4.4,14.0,16,Amazon
+Lenovo,Legion Pro 7i Gen 9 Intel,Intel,Windows 11 Home,Core i9,0,2448.64,SSD,4096,4.3,16.0,32,Amazon
+EXCaliberPC,MSI Stealth 14 AI Studio,Intel,Windows 11 Pro,Intel Mobile CPU,0,3245.0,SSD,8192,4.2,14.0,96,Amazon
+Lenovo,laptop,Intel,Windows 11,Pentium,94,416.0,SSD,2048,4.2,15.6,16,Amazon
+ASUS,Zenbook Pro 14 Duo,Intel,Windows 11 Home,Core i9,81,999.0,SSD,2048,4.2,14.5,32,Amazon
+Lenovo,Ideapad 3,Intel,Windows 11 Pro,Core i5,34,599.99,SSD,2048,4.4,15.6,20,Amazon
+HP,14-fq1003cl,AMD,Windows 11,Ryzen 3,1,499.99,SSD,1000,4.4,14.0,16,Amazon
+Apple,MacBook Pro 15-inch,Intel,Mac OS,Core i9,87,498.0,SSD,512,4.4,15.4,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1079.0,SSD,2048,4.0,16.0,32,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,22,899.0,SSD,2048,4.3,16.0,24,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1149.0,SSD,4096,4.0,16.0,40,Amazon
+MSI,Raider GE78HX 14VHG-601US,Intel,Windows 11 Home,Intel Core i9,12,2124.99,SSD,4096,3.6,17.0,64,Amazon
+IJKKJI,MTL1561,Intel,Windows 11 Pro,Celeron N,35,309.99,SSD,512,4.2,17.3,16,Amazon
+Apple,MacBook Pro,Intel,macOS 10.14 Mojave,Core i5,127,419.97,SSD,512,4.5,13.0,8,Amazon
+Lenovo,"Lenovo Legion Pro 7i Gen 9 16"" Gaming Laptop",Intel,Windows 11 Pro,Core i9,645,2760.0,SSD,8192,4.3,16.0,64,Amazon
+AimCare,XPS,Intel,Windows 11 Pro,Others,0,2299.0,SSD,2048,4.0,14.5,32,Amazon
+Microsoft,Surface Laptop Studio 2,Intel,Windows 11,Core i7,5,2024.99,SSD,512,4.3,14.4,16,Amazon
+Dell,Dell Inspiron 16 5630 Laptop,Intel,Windows 11 Pro,Core i7 Family,146,909.99,SSD,2048,4.3,16.0,16,Amazon
+Dell,Dell 5590,Intel,Windows 10 Pro,Core i7-8650U,185,325.0,SSD,512,4.5,15.6,16,Amazon
+Lenovo,IdeaPad Gaming 3,AMD,Windows 11 Home,Ryzen 5,406,738.99,SSD,256,4.3,15.6,8,Amazon
+Dell,Dell Inspiron,AMD,Windows 11 Pro,1.2GHz Cortex A8 Processor,0,649.0,SSD,2048,4.4,15.6,36,Amazon
+Dell,Dell Latitude 7390,Intel,Windows 11,Core i7,0,245.0,SSD,256,4.5,13.3,16,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 12,Intel,Windows 11 Pro,Intel Core Ultra 7,0,1790.0,SSD,4096,4.0,14.0,32,Amazon
+Microsoft,Surface Pro 8,Intel,Windows 11 Home,4.8 GHz,130,1148.01,SSD,512,4.4,13.0,16,Amazon
+ist computers,Lenovo ThinkPad P15v Gen 3,Intel,Windows 11 Pro,Core i7 Family,1,1299.99,SSD,4096,4.4,15.6,64,Amazon
+ASUS,Asus ROG Strix G18 G814,Intel,Windows 11,Core i9,4,2129.0,SSD,4096,4.3,18.0,64,Amazon
+ASUS,ASUS Chromebook CM1402,MediaTek,Chrome OS,MediaTek MT8183,216,199.0,SSD,64,4.4,14.0,4,Amazon
+Lenovo,Lenovo V14 Gen 4,AMD,Windows 11 Pro,AMD Ryzen 5 5500U,1,449.95,SSD,2048,4.5,14.0,16,Amazon
+Dell,Inspiron 3000,AMD,Windows 11 Pro,Ryzen 5,58,529.99,SSD,512,4.4,15.6,16,Amazon
+HP,ENVY x360 Convertible 15-eu1026nr,AMD,Windows 11 Home,AMD Ryzen 7,230,699.0,SSD,512,4.4,15.0,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i7,2,1083.0,SSD,512,4.4,15.6,16,Amazon
+HP,HP Laptop 17,Intel,Windows 11 Home,Pentium N5000,77,549.98,SSD,2048,4.4,17.3,32,Amazon
+HP,HP Stream,Intel,Windows 11 S,Celeron N,241,225.0,SSD,64,4.5,14.0,4,Amazon
+HP,EliteBook,Intel,Windows 11 Professional,Intel Core i7,2,1239.0,SSD,2048,4.4,16.0,32,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+Dell,Dell Inspiron 16 Plus 7640 Laptop,Intel,Windows 11 Home,Others,12,1699.99,SSD,2,4.4,16.0,32,Amazon
+Lenovo,Lenovo Legion Pro 5,AMD,Windows 11,Ryzen 9,4,1749.0,SSD,2048,4.4,16.0,32,Amazon
+HP,TPN-I139_767L0AV,Intel,Windows 11 Home,Core i7 Family,2,758.23,SSD,2048,4.5,17.3,32,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Intel Core i9,296,434.36,SSD,512,4.4,15.4,16,Amazon
+ASUS,Strix G17,AMD,Windows 11 Pro,Ryzen 9,2,2099.0,SSD,4096,4.3,17.3,64,Amazon
+LG,14T90S-G.ADB9U1,Intel,Windows 11,Intel Core Ultra 7,6,1589.99,SSD,4096,4.0,14.0,32,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 12,Intel,Windows 11 Pro,Core i7 Family,0,1999.99,SSD,2048,4.4,14.0,64,Amazon
+Dell,Inspiron 15 3520,Intel,Windows 11 Pro,Core i7 Family,2,797.76,SSD,4096,4.5,15.6,64,Amazon
+HP,HP Laptop,Intel,Windows 11 Home,Core i5,0,539.99,SSD,2048,4.4,17.3,32,Amazon
+Lenovo,Lenovo,Intel,Windows 11,Core i5,36,366.0,SSD,1048576,4.3,14.0,8,Amazon
+HP,830 G6,Intel,Windows 11 Pro,1.9E+3,163,269.99,SSD,512,4.6,13.3,16,Amazon
+HP,HP Spectre x360,Intel,Windows 11 Pro,Core i7,9,1199.0,SSD,4096,4.4,16.0,16,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+ASUS,Vivobook 16,AMD,Windows 11 Home,Ryzen 5,111,450.0,SSD,512,4.4,16.0,8,Amazon
+HP,HP,Intel,Windows 11 Home,Intel Core i3,261,417.18,SSD,2048,4.5,15.6,16,Amazon
+acer,Acer,Intel,Windows 11 Home,Celeron N,67,299.98,SSD,256,4.6,15.6,12,Amazon
+Dell,Inspiron 3000,Intel,Windows 10 Pro,Core i3,10,499.0,SSD,2048,4.4,15.6,16,Amazon
+Lenovo,X1 Carbon Gen 11,Intel,Windows 11 Pro,Core i7,3,1299.77,SSD,512,4.0,14.0,16,Amazon
+ASUS,TP3402Z,Intel,Windows 11 Pro,Intel Core i9,0,1274.09,SSD,8192,4.4,16.0,40,Amazon
+HP,HP-15.6-RP,Intel,Windows 10 Home,Pentium N5000,569,167.64,SSD,128,4.4,15.6,4,Amazon
+Lenovo,Ideapad 3i,Intel,Windows 11,Core I3 1115G4,8,345.0,SSD,256,4.2,15.6,12,Amazon
+HP,Notebook,Intel,Windows 11 Home,Core i3 Family,134,412.98,SSD,2048,4.5,15.6,32,Amazon
+Dell,DELL Alienware M16 R2,Intel,Windows 11 Pro,Intel Mobile CPU,0,1599.0,SSD,2048,4.4,16.0,32,Amazon
+Lenovo,ThinkPad T14s G6,Qualcomm,Windows 11 Pro,Snapdragon,1,1604.0,SSD,2048,4.4,14.0,32,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+HP,HP Laptop 14-dq0090nr,Intel,Windows 11 S,Pentium N5000,14,205.0,SSD,128,4.5,14.0,4,Amazon
+HP,2024 HP 17 Pavilion Laptop,Intel,Windows 11 Pro,Core i3,56,531.22,SSD,2048,4.4,17.3,16,Amazon
+Lenovo,ThinkPad P16s,AMD,Windows 11 Pro,Ryzen 7,14,1599.99,SSD,4096,4.4,16.0,64,Amazon
+MSI,Raider GE78HX 14VGG-205,Intel,Windows 11 Home,Intel Core i9,3,2277.46,SSD,2048,4.0,17.0,32,Amazon
+Dell,Dell Inspiron,Intel,Windows 11 Pro,Core i7,0,939.99,SSD,2048,4.1,15.6,64,Amazon
+Getac,GETAC K120,Intel,Windows 11 Pro,Core i5 8250U,11,440.0,SSD,512,4.1,12.5,16,Amazon
+Dell,Dell XPS Tower,Intel,Windows 11 Home,Core i7,13,845.0,HDD,2048,4.4,15.6,16,Amazon
+ist computers,ThinkPad T14 Gen4,Intel,Windows 11 Pro,Core i5,29,1049.99,SSD,2048,4.4,14.0,40,Amazon
+Dell,5300,Intel,Windows 10 Pro,Core i7,142,252.99,SSD,256,4.6,13.3,16,Amazon
+Dell,XPS 13 9340,Intel,Windows 11 Pro,3.8 GHz none,9,1399.99,SSD,2048,4.4,13.4,16,Amazon
+HP,"2024 Premium HP 14"" Chromebook",Intel,Chrome OS,Celeron N,134,249.0,EMMC,64,4.5,14.0,4,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1139.0,SSD,4096,4.0,16.0,32,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1049.0,SSD,2048,4.0,16.0,24,Amazon
+Dell,"Dell latitude 15.6"" laptop",Intel,Windows 11 Pro,Intel Core i5,1,819.0,SSD,512,5.0,15.6,16,Amazon
+Lenovo,ThinkBook,Intel,Windows 11 Pro,Intel Core i5,30,719.0,SSD,512,4.3,16.0,16,Amazon
+Lenovo,ThinkBook,Intel,Windows 11 Pro,Ryzen 5,27,699.0,SSD,512,4.4,16.0,16,Amazon
+ASUS,Asus ROG Strix G17 G713 Gaming Laptop,AMD,Windows 11,Core i9,5,1539.0,SSD,2048,4.0,17.3,32,Amazon
+Dell,Dell Latitude 7420 Laptop,Intel,Windows 11,Intel Core i5,9,329.99,SSD,256,4.5,14.0,16,Amazon
+LG,gram,Intel,Windows 11 Pro,Core i7,0,1934.99,SSD,4096,4.0,17.0,32,Amazon
+Lenovo,Business Laptop,Intel,Windows 11 Pro,Intel Core i3,8,899.0,SSD,2048,4.3,15.6,24,Amazon
+Lenovo,Legion Pro 7i Gen 9 Intel,Intel,Windows 11 Home,Core i9,4,2899.99,SSD,4096,4.0,16.0,32,Amazon
+HP,HP 15.6,Intel,Windows 11,Pentium,4,189.98,SSD,128,4.4,15.6,4,Amazon
+ist computers,ThinkBook 14 Gen 4,Intel,Windows 11 Pro,Core i5,3,599.98,SSD,512,4.4,14.0,16,Amazon
+Dell,1920 X 1080 Pixels,Intel,Windows 10 Pro,Core i7-8650U,77,254.99,SSD,256,4.6,13.3,16,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,22,899.0,SSD,2048,4.3,16.0,24,Amazon
+HP,HP laptop,Intel,Windows 11 Pro,Core i3,0,599.99,SSD,2048,4.4,15.3,40,Amazon
+Lenovo,Lenovo Thinkpad,AMD,Windows 10 Pro,AMD Ryzen 7,0,479.0,SSD,512,4.4,15.6,16,Amazon
+Lenovo,Legion 5 16IRX9,Intel,Windows 11 Home,Core i9,2,1999.99,SSD,4096,4.4,16.0,64,Amazon
+Dell,Inspiron,Intel,Windows 11 Home S,Intel Core i5,22,579.0,SSD,2048,4.4,15.6,32,Amazon
+Apple,MacBook Pro,Intel,macOS 10.15 Catalina,Core i7,32,388.0,SSD,256,4.4,13.3,16,Amazon
+Microsoft,Surface Pro,Intel,Windows 10 Home,core_i7,275,383.9,SSD,256,4.4,12.3,16,Amazon
+HP,HP,Intel,Windows 11 Home,Intel Core i3,16,565.0,SSD,4096,4.4,17.3,32,Amazon
+HP,HP Stream Laptop,Intel,Windows 11 Home,Celeron,255,269.0,EMMC,64,4.4,14.0,16,Amazon
+HP,HP Chromebook,Qualcomm,Chrome OS,Snapdragon,165,196.97,EMMC,64,4.4,11.0,8,Amazon
+Naclud,Naclud-M15PRO,Intel,11,Celeron,15,169.98,SSD,256,4.0,15.6,8,Amazon
+Lenovo,"Newest Lenovo 14"" HD Laptop",Intel,Windows 11 Home,Celeron N4020,6,219.0,SSD,64,4.5,14.0,4,Amazon
+HP,HP Stream,Intel,Windows 11 Pro,Celeron,74,249.99,EMMC,320,4.5,14.0,16,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,699.0,SSD,2048,4.4,14.0,32,Amazon
+Dell,Dell Latitude 7390,Intel,Windows 11,Core i7,0,245.0,SSD,256,4.5,13.3,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+HP,HP Touch,Intel,Windows 11,Celeron,30,359.99,SSD,256,4.5,15.6,8,Amazon
+Lenovo,IdeaPad,Intel,Windows 11,Pentium,131,174.0,SSD,128,4.5,14.0,4,Amazon
+Dell,Dell Latitude 5414,Intel,Windows 10 Pro,Intel Core i5,43,318.88,SSD,256,4.5,14.0,16,Amazon
+HP,HP Laptop,Intel,Windows 11 Pro,Core i3,122,579.97,SSD,2048,4.4,17.3,32,Amazon
+AimCare,XPS,Intel,Windows 11 Pro,Core i7,6,1599.0,SSD,2048,4.4,15.6,32,Amazon
+HP,HP Laptop 17-by4025nr,Intel,Windows 11 Home,Intel Core i3,252,346.99,SSD,256,4.5,17.3,4,Amazon
+Lenovo,T470,Intel,Windows 10 Pro,Intel Core i5,575,175.0,SSD,256,4.4,14.0,16,Amazon
+HP,HP Omen 16 165Hz i9 RTX4060,Intel,Windows 11 Pro,Core i9,3,1329.0,SSD,2048,4.0,16.1,32,Amazon
+HP,Newest HP 14 Inch Laptop,Intel,Windows 11 Home,Celeron N,41,268.0,EMMC,128,4.4,14.0,4,Amazon
+Lenovo,IdeaPad 15sIIL,AMD,Windows 11 Home,Ryzen 5,51,410.0,SSD,512,4.2,15.6,16,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M1,37,1699.99,SSD,2048,4.4,16.0,32,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+HP,TPN-I139_320M3AV,Intel,Windows 11 Home,Core i3 Family,24,455.76,SSD,512,4.4,17.3,16,Amazon
+Molegar,A146G,Intel,Windows 11,Celeron,25,228.99,SSD,512,4.5,14.0,8,Amazon
+Dell,Latitude 5000,Intel,Windows 11 Pro,Core i5,11,318.88,SSD,512,3.9,14.0,16,Amazon
+Lenovo,ThinkBook 15 G4 ABA,AMD,Windows 11 Pro,AMD Ryzen 7,4,538.0,SSD,512,4.4,15.6,16,Amazon
+HP,HP Victus,Intel,Windows 10,Ryzen 5,5,667.99,SSD,512,4.4,15.6,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i5,1,829.99,SSD,512,4.4,15.6,16,Amazon
+ist computers,EliteBook 860 G9,Intel,Windows 11 Pro,Core i5,1,949.99,SSD,2048,4.1,16.0,32,Amazon
+HP,TPN-W155_,Intel,Windows 11 Home,Core i7 Family,53,799.0,SSD,2048,4.5,15.6,32,Amazon
+Dell,Latitude Rugged Extreme 7230 Laptop,Intel,Windows 11 Professional,Core i5,2,899.99,SSD,256,4.4,12.0,16,Amazon
+LG,LG gram 16,Intel,Windows 11,Core i7,4,989.99,SSD,2048,4.3,16.0,16,Amazon
+Lenovo,ThinkPad P14s Gen 2,Intel,Windows 11 Pro,Core i7,0,1149.99,SSD,4096,4.4,14.0,32,Amazon
+GIGABYTE,AERO 16 OLED BSF-A3US964SP,Intel,Windows 11 Pro,Core i9,42,1799.0,SSD,2048,4.4,16.0,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,749.0,SSD,4096,4.3,14.0,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,849.0,SSD,2048,4.3,15.6,16,Amazon
+acer,AN515-58-725A,Intel,Windows 11 Home,Core i7,57,910.0,SSD,512,4.1,15.6,16,Amazon
+Lenovo,Lenovo Thinkpad Yoga,Intel,Windows 10 Pro,Core i5,14,289.9,SSD,512,4.6,13.3,16,Amazon
+HP,HP EliteBook,Intel,Windows 10,Core i7 6600U,985,189.99,SSD,512,4.5,14.1,16,Amazon
+HP,HP Laptop,Intel,Windows 11 S,Celeron,132,314.99,EMMC,64,4.2,14.0,16,Amazon
+MSI,MSI Katana A15 144Hz 13th i7 RTX4060,Intel,Windows 11 Pro,Core i7,1,1149.0,SSD,2048,4.0,15.6,32,Amazon
+Dell,DECHB252066SA,Intel,Chrome OS,Celeron 330,156,44.79,EMMC,32,4.4,11.6,4,Amazon
+Dell,Inspiron 7440 2 in 1,Intel,Windows 11 Pro,Core i7,20,999.99,SSD,2048,4.3,14.0,16,Amazon
+Dell,Inspiron 7620,Intel,Windows 11 Pro,Core i7 Family,23,1599.99,SSD,4096,4.4,16.0,64,Amazon
+HP,HP Pavilion x360,Intel,Windows 11 Pro,Core i3,4,549.98,SSD,512,4.4,14.0,8,Amazon
+Lenovo,Lenovo IdeaPad 3i,Intel,Windows 11 Home,Intel Core i5,0,599.0,SSD,512,4.4,14.0,16,Amazon
+HP,Chromebook X360 G1,Intel,Chrome OS,Core i5-8350U,827,419.99,HDD,64,4.5,14.0,8,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,999.0,SSD,4096,4.1,16.0,40,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+acer,Chromebook,Intel,Chrome OS,Celeron N,291,154.99,SSD,64,4.5,15.0,4,Amazon
+HP,TPN-I130,Intel,Windows 11 Home,Celeron N,45,199.99,SSD,64,4.4,14.0,8,Amazon
+ECOHERO,Gamma,Intel,Windows 11 Pro,Celeron N,38,199.0,SSD,256,4.4,14.0,8,Amazon
+acer,Nitro V Gaming Laptop ANV15-51-99XD,Intel,Windows 11 Home,Intel Core i9,305,1299.99,SSD,2048,4.4,15.6,16,Amazon
+Dell,Dell Latitude E7450,Intel,Windows 10 Pro,Intel Core i5,683,129.35,SSD,256,4.6,14.0,8,Amazon
+Lenovo,V15,Intel,Windows 11 Pro,Celeron,101,279.0,SSD,256,4.2,15.6,16,Amazon
+Lenovo,ThinkPad X1 Extreme Gen 4,Intel,Windows 11 Pro,Core i7,5,1799.99,SSD,4096,4.4,16.0,64,Amazon
+HP,Pavilion,Intel,Windows 11 Pro,Intel Core i7-1165G7,934,768.16,SSD,512,4.5,15.6,16,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M1,1,1525.0,SSD,2048,4.4,14.0,32,Amazon
+Dell,Dell Inspiron,Intel,Windows 11 Pro,Core i7,8,699.0,SSD,2048,4.4,15.6,32,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1139.0,SSD,4096,4.0,16.0,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,1,729.0,SSD,4096,1.0,14.0,64,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,529.0,SSD,512,4.4,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+HP,TPN-W150,Intel,Windows 11 Pro,Intel Mobile CPU,5,796.52,SSD,4096,4.5,14.0,16,Amazon
+acer,A515-57-53T2,Intel,Windows 11 Home,Core i5,106,427.0,SSD,512,4.5,15.6,8,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Intel Core i7,185,195.6,SSD,256,4.5,14.0,16,Amazon
+Lenovo,Thinkpad,Intel,Windows 11,Intel Mobile CPU,19,129.99,SSD,128,4.6,11.6,8,Amazon
+Razer,Blade 17,Intel,Windows 11,Core i7,81,2049.0,SSD,2048,4.0,17.3,16,Amazon
+ASUS,Zenbook,AMD,Windows 11 Home,AMD Ryzen 7,1,799.99,SSD,512,4.5,14.0,16,Amazon
+HP,HP 14in,Intel,Windows 11 Home,Mobile Intel Celeron Processor,97,229.99,EMMC,64,4.5,14.0,16,Amazon
+HP,ENVY,AMD,Windows 10,Ryzen 5 3500U,56,539.99,SSD,256,4.4,15.6,8,Amazon
+Panasonic,Panasonic Toughbook 31,Intel,Windows 10 Pro,Core i5 5300U,93,449.95,SSD,2048,4.4,13.1,16,Amazon
+ASUS,ASUS Chromebook C203XA,Intel,Chrome OS,Mediatek 8317 Dual Core,28,59.99,SSD,32,4.4,11.6,4,Amazon
+Dell,Dell Chromebook 3120,Intel,Chrome OS,Celeron,717,59.99,SSD,16,4.1,11.0,4,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,1,729.0,SSD,4096,1.0,14.0,64,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+HP,ProBook 455 G10,AMD,Windows 11 Pro,Ryzen 7,0,688.0,SSD,512,4.4,15.6,16,Amazon
+jumper,EZbook S5,Intel,Windows 11 Home,Celeron,32,409.99,SSD,256,3.7,14.0,12,Amazon
+HP,Newest HP 14 Inch Laptop,Intel,Windows 11 Home,Celeron N,135,249.0,EMMC,64,4.5,14.0,4,Amazon
+ACEMAGIC,AX16,Intel,Windows 11,Intel Mobile CPU,5,379.98,SSD,512,4.5,16.0,16,Amazon
+ASUS,Vivobook S 14,AMD,Windows 11 Home,Ryzen 9,48,1199.99,SSD,2048,4.0,14.0,24,Amazon
+ASUS,Zenbook,Intel,Windows 11 Pro,Others,1,625.0,SSD,512,4.4,14.0,8,Amazon
+ASUS,Asus TUF Gaming A16,AMD,Windows 11 Pro,Ryzen 7,7,1076.95,SSD,4096,4.4,16.0,32,Amazon
+ASUS,ASUS Chromebook Flip CX5,Intel,Chrome OS,Intel Core i5,1,599.99,SSD,512,4.4,14.0,16,Amazon
+LG,16T90R-K.ADB9U1,Intel,Windows 11 Home,Core i7,27,1159.97,SSD,2048,4.4,16.0,32,Amazon
+HP,15-dy2035tg,AMD,Windows 10 S,Core i3,41,304.99,SSD,256,4.5,15.6,8,Amazon
+Samsung,Samsung Chromebook,Intel,Chrome OS,Celeron N4000,42,235.0,SSD,64,4.5,15.6,4,Amazon
+HP,HP Laptop 15-ef2099nr,AMD,Windows 11 Home,Ryzen 5,267,359.0,SSD,256,4.3,15.6,8,Amazon
+Dell,Dell Inspiron,AMD,Windows 11 Pro,1.2GHz Cortex A8 Processor,0,649.0,SSD,2048,4.4,15.6,36,Amazon
+Dell,Dell Inspiron 15 3520 Laptop,Intel,Windows 11 Home,Core i5,51,709.99,SSD,2048,4.5,15.6,32,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,1099.0,SSD,8192,4.0,16.0,40,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Lenovo,V15,Intel,Windows 11 Pro,Core i5,13,509.0,SSD,512,4.4,15.6,16,Amazon
+Dell,Dell-5500,Intel,Windows 10 Pro,Intel Core i5,99,192.6,SSD,512,4.4,15.6,16,Amazon
+Lenovo,E14 G5,Intel,Windows 11 Pro,Core i7,0,929.99,SSD,512,4.1,14.0,16,Amazon
+acer,Newest Acer 15 Inch Chromebook,Intel,Chrome OS,Celeron,22,239.0,EMMC,64,4.5,15.6,4,Amazon
+Lenovo,IdeaPad Flex 5i,Intel,Windows 11 Home,Core i3,9,399.99,SSD,256,4.5,14.0,8,Amazon
+Lenovo,IdeaPad 1,Intel,Windows 11 Home,Core i3 Family,15,399.99,SSD,512,4.3,15.6,16,Amazon
+VAIZMOYE,a25,Intel,Windows 11 Pro,Mobile Intel Celeron Processor,0,349.99,SSD,512,4.5,15.6,32,Amazon
+Dell,Dell Latitude 7490,Intel,Windows 11 Pro,Core i7-8650U,1,279.98,SSD,512,4.6,14.0,16,Amazon
+HP,"HP 13.8"" Laptop",Intel,Windows 11,Celeron N,124,172.0,SSD,64,4.5,13.8,4,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Core i5 6200U,357,162.0,SSD,256,4.5,14.0,8,Amazon
+HP,14-dq0030nr,Intel,Windows 11 S,Celeron N4020,172,209.49,EMMC,64,4.5,14.0,4,Amazon
+Dell,Latitude 5540,Intel,Windows 11 Pro,Core i7,9,944.26,SSD,2048,4.3,15.6,32,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+Apple,MacBook Pro,Apple,MacOS Ventura,Unknown,45,1759.0,SSD,2048,4.4,16.0,16,Amazon
+ASUS,Zephyrus,Intel,Windows 11 Pro,Core i7,2,2119.0,SSD,2048,5.0,16.0,48,Amazon
+hp,HP 17 Laptop,Intel,Windows 11 Pro,Core i7,17,849.99,SSD,2048,4.4,17.3,32,Amazon
+Dell,Inspiron,AMD,Windows 11 Home,Ryzen 5,4,425.99,SSD,512,4.5,15.6,16,Amazon
+Dell,Alienware M18 R2 Gaming Laptop,Intel,Windows 11 Pro,Intel Core i9,0,4399.0,SSD,4,3.6,13.3,64,Amazon
+Lenovo,Lenovo ThinkPad T14 Gen 4,Intel,Windows 11 Pro,Core i5,0,929.95,SSD,512,4.3,14.0,16,Amazon
+hp,HP EliteBook,Intel,Windows 10 Pro,Core i5,7,450.06,SSD,512,4.4,14.0,16,Amazon
+HP,HP ProBook 445 G8,AMD,Windows 10 Pro,Ryzen 5,58,269.99,SSD,512,4.6,14.0,16,Amazon
+Dell,Inspiron,Intel,Windows 11 Home,Core i5 Family,177,444.0,SSD,512,4.5,15.6,16,Amazon
+HP,2024 Newest HP 15.6 Inch Laptop,Intel,Windows 11 Home,Pentium Other,8,379.0,SSD,128,4.5,15.6,16,Amazon
+ist computers,x17 R2,Intel,Windows 11 Home,Core i9,0,2499.99,SSD,4096,4.3,17.3,64,Amazon
+Lenovo,Lenovo 16,Intel,Windows 11 Pro,Core i3,25,579.99,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1049.0,SSD,2048,4.0,16.0,24,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,1,729.0,SSD,4096,1.0,14.0,64,Amazon
+HP,TPN-Q234,Intel,Windows 11 Pro,Intel Mobile CPU,0,1629.0,SSD,4096,4.0,17.3,64,Amazon
+HP,HP 15.6,AMD,Windows 11,AMD Ryzen 7 5700U,8,499.99,SSD,512,4.8,15.6,16,Amazon
+LG,14Z90R-K.ADB9U1,Intel,Windows 11 Home,Core i7,14,1377.99,SSD,2048,4.4,14.0,32,Amazon
+HP,14-dq0054dx,Intel,Windows 11,Celeron N4000,1,209.99,SSD,64,4.5,14.0,4,Amazon
+HP,15-DY1031WM,Intel,Windows 10 Home,Core i3,715,315.0,SSD,256,4.5,15.6,8,Amazon
+ASUS,ASUS VivoBook Go 14,Intel,Windows 11 Home S,Celeron,287,217.0,SSD,64,4.5,14.0,4,Amazon
+Dell,Dell Latitude 5400,Intel,Windows 10 Pro,Core i5,170,196.99,SSD,512,4.4,14.0,16,Amazon
+HP,ProBook 450 G10,Intel,Windows 11 Pro,Core i7,0,799.1,SSD,512,4.5,15.6,16,Amazon
+Microsoft,Surface Laptop,Intel,Windows 10,Intel Core i5,20,224.0,SSD,256,4.5,13.5,8,Amazon
+ASUS,ASUS Vivbook 17,Intel,Windows 11 Home,Core i7,17,799.0,SSD,512,4.5,17.3,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,19,949.0,SSD,4096,4.3,14.0,32,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,629.0,SSD,256,4.4,14.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,959.0,SSD,2048,4.1,15.6,16,Amazon
+Dell,Dell Chromebook 3180,Intel,Chrome OS,Celeron,242,79.99,SSD,64,3.7,11.6,4,Amazon
+Dell,Latitude 3440,Intel,Windows 11 Pro,Core i5,10,899.98,SSD,2048,4.4,14.0,32,Amazon
+Lenovo,Lenovo ThinkPad P16 Gen 2,Intel,Windows 11 Pro,Core i7 Family,0,2899.0,SSD,8192,4.3,16.0,128,Amazon
+Lenovo,IdeaPad 1,Intel,Windows 11,Celeron N4000,3,219.0,SSD,64,4.5,14.0,4,Amazon
+Apple,MacBook Pro,Intel,OS X 10.10 Yosemite,Core i7,354,229.96,SSD,256,4.5,15.4,16,Amazon
+Lenovo,Lenovo Flex,Intel,Windows 11 Home,Core i5,1,569.99,SSD,512,5.0,14.0,16,Amazon
+Gina Joyfurno,15.6 Laptop,Intel,Windows 11 Home,Celeron N,15,169.99,SSD,256,4.4,15.6,8,Amazon
+Lenovo,Lenovo V15 G3 IAP,Intel,Windows 10 Pro,Core i7 Family,0,919.0,SSD,4096,4.3,15.6,40,Amazon
+LG,gram,Intel,Windows 11 Pro,Core i7,2,990.0,SSD,2048,4.1,17.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Mobile CPU,20,249.0,SSD,128,4.5,11.6,8,Amazon
+Lenovo,IdeaPad 1 15IAU7,Intel,Windows 11 Home,Core i3 Family,3,412.0,SSD,2048,4.2,15.6,16,Amazon
+HP,Newest HP 14 Inch Laptop,Intel,Windows 11 Home,Celeron N,47,279.0,EMMC,64,4.4,14.0,8,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,799.0,SSD,512,4.3,16.0,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1079.0,SSD,2048,4.0,16.0,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,19,949.0,SSD,4096,4.3,14.0,32,Amazon
+Lenovo,Legion Slim 5,AMD,Windows 11 Home,Ryzen 5,10,1189.0,SSD,2048,4.0,16.0,32,Amazon
+Dell,Latitude 7440,Intel,Windows 11 Pro,Core i7,0,1750.0,SSD,512,4.4,14.0,32,Amazon
+Microsoft,Microsoft Surface,Intel,Windows 10,Core i5,171,329.0,SSD,256,4.5,13.5,8,Amazon
+HP,A14M,AMD,Windows 11 Home,AMD R Series,3,758.0,SSD,2048,4.5,15.6,16,Amazon
+Lenovo,ThinkPad T16 Gen 2,Intel,Windows 11 Pro,Core i7,2,1179.0,SSD,512,4.4,16.0,16,Amazon
+jumper,Ezbook S5MAX,Intel,Windows 11,Celeron N,114,599.99,SSD,512,4.4,16.0,16,Amazon
+HP,15-FD,Intel,Windows 11 S,Pentium,89,294.99,SSD,128,4.4,15.6,16,Amazon
+AimCare,Workstation,Intel,Windows 11 Pro,Others,0,4199.0,SSD,16384,5.0,16.0,64,Amazon
+Microsoft,Surface Laptop 5,Intel,Windows 11 Pro,Core i7,3,1175.0,SSD,512,4.2,13.5,16,Amazon
+HP,Essiential,Intel,Windows 11 Pro,Intel Core i3,9,599.0,SSD,2048,4.4,15.6,40,Amazon
+Lenovo,Lenovo Chromebook,MediaTek,Chrome OS,2.05 GHz none,8,319.0,SSD,576,4.5,14.0,4,Amazon
+HP,4RU73UP#ABA,Intel,Windows 10 Pro,1.1 GHz,125,95.0,SSD,128,4.5,11.6,4,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,849.0,SSD,2048,4.3,15.6,16,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1049.0,SSD,2048,4.0,16.0,24,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,629.0,SSD,256,4.4,14.0,16,Amazon
+HP,EliteBook,Intel,Windows 11 Professional,Intel Core i7,10,1389.0,SSD,2048,4.0,16.0,32,Amazon
+HP,HP Touchscreen Laptop,Intel,Windows 11 Pro,Core i3,105,540.0,SSD,2048,4.4,15.6,32,Amazon
+SAMSUNG,Samsung Galaxy Book4 Pro,Intel,Windows 11,Intel Mobile CPU,1,2049.0,SSD,8192,4.0,16.0,32,Amazon
+Apple,MacBook Pro,Apple,macOS 10.12 Sierra,Core i7,69,435.55,SSD,256,4.5,13.3,8,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 11,Intel,Windows 11 Pro,Core i7,1,1599.99,SSD,512,4.4,14.0,32,Amazon
+Apple,MacBook Air,Intel,macOS 10.13 High Sierra,Core i5,137,406.88,SSD,256,4.5,13.0,8,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Intel Core i5,1,449.0,SSD,256,3.0,13.3,16,Amazon
+Microsoft,Surface Laptop,Intel,Windows 11 Home,Intel Core i5,97,875.0,SSD,256,4.4,14.4,16,Amazon
+ist computers,ThinkBook 15 Gen 4,Intel,Windows 11 Pro,Core i7,17,799.99,SSD,2048,4.5,15.6,32,Amazon
+HP,14-dq0703dx,Intel,Windows 11 Home,Pentium N5000,0,449.99,SSD,1000,4.2,14.0,16,Amazon
+HP,Envy,Intel,Windows 11 Pro,Core i7,3,1349.99,SSD,4096,4.0,17.3,64,Amazon
+LG,LG Gram 16 I7,Intel,Windows 11 Pro,Core i7,0,1049.0,SSD,2048,4.4,16.0,32,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,1099.0,SSD,8192,4.0,16.0,40,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i7,5,1029.0,SSD,512,4.0,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,849.0,SSD,2048,4.3,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Microsoft,Laptop 4 13 i7/16GB/512GB BLACK,Intel,Windows 10 Home,Intel Core i7,391,1290.99,SSD,512,4.4,13.5,16,Amazon
+ASUS,F1704VAP,Intel,Windows 11 Pro,Intel Mobile CPU,0,659.0,SSD,2048,4.4,17.3,16,Amazon
+HP,Newest HP 14 Inch Laptop,Intel,Windows 11 Home,Celeron N,66,259.0,EMMC,192,4.4,14.0,8,Amazon
+Dell,Latitude 5540 Laptop,Intel,Windows 11 Professional,Core i7,0,1128.0,SSD,1000,4.4,15.6,32,Amazon
+Dell,Dell Inspiron,Intel,Windows 11 Pro,Core i5,0,689.99,SSD,2048,4.4,15.6,32,Amazon
+Microsoft,Surface Pro,Intel,Windows 11 Home,4.2 GHz,77,870.99,SSD,256,4.5,13.0,512,Amazon
+HP,laptop,AMD,Windows 11 Pro,Ryzen 5,3,699.0,SSD,1048576,4.4,15.6,16,Amazon
+Dell,Dell Latitude 5480,Intel,Windows 10 Pro,Core i7 6600U,78,209.78,SSD,512,4.5,14.0,16,Amazon
+HP,HP Envy x360,Intel,Windows 11 Pro,2.3 GHz none,1,799.99,SSD,2048,4.5,16.0,16,Amazon
+ist computers,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i7,8,1149.98,SSD,2048,4.4,16.0,40,Amazon
+Lenovo,"Lenovo 14"" Laptop",Intel,Windows 11,Pentium,227,169.99,SSD,256,4.5,14.0,4,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,529.0,SSD,512,4.4,15.6,16,Amazon
+acer,Chromebook Spin 713,Intel,Chrome OS,Core i3-10110U,6,104.99,EMMC,64,4.4,13.5,4,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,2,729.0,SSD,4096,5.0,14.0,32,Amazon
+LG,14Z90S-G.ADB8U1,Intel,Windows 11,Intel Core Ultra 7,16,1289.99,SSD,2048,4.0,14.0,32,Amazon
+ASUS,ASUS Zenbook 14 OLED,Intel,Windows 11,Intel Mobile CPU,9,905.0,SSD,2048,4.3,14.0,16,Amazon
+Toughbook,FZ-55 MK1,Intel,Windows 10 Pro,Core i5-8365U,4,988.95,SSD,512,4.3,14.0,16,Amazon
+HP,TPN-I139,Intel,Windows 11 Home,Core i7 Family,113,952.99,SSD,4096,4.1,17.3,64,Amazon
+ASUS,F1704ZA,Intel,Windows 11 Home,Core i3 Family,7,639.0,SSD,2048,4.4,17.3,20,Amazon
+MSI,MSI GF63 Thin Gaming,Intel,Windows 10,Corei5-10300H,9,649.0,SSD,256,4.4,15.6,8,Amazon
+ASUS,ASUS VivoBook 14,Intel,Windows 11 Home,Core i3,781,263.0,SSD,128,4.6,14.0,4,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M1,71,607.58,SSD,512,4.4,13.3,8,Amazon
+Apple,MacBook Pro,Intel,macOS 10.12 Sierra,Core i7,285,295.23,SSD,256,4.3,15.4,16,Amazon
+Lenovo,Lenovo Flex,Intel,Chrome OS,Celeron,5,249.99,SSD,64,4.5,11.6,4,Amazon
+Oemgenuine,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i5,42,799.95,SSD,250,4.5,15.6,16,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,22,899.0,SSD,2048,4.3,16.0,24,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,1319.0,SSD,4096,4.0,15.6,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1249.0,SSD,4096,4.0,15.6,32,Amazon
+HP,Essential,Intel,Windows 11 S,Celeron,1,399.99,SSD,256,4.3,15.6,32,Amazon
+Lenovo,V15,Intel,Windows 11 Pro,Core i5,9,569.0,SSD,512,4.4,15.6,16,Amazon
+HP,HP 14 Inch Laptop,Intel,Windows 11 Pro,Celeron,391,305.99,EMMC,128,4.5,14.0,16,Amazon
+Dell,Latitude 5511,Intel,Windows 10 Pro,Core i7,38,349.12,SSD,512,4.5,15.6,16,Amazon
+HP,Pavilion x360 2-in-1,Intel,Windows 11,Intel Core i5,82,548.88,SSD,512,4.4,14.0,8,Amazon
+Lenovo,Lenovo Thinkpad,Intel,Windows 10 Pro,Core i5,258,174.68,SSD,256,4.5,14.0,8,Amazon
+Gateway,2-in-1 Convertible Notebook,Intel,Windows 10 S,Pentium D,215,164.99,SSD,64,4.5,11.6,4,Amazon
+Molegar,2024 Latest Laptop Computer,Intel,Windows 11,Celeron N5095,5,499.99,SSD,2048,4.4,15.6,16,Amazon
+Lenovo,Lenovo Yoga 7i AI PC Laptop,Intel,Windows 11,Intel Mobile CPU,20,739.0,SSD,512,4.3,14.0,16,Amazon
+HP,ZBook Power G9,Intel,Windows 11 Pro,Core i7 Family,2,1559.0,SSD,2048,4.0,15.6,32,Amazon
+Lenovo,Legion Slim 5,AMD,Windows 11,Ryzen 5,0,1099.99,SSD,512,4.0,16.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1348.0,SSD,2048,4.0,15.6,64,Amazon
+Microsoft,Surface Laptop,Intel,Windows 11 Home,Intel Core i7-11700,141,1450.0,SSD,512,4.4,12.3,16,Amazon
+Lenovo,Lenovo ThinkPad T460s,Intel,Windows 10 Pro,Core i5-6300U,13,250.0,SSD,256,4.3,14.0,8,Amazon
+Dell,Alienware m18 Ryzen Edition Laptop,AMD,Windows 11 Home,AMD Ryzen 7,0,1884.58,SSD,1000,4.0,18.0,16,Amazon
+acer,Acer Chromebook,Intel,Chrome OS,Core i3,526,449.0,SSD,512,4.5,14.0,8,Amazon
+acer,Chromebook Spin 713,Intel,Chrome OS,Core i3-10110U,6,104.99,EMMC,64,4.4,13.5,4,Amazon
+Microsoft,Surface Laptop Go,Intel,Windows 10 S,Core i5-1035G1,481,299.0,SSD,256,4.3,12.4,8,Amazon
+HP,Chromebook X 360,Intel,Chrome OS,Celeron N,739,315.99,SSD,32,4.5,14.0,4,Amazon
+Dell,Latitude 5000,Intel,Windows 11 Pro,Unknown,0,1179.77,SSD,512,4.4,14.0,16,Amazon
+Lenovo,ThinkPad T590 Laptop,Intel,Windows 10 Pro,Core i7,28,346.99,SSD,512,4.5,15.6,16,Amazon
+Apple,Macbook Pro,Apple,"macOS 10.15 Catalina,macOS 10.14 Mojave",Apple M1,6,1929.99,SSD,2048,4.4,16.2,64,Amazon
+HP,TPN-W146_300N1AV,Intel,Windows 11 Home,Core i5 Family,0,799.0,SSD,2048,4.5,17.3,32,Amazon
+Lenovo,IdeaPad,Intel,Windows 11 Home,Core i3,1,479.0,SSD,2048,4.4,15.6,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,499.99,SSD,512,4.4,15.6,8,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,624.95,SSD,2048,4.4,15.6,32,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,749.0,SSD,4096,4.3,14.0,32,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1049.0,SSD,2048,4.0,16.0,24,Amazon
+Lenovo,2024 Lenovo IdeaPad,AMD,Windows 11 Pro,Ryzen 7,36,579.0,SSD,512,4.4,15.6,16,Amazon
+Dell,Dell Inspiron Plus Laptop,Intel,Windows 11 Pro,Intel Core i7,1,1659.0,SSD,2048,4.4,16.0,64,Amazon
+SAMSUNG,Samsung Chromebook Plus V2,Intel,Chrome OS,Celeron,1,269.0,SSD,64,4.6,12.2,4,Amazon
+HP,Laptop,Intel,Windows 11 Home,Core i5,204,549.99,SSD,512,4.4,17.3,8,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Core i5,24,158.0,SSD,512,4.0,14.0,8,Amazon
+Dell,Inspiron 15 3520,Intel,Windows,Intel Core i7,3,590.0,SSD,512,4.4,15.6,16,Amazon
+KAIGERR,AX16PRO,AMD,Windows 11,AMD Ryzen 7,0,1699.99,SSD,512,4.0,16.1,16,Amazon
+Dell,Latitude 14-5000 5490,Intel,Windows 10 Pro 64-Bit,Core i5,610,193.9,SSD,256,4.4,14.0,16,Amazon
+Akocrsiy,N95,Intel,Windows 11 Pro,Celeron,9,339.0,SSD,2048,4.5,15.6,12,Amazon
+Lenovo,Lenovo V14 G3,Intel,Windows 11 Pro,Core i7,63,669.99,SSD,2048,4.4,14.0,16,Amazon
+Lenovo,ThinkPad E16 Gen 1,AMD,Windows 11 Pro,Ryzen 5,8,610.36,SSD,256,4.4,16.0,8,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,529.0,SSD,512,4.4,15.6,16,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,799.0,SSD,512,4.3,16.0,16,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,22,899.0,SSD,2048,4.3,16.0,24,Amazon
+ASUS,ASUS TUF F15,Intel,Windows 11,Core i5,1,769.0,SSD,512,4.3,15.6,16,Amazon
+HP,ZBook Firefly,Intel,Windows 11 Pro,Core i7,4,1129.0,SSD,2048,4.4,14.0,32,Amazon
+ASUS,Zenbook,Intel,Windows 11 Pro,Others,5,910.0,SSD,2048,4.1,14.0,16,Amazon
+HP,HP Envy,Intel,Windows 11 Home,Core i5,283,594.0,SSD,256,4.4,15.6,8,Amazon
+acer,Nitro V Gaming Laptop ANV15-51-99DR,Intel,Windows 11 Home,Intel Core i9,305,1197.56,SSD,512,4.4,15.6,16,Amazon
+HP,A39JBPA#UUF,Intel,Windows 11 Pro,Core i5,2,797.97,SSD,512,4.4,15.6,16,Amazon
+Lenovo,Lenovo Ideapad 1i,Intel,Windows 11 S,Celeron N4020,72,159.0,SSD,64,4.5,14.0,4,Amazon
+Lenovo,Lenovo Legion Slim 5,AMD,Windows 11,Ryzen 7,7,1729.0,SSD,4096,4.0,16.0,64,Amazon
+HP,HP Chromebook,Intel,Chrome OS,Celeron N3350,795,210.0,EMMC,32,4.5,11.6,4,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i5,1,659.77,SSD,256,4.4,14.0,16,Amazon
+Dell,Dell Laptop,Intel,Windows 11 Pro,Core i7,0,1748.99,SSD,2048,4.0,15.6,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,19,949.0,SSD,4096,4.3,14.0,32,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i7,5,1029.0,SSD,512,4.0,15.6,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,19,949.0,SSD,4096,4.3,14.0,32,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,899.0,SSD,4096,4.3,14.0,64,Amazon
+Lenovo,21KS001LUS,Intel,Windows 11 Pro,Intel Core Ultra 7,0,1849.0,SSD,2048,4.4,16.0,32,Amazon
+Lenovo,82R7,Intel,Windows 11 Pro,Core i5 Family,2,649.99,SSD,2048,4.4,14.0,16,Amazon
+HP,250 G9,Intel,Windows 11 Pro,Core i5,2,460.0,SSD,512,4.4,15.6,16,Amazon
+Dell,"Dell 11"" Chromebook",Intel,Chrome OS,Celeron N,14,92.99,SSD,64,4.5,11.0,4,Amazon
+ASUS,Zenbook 14 Flip,Intel,Windows 11 Home,Core i7,60,1199.99,SSD,2048,4.4,14.0,16,Amazon
+ANPCOWER,R01,Intel,Windows 11 Pro,Celeron,18,199.99,SSD,512,4.4,14.1,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i5,0,799.99,SSD,256,4.5,15.6,16,Amazon
+HP,HP Laptop,Intel,Windows 11 S,Celeron,664,299.99,EMMC,64,4.4,14.0,16,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,30,699.0,SSD,2048,4.4,16.0,24,Amazon
+HP Inc.,HP Laptop 17-cn1020nr,Intel,Windows 11 Home,Core i5,29,569.99,SSD,512,4.4,17.0,8,Amazon
+Lenovo,15,Intel,Windows 11 Home,Celeron N,57,349.0,SSD,512,4.2,15.6,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1139.0,SSD,4096,4.0,16.0,32,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,14,1269.0,SSD,8192,4.0,16.0,40,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+ASUS,ASUS TUF Gaming,AMD,Windows 11 Pro,Ryzen 7,3,874.49,SSD,512,4.4,16.0,16,Amazon
+acer,Acer Predator Series,Intel,Windows 10,Corei7-10750H,5,1599.0,SSD,2048,4.4,15.6,32,Amazon
+Dell,Inspiron,Intel,Windows 11 Pro,Intel Core i5-1135G7,30,599.0,SSD,2048,4.4,15.6,16,Amazon
+ASUS,Asus Vivobook,Intel,Windows 11 Home,Core i7,23,608.0,SSD,512,4.4,15.6,16,Amazon
+Lenovo,ThinkPad X13 Gen 2,Intel,Windows 11 Pro,Core i5,0,664.99,SSD,512,4.4,13.3,16,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Core i7,59,225.0,SSD,256,4.5,13.3,16,Amazon
+Maxsignage,Notebook-NJP1561P,Intel,Windows 11 Home,Celeron N,2,899.99,SSD,512,5.0,15.6,12,Amazon
+HP,i7 11th gen,Intel,Windows 11 Home,Core i7,60,579.0,SSD,512,4.4,15.6,16,Amazon
+Dell,Dell Inspiron 14 7440 Laptop,Intel,Windows 11 Home,Core i7 Family,1,1199.99,SSD,2048,4.4,14.0,32,Amazon
+Oemgenuine,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i5,42,799.95,SSD,250,4.5,15.6,16,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,999.0,SSD,4096,4.1,16.0,40,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,2,729.0,SSD,8192,5.0,14.0,64,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1169.0,SSD,2048,4.4,16.0,64,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+HP,Pavilion,Intel,Windows 11 Pro,Core i7,15,886.03,SSD,512,4.2,16.0,16,Amazon
+acer,Acer Nitro V 15 Gaming Laptop,Intel,Windows 11 Pro,Core i7,0,1569.99,SSD,2048,4.4,15.6,64,Amazon
+HP,HP 17 laptop,AMD,Windows 11 S,Ryzen 3,5,369.0,SSD,256,4.3,17.0,8,Amazon
+Lenovo,Lenovo Thinkpad,Intel,Windows 10 Pro,Core i7,62,988.77,SSD,2048,4.3,15.6,32,Amazon
+SAMSUNG,Samsung Galaxy Book 4,Intel,Windows 11,Intel Mobile CPU,4,769.0,SSD,2048,4.5,15.6,16,Amazon
+ist computers,ThinkPad E14 Gen 5,AMD,Windows 11 Pro,Ryzen 5,23,699.98,SSD,512,4.4,14.0,16,Amazon
+Dell,DELL G15 5530 360Hz i7 RTX4060,Intel,Windows 11 Pro,Core i7,0,1199.0,SSD,2048,4.4,15.6,32,Amazon
+HP,Essiential,Intel,Windows 11,Intel Pentium MMX,0,459.99,SSD,128,4.4,15.6,32,Amazon
+Dell,Alienware m18 R2,Intel,Windows 11 Home,Intel Core i9,0,3299.0,SSD,2048,3.4,18.0,32,Amazon
+HP,Touchscreen,Intel,Windows 11 Home,Core i3,16,499.99,SSD,2048,4.4,15.6,40,Amazon
+HP,Essiential,Intel,Windows 11 Pro,Intel Core i7,4,1149.0,SSD,4096,4.4,15.6,64,Amazon
+Lenovo,Lenovo ThinkPad T460s,Intel,"Windows 10 Professional 64 Bit, Multi-Language Support English/Spanish",Core i7,104,189.99,SSD,256,4.5,14.0,12,Amazon
+HP,14dq0760dx,Intel,Windows 11 Home,Celeron N4020,0,279.0,EMMC,128,4.6,14.0,16,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,649.0,SSD,512,4.4,14.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,19,849.0,SSD,512,4.4,14.0,32,Amazon
+HP,HP,Intel,Windows 11,Pentium,11,369.99,SSD,512,4.3,14.0,16,Amazon
+Lenovo,Laptop,AMD,Windows,Core i5,627,448.0,SSD,256,4.5,15.6,12,Amazon
+SAMSUNG,Chromebook 4,Intel,Chrome OS,Celeron N4000,268,259.0,SSD,64,4.6,11.6,4,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Intel Core i5,88,213.41,SSD,512,4.5,14.0,16,Amazon
+Lenovo,83DL,Intel,Windows 11 Pro,Others,0,789.99,SSD,512,4.3,16.0,16,Amazon
+HP,TPN-C152,AMD,Windows 11 Home,AMD Ryzen 7,9,1320.68,SSD,4096,4.4,16.1,64,Amazon
+THKGRCE,NX,Intel,Windows 11 Pro,Celeron,12,1399.99,SSD,512,4.4,16.0,16,Amazon
+Rumtuk,DQ160,Intel,Windows 11 Pro,Others,36,422.99,SSD,2048,4.5,16.0,16,Amazon
+ASUS,ROG Strix G15,AMD,Windows 11 Home,AMD Ryzen 7,246,997.0,SSD,2048,4.1,15.6,16,Amazon
+Lenovo,T460,Intel,Windows 10,Intel Core i5,650,189.0,SSD,2048,4.4,14.0,16,Amazon
+Dell,Dell XPS 15 Business Laptop,Intel,Windows 11 Pro,Core i7,124,1779.99,SSD,2048,4.4,15.6,32,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,799.0,SSD,512,4.3,16.0,16,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,2,789.0,SSD,256,4.3,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,1319.0,SSD,4096,4.0,15.6,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1249.0,SSD,4096,4.0,15.6,32,Amazon
+Lenovo,IdeaPad 1 15IAU7,Intel,Windows 11 Home,Core i3 Family,3,412.0,SSD,2048,4.2,15.6,16,Amazon
+Rumtuk,DQ160,Intel,Windows 11 Pro,Others,36,422.99,SSD,2048,4.5,16.0,16,Amazon
+Toughbook,CF-54 MK3,Intel,Windows 10 Pro,Core i5,12,469.0,SSD,512,3.7,14.0,16,Amazon
+SAMSUNG,Chromebook 4,Intel,Chrome OS,Celeron N4000,268,259.0,SSD,64,4.6,11.6,4,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Core i7-8650U,183,297.99,SSD,512,4.6,14.0,16,Amazon
+HP,Hp envy,Intel,Windows 11,Core i7,100,617.0,SSD,2048,4.4,17.3,16,Amazon
+ASUS,Chromebook Flip,Intel,Chrome OS,core_m,390,368.0,EMMC,64,4.3,14.0,8,Amazon
+HP,HP Chromebook X360 14b,Intel,Chrome OS,Celeron,51,319.98,EMMC,64,4.5,14.0,4,Amazon
+Dell,Latitude 14-5000 5490,Intel,Windows 10 Pro 64-Bit,Core i5,610,193.89,SSD,256,4.4,14.0,16,Amazon
+HP,HP,Intel,Windows 11 Pro,Intel Core i7,2,319.9,SSD,512,4.5,14.0,32,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Core i5,24,158.0,SSD,512,4.0,14.0,8,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1348.0,SSD,2048,4.0,15.6,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,889.0,SSD,2048,4.3,15.6,32,Amazon
+Lenovo,ThinkPad E15 Gen 4,Intel,Windows 11 Pro,Core i7,11,939.99,SSD,512,4.3,15.6,16,Amazon
+Lenovo,Lenovo V15 G3 ABA,Intel,Windows 11 Home,Core i5 Family,14,529.0,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude 9000,Intel,Windows 11 Pro,Core i5,0,1131.77,SSD,512,4.4,14.0,16,Amazon
+MTWZMM,MTL1732N,Intel,Windows 11 Home,Celeron,55,287.79,SSD,512,4.4,17.3,8,Amazon
+Dell,Latitude 15 5590,Intel,Windows 10 Pro,Core i5 8250U,86,198.99,SSD,256,4.4,15.6,8,Amazon
+ASUS,Zenbook,Intel,Windows 11 Pro,Others,5,910.0,SSD,2048,4.1,14.0,16,Amazon
+HP,Essential 17,Intel,Windows 11,Core i7,4,1099.0,SSD,4096,4.4,17.0,64,Amazon
+HP,HP Envy,Intel,Windows 11 Home,Core i5,283,594.0,SSD,256,4.4,15.6,8,Amazon
+Lenovo,T460,Intel,Windows 10,Intel Core i5,650,189.0,SSD,2048,4.4,14.0,16,Amazon
+LG,LG Gram 16,Intel,Windows 11 Home,Core i7,0,929.99,SSD,2048,4.3,16.0,16,Amazon
+HP,A39JBPA#UUF,Intel,Windows 11 Pro,Core i5,2,797.97,SSD,512,4.4,15.6,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+ASUS,ASUS ROG Strix Gaming Laptop,Intel,Windows 11 Pro,Intel Core i9,40,2259.9,SSD,2048,4.3,16.0,32,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Lenovo,15ITL6,Intel,Windows 11 Pro,Core i5 Family,23,572.69,SSD,2048,4.4,15.6,20,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Core i7-8650U,60,272.0,SSD,512,4.6,13.3,16,Amazon
+Microsoft,Surface Pro,Intel,Windows 10 Home,Core i5,829,890.0,SSD,256,4.4,12.3,16,Amazon
+acer,acer,Intel,Windows 11,Celeron,6,499.99,SSD,512,4.4,15.6,20,Amazon
+HP,ENVY x360,Intel,Windows 11,Intel Core i7,1,1049.0,SSD,2048,4.4,15.6,16,Amazon
+Lenovo,IdeaPad 1 15AMN7,AMD,Windows 11 Home,Ryzen 3,14,295.0,SSD,256,4.4,15.6,8,Amazon
+HP,ProBook 440 G10,Intel,Windows 11 Pro,Core i7,0,975.99,SSD,512,4.3,14.0,16,Amazon
+ASUS,F1502Z,Intel,Windows 11 Pro,Core i7 Family,25,799.0,SSD,4096,4.3,15.6,40,Amazon
+HP,HP OMEN Extreme,Intel,Windows 11 Pro,Core i9,0,3299.0,SSD,2048,4.2,16.0,96,Amazon
+Lenovo,Lenovo ThinkBook 14 G7,AMD,Windows 11 Pro,Ryzen 5,0,999.0,SSD,4096,4.3,14.0,64,Amazon
+HP,laptop,AMD,Windows 11,AMD R Series,381,447.0,SSD,512,4.5,15.6,8,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+Lenovo, 16 G6,Intel,Windows 11 Pro,Core i7 Family,1,999.0,SSD,2048,4.3,16.0,32,Amazon
+ASUS,ASUS ROG Zephyrus,AMD,Windows 11 Home,AMD Ryzen 7,0,1049.99,SSD,2048,4.4,14.0,16,Amazon
+MSI,GE76 Raider,Intel,Windows 11 Home,Core i7 Family,154,1599.99,SSD,4096,4.4,17.3,64,Amazon
+Dell,Latitude 5000,Intel,Windows 10 Pro,Core i7,6,859.77,SSD,512,4.4,14.0,16,Amazon
+HP,i5 11th gen,Intel,Windows 11 Home,Intel Core i5-1135G7,238,415.0,SSD,256,4.5,15.6,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i7,3,1058.0,SSD,512,4.4,15.6,16,Amazon
+HP,ZBook Power G11,Intel,Windows 11 Pro,Unknown,0,1870.0,SSD,512,4.4,16.0,16,Amazon
+SAMSUNG,Samsung Chromebook,Intel,Chrome OS,Celeron N4000,128,85.95,EMMC,32,4.6,11.6,4,Amazon
+Lenovo,T14 Gen 1,Intel,Windows 11 Pro,Ryzen 5,6,424.99,SSD,2048,4.8,14.0,32,Amazon
+ASUS,FA707XU-MS94,AMD,Windows 11 Home,Ryzen 9,68,1319.79,SSD,1000,4.0,17.3,16,Amazon
+Lenovo,Lenovo Yoga 6 2-in-1,AMD,Windows 11,Ryzen 5,10,549.0,SSD,512,4.4,13.3,8,Amazon
+ASUS,ASUS ZenBook Pro Duo 15,Intel,Windows 11 Pro,Core i9,36,2949.0,SSD,2048,4.5,15.6,32,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,1.8 GHz a13,1,119.99,EMMC,64,4.5,10.1,2,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Dell,Dell Inspiron 15 3520 Laptop,Intel,Windows 11 Home,Core i5,51,829.99,SSD,4096,4.4,15.6,64,Amazon
+ASUS,Chromebook Vibe C55 Flip,Intel,Chrome OS,Intel Core i5,79,439.99,SSD,512,4.2,15.6,16,Amazon
+HP,14dq0760dx,Intel,Windows 11 Home,Celeron N4020,0,279.0,EMMC,128,4.6,14.0,16,Amazon
+Dell,Latitude 15 5590,Intel,Windows 10 Pro,Core i5 8250U,86,198.99,SSD,256,4.4,15.6,8,Amazon
+acer,acer Chromebook Plus 514 Touchscreen Laptop,Intel,Chrome OS,Celeron,0,355.0,SSD,512,4.3,14.0,8,Amazon
+Lenovo,IdeaPad 3 15ITL6,Intel,Windows 11 Home,Core i3,28,429.98,SSD,512,4.5,15.6,16,Amazon
+acer,Chromebook Spin,Intel,Chrome OS,Intel Core i5,10,549.9,SSD,256,4.4,14.0,8,Amazon
+HP,ZBook Power G10 A,AMD,Windows 11 Pro,AMD R Series,0,1425.0,SSD,4096,4.4,15.6,64,Amazon
+HP,EliteBook 845 G8,AMD,Windows 10 Pro,Ryzen 5,4,399.99,SSD,256,4.3,14.0,16,Amazon
+ist computers,m16 R2,Intel,Windows 11 Home,Core i7 Family,5,1949.99,SSD,4096,4.4,16.0,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,849.0,SSD,2048,4.3,15.6,16,Amazon
+Oemgenuine,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i5,42,799.95,SSD,250,4.5,15.6,16,Amazon
+HP,14dq0760dx,Intel,Windows 11 Home,Celeron N4020,0,279.0,EMMC,128,4.6,14.0,16,Amazon
+hp,HP EliteBook,Intel,Windows 10,Core i5,15,129.99,SSD,512,4.5,14.0,8,Amazon
+LG,LG Gram 16,Intel,Windows 11 Home,Core i7,0,929.99,SSD,2048,4.3,16.0,16,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 12,Intel,Windows 11 Pro,Core i7 Family,0,1419.99,SSD,512,4.0,14.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,19,849.0,SSD,512,4.4,14.0,32,Amazon
+Lenovo,Lenovo Legion Pro 7i Laptop,Intel,Windows 11 Pro,Intel Core i9,109,3259.99,SSD,8192,4.2,16.0,64,Amazon
+Lenovo,Yoga 9i,Intel,Windows 11 Home,Core i7,0,1349.99,SSD,2048,4.3,14.0,16,Amazon
+HP,HP 15,AMD,Windows 11,Ryzen 3 3250U,0,499.0,SSD,512,4.4,15.0,16,Amazon
+Lenovo,21JT,AMD,Windows 11 Pro,Ryzen 7,17,799.0,SSD,2048,4.5,16.0,40,Amazon
+ASUS,Vivobook 15,Intel,Windows 11 Pro,Intel Core i9,0,1329.0,SSD,4096,4.0,15.6,48,Amazon
+Lenovo,2023 Lenovo IdeaPad Flex 3i Chromebook,Intel,Chrome OS,Pentium Other,27,349.13,EMMC,64,4.5,15.6,8,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,749.0,SSD,4096,4.3,14.0,32,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,22,899.0,SSD,2048,4.3,16.0,24,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,1319.0,SSD,4096,4.0,15.6,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1249.0,SSD,4096,4.0,15.6,32,Amazon
+Lenovo,Lenovo Flex,Intel,Chrome OS,Celeron,5,249.99,SSD,64,4.5,11.6,4,Amazon
+ASUS,ASUS Vivobook Go 15,Intel,Windows 11 S,Celeron,271,169.99,EMMC,64,4.5,15.6,4,Amazon
+Dell,Dell Latitude 5400,Intel,Windows 10 Pro,Core i7-8665U,0,279.0,SSD,512,4.4,14.0,16,Amazon
+Dell,Latitude 5320 Laptop,Intel,Windows 10 Pro,Intel Core i7,10,346.99,SSD,512,4.5,13.3,32,Amazon
+Apple,MacBook Pro,Apple,Mac OS,ARM 7100,7,1549.99,SSD,512,4.4,14.2,32,Amazon
+Lenovo,IdeaPad Gaming 3,AMD,Windows 11,Ryzen 5 5500U,3,759.99,SSD,2048,4.5,15.6,32,Amazon
+MSI,Cyborg 15 A12VF,Intel,Windows 11 Home,Core i7 Family,101,1075.0,SSD,2048,4.4,15.6,32,Amazon
+HP,17-cn2083dx,Intel,Windows 11 Pro,Intel Core i3,15,618.75,SSD,4096,4.4,17.3,32,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i5-6267U,121,379.99,SSD,512,4.5,13.0,16,Amazon
+HP,"HP Pavilion Plus 14 inch Laptop PC,",Intel,Windows 11 Home,Core i7,61,1096.98,SSD,2048,4.4,14.0,16,Amazon
+Lenovo,IdeaPad 1 15ALC7,AMD,Windows 11 Home,Ryzen 5,5,450.0,SSD,2048,4.4,15.6,16,Amazon
+HP,HP Envy,Intel,Windows 11 Home,Core i3,42,299.99,SSD,512,4.4,17.3,8,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+TPV,AceBook,Intel,Windows 11 Pro,Core i5,13,309.99,SSD,512,4.5,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1348.0,SSD,2048,4.0,15.6,64,Amazon
+HP,17-cn0615ds,Intel,Windows 11 S,Celeron N4020,137,292.89,SSD,128,4.6,17.3,4,Amazon
+Molegar,Y156N,AMD,Windows 11 Pro,AMD Ryzen 7 5700U,7,599.99,SSD,2048,4.4,15.6,16,Amazon
+jumper,EZbook S5,Intel,Windows 11,Celeron,12,409.99,SSD,512,4.5,14.0,12,Amazon
+Apple,"2022 Apple MacBook Air M2, 24GB RAM, 1TB Storage - Midnight (Z160000B7)",Apple,macOS 12 Monterey,Unknown,2,1159.99,SSD,2048,4.4,13.6,24,Amazon
+HP,HP Laptop,Intel,Windows 11 Pro,Intel Core i5-1135G7,10,506.0,SSD,512,4.4,15.6,16,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Intel Core i5,1,449.0,SSD,256,3.0,13.3,16,Amazon
+Lenovo,N42-20,Intel,Chrome OS,Celeron,75,82.0,SSD,32,4.4,14.0,4,Amazon
+Lenovo,83DL,Intel,Windows 11 Pro,Others,0,789.99,SSD,512,4.3,16.0,16,Amazon
+Lenovo,Lenovo,Intel,Windows 11 Home,Core i7,10,799.99,SSD,2048,4.5,14.0,16,Amazon
+Lenovo,15ITL6,Intel,Windows 11 Pro,Core i5 Family,23,572.69,SSD,2048,4.4,15.6,20,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Core i7-8650U,60,272.0,SSD,512,4.6,13.3,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,579.99,SSD,4096,4.4,15.6,8,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1079.0,SSD,2048,4.0,16.0,32,Amazon
+ASUS,Vivobook S 16 Flip,Intel,Windows 11 Pro,Core i9,0,1099.99,SSD,4096,4.0,16.0,40,Amazon
+ACEMAGIC,AX15,Intel,Windows 11,Intel Mobile CPU,4,899.99,SSD,512,4.3,15.6,16,Amazon
+Lenovo,Lenovo IdeaPad Flex 5i Chromebook Plus,Intel,Chrome OS,Core i3,104,483.99,EMMC,128,4.4,14.0,8,Amazon
+AOC,AX15,Intel,Windows 11,Intel Mobile CPU,14,359.99,SSD,512,4.3,15.6,16,Amazon
+Lenovo,N42-20,Intel,Chrome OS,Celeron,75,82.0,SSD,32,4.4,14.0,4,Amazon
+acer,Acer Nitro V 16 165Hz R7 RTX4060,AMD,Windows 11 Pro,Ryzen 7,1,1249.0,SSD,4096,4.0,16.0,32,Amazon
+Dell,Inspiron 15,Intel,Windows 11 Pro,Intel Core i3,3,499.0,SSD,512,4.4,15.6,16,Amazon
+acer,2023 Newest Acer X360 Chromebook Spin,MediaTek,Chrome OS,MediaTek MT8183,26,249.0,SSD,64,4.5,11.6,4,Amazon
+Apple,MacBook Air,Apple,macOS Ventura,Apple M2,2,1039.49,SSD,2048,4.4,13.6,16,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Unknown,21,389.99,SSD,256,4.3,14.0,16,Amazon
+HP,HP Laptop,Intel,Windows 11 Pro,Pentium,137,659.99,SSD,2048,4.4,17.3,32,Amazon
+HP,ProBook 450 G10,Intel,Windows 11 Pro,Core i7,0,949.95,SSD,2048,4.3,15.6,32,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,749.0,SSD,4096,4.3,14.0,32,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Core i7,5,1029.0,SSD,512,4.0,15.6,16,Amazon
+HP,HP,Intel,Windows 11,Celeron,352,319.99,SSD,64,4.5,14.0,16,Amazon
+Toughbook,CF-54 MK3,Intel,Windows 10 Pro,Core i5,12,469.0,SSD,512,3.7,14.0,16,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Core i7-8650U,442,226.73,SSD,512,4.5,13.3,16,Amazon
+Lenovo,IdeaPad 5 2-in-1 14AHP9,AMD,Windows 11 Home,Ryzen 7,0,899.0,SSD,2048,4.3,14.0,16,Amazon
+ASUS, TP3402Z,Intel,Windows 11 Pro,Intel Core i9,0,1299.0,SSD,8192,4.0,16.0,40,Amazon
+Lenovo,Lenovo ThinkPad T14 Gen 4,Intel,Windows 11 Pro,Core i7 Family,0,1159.77,SSD,512,4.4,14.0,16,Amazon
+ASUS,Laptop17,AMD,Windows 10 Home,Ryzen 9,201,1449.99,SSD,2048,4.4,14.0,16,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 10,Intel,Windows 11 Pro,Core i5,1,899.99,SSD,512,4.3,14.0,16,Amazon
+Microsoft,Surface Laptop 5,Intel,Windows 11 Pro,Core i7,2,1447.0,SSD,256,4.4,15.0,16,Amazon
+ASUS,ASUS L210,Intel,Windows 10 S,Celeron N4020,436,195.0,EMMC,64,4.4,11.6,4,Amazon
+Lenovo,ThinkPad,Intel,Windows 10 Pro,Intel Core i5,35,254.79,SSD,500,4.6,14.0,16,Amazon
+Lenovo,IdeaPad 1 15ALC7,AMD,Windows 11 Home,Ryzen 5,5,450.0,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,1,729.0,SSD,4096,1.0,14.0,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+ist computers,Lenovo ThinkBook 15 G4 IAP,Intel,Windows 11 Pro,Core i7,48,899.98,SSD,512,4.4,15.6,16,Amazon
+Lenovo,"Ideapad 1 15"" - 82R400EMUS",AMD,Windows 11 Pro,AMD R Series,0,599.0,SSD,4096,4.4,15.6,8,Amazon
+Microsoft,Surface Laptop,Intel,Windows 11 Home,Intel Core i7-11700,73,1810.99,SSD,4096,4.4,14.4,32,Amazon
+Dell,Dell Inspiron,Intel,Windows 10 Pro,Core i5,26,550.0,HDD,2048,4.4,15.6,16,Amazon
+Dell,Dell Latitude,Intel,Windows 10 Pro,Core i5,14,180.0,SSD,256,4.4,14.0,8,Amazon
+ASUS,Chromebook Flip,Intel,Chrome OS,core_m,390,368.0,EMMC,64,4.3,14.0,8,Amazon
+acer,PH16-71-74UU,Intel,Windows 11 Home,Intel Core i7,133,1299.0,SSD,2048,4.0,16.0,16,Amazon
+HP,17-cn2083dx,Intel,Windows 11 Pro,Intel Core i3,15,618.75,SSD,4096,4.4,17.3,32,Amazon
+ASUS,Strix G18,Intel,Windows 11 Pro,Core i9,3,2569.99,SSD,8192,4.0,18.0,64,Amazon
+Dell,7400,Intel,Windows 10 Pro,Intel Core i5,18,309.0,SSD,512,4.5,14.0,32,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,499.99,SSD,512,4.4,15.6,8,Amazon
+Dell,Latitude 7420,Intel,Windows 11 Pro,Core i5,0,649.99,SSD,256,4.4,14.0,16,Amazon
+Lenovo,IdeaPad 1 14IGL7,Intel,Windows 11 Home,Celeron N,10,165.28,SSD,128,4.5,14.0,4,Amazon
+HP,HP Laptop,Intel,Windows 11 Home,Core i5,28,663.29,SSD,2048,4.4,17.3,32,Amazon
+Dell,Dell Latitude 7490 Laptop,Intel,Windows 11 Pro,Core i7-8650U,58,383.15,SSD,512,4.3,14.0,32,Amazon
+HP,TPN-Q245,Intel,Windows 11 Home,Core i7 Family,0,889.99,SSD,2048,,15.6,32,Amazon
+HP,TPN-I139_767L0AV,Intel,Windows 11 Pro,Core i7 Family,6,752.94,SSD,2048,4.5,17.3,32,Amazon
+HP,HP Laptop,Intel,Windows 11 Pro,Intel Core i5-1135G7,10,506.0,SSD,512,4.4,15.6,16,Amazon
+Lenovo,Lenovo Ideapad,Intel,Windows 11 Home,Intel Core i5-1135G7,124,433.0,SSD,256,4.5,15.6,12,Amazon
+Dell,Dell Mobile Workstation 7770,Intel,Windows 11 Pro,Core i7,1,2099.99,SSD,8192,4.0,17.3,64,Amazon
+HP,HP Laptop 15-dy2021nr,Intel,Windows 10 Home,Core i5,396,404.99,SSD,256,4.5,15.6,8,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+HP,Elitebook,Intel,Windows 11 Pro,Intel Core i7,5,1139.0,SSD,4096,4.0,16.0,32,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,529.0,SSD,512,4.4,15.6,16,Amazon
+Apple,MacBook pro,Intel,Os Catalina,Core i7,2,629.0,SSD,2048,5.0,16.0,32,Amazon
+NBVCXSD,MTL1732,Intel,Windows 11 Pro,Celeron N,7,298.99,SSD,256,4.4,17.3,8,Amazon
+Dell,Dell G15 5530 15 165Hz i9 RTX4060,Intel,Windows 11 Pro,Core i9,0,1348.99,SSD,2048,4.4,15.6,32,Amazon
+Dell,Latitude Rugged 5420 Laptop,Intel,Windows 10 Pro,Core i5,6,579.99,SSD,512,4.4,14.0,32,Amazon
+Dell,Latitude 7400 Laptop,Intel,Windows 10 Pro,Intel Core i5,13,188.89,SSD,256,4.5,14.0,16,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i7,12,670.0,SSD,512,4.4,13.0,32,Amazon
+Apple,MacBook Pro,Intel,macOS 11 Big Sur,Intel Core i9,9,601.79,SSD,512,4.5,16.0,32,Amazon
+ECOHERO,Gamma,Intel,Windows 11 Pro,Celeron,29,218.0,SSD,256,4.5,14.1,8,Amazon
+acer,2023 Flagship Acer Chromebook,Intel,Chrome OS,Celeron,36,229.0,EMMC,64,4.5,15.6,4,Amazon
+Lenovo,ThinkPad E16 Gen 1,Intel,Windows 11 Pro,Core i7,2,1149.99,SSD,2048,4.0,16.0,40,Amazon
+acer,Aspire 5,Intel,Windows 11 Home,Core i3,920,325.0,SSD,128,4.5,15.6,4,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,2,729.0,SSD,2048,5.0,14.0,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,19,949.0,SSD,4096,4.3,14.0,32,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+ASUS,B9403CVA-XVE77,Intel,Windows 11 Pro,Core i7,0,1751.6,SSD,4096,4.4,14.0,32,Amazon
+Rumtuk,HL-K710,Intel,Windows 11 Pro,Others,23,399.99,SSD,512,4.5,16.0,12,Amazon
+ASUS,ASUS Chromebook Flip CX3,Intel,Chrome OS,Intel Core i7,35,789.99,SSD,512,4.5,14.0,16,Amazon
+Dell,Dell Latitude 5400,Intel,Windows 10 Pro,Core i7-8665U,0,279.0,SSD,512,4.4,14.0,16,Amazon
+EXCaliberPC,ASUS ROG Zephyrus G16 GA605,AMD,Windows 11 Pro,Ryzen 9,0,2279.0,SSD,2048,,16.0,32,Amazon
+MSI,Raider GE68HX 14VIG-285US,Intel,Windows 11 Home,Intel Core i9,4,3749.0,SSD,4096,3.4,16.0,64,Amazon
+HP,17-cn0615ds,Intel,Windows 11 S,Celeron N4020,137,292.89,SSD,128,4.6,17.3,4,Amazon
+Apple,MacBook Pro,Intel,Mac OS,68000,41,366.12,SSD,256,4.5,13.3,16,Amazon
+HP,HP Stream Laptop,Intel,Windows 11 Home,Celeron,161,167.99,EMMC,64,4.5,14.0,16,Amazon
+ASUS,ASUS Vivobook 16X,AMD,Windows 11 Pro,Ryzen 7,3,799.0,SSD,2048,4.4,15.6,40,Amazon
+RIANIFEL,F15,Intel,Windows 11 Pro,Intel Core i3,5,299.0,SSD,512,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,849.0,SSD,2048,4.3,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 10 Pro,Intel Core i5,0,699.0,SSD,2048,4.4,14.0,32,Amazon
+Lenovo,ThinkPad,AMD,Windows 11 Pro,Ryzen 5,11,799.0,SSD,512,4.3,16.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Apple,"2022 Apple MacBook Air M2, 24GB RAM, 1TB Storage - Midnight (Z160000B7)",Apple,macOS 12 Monterey,Unknown,2,1159.99,SSD,2048,4.4,13.6,24,Amazon
+Microsoft,1Y9-00001,Intel,Windows 10 Pro,2.8 GHz,11,547.0,SSD,256,4.5,12.3,16,Amazon
+Lenovo,Lenovo IdeaPad 1i,Intel,Windows 11 S,Core i5-1235U,0,379.99,SSD,512,4.3,15.6,8,Amazon
+MSI,Raider GE76 12UE,Intel,Windows 11 Pro,Intel Core i9,0,2369.0,SSD,4096,4.0,17.3,64,Amazon
+Lenovo,Lenovo V15 G2 IJL,Intel,Windows 11 Pro,Celeron N,27,319.0,SSD,256,4.5,15.6,8,Amazon
+Lenovo,Lenovo Ideapad,Intel,Windows 11 S,Core i5,0,509.99,SSD,512,4.4,14.0,8,Amazon
+BHWW,WH-BHWW-160BP-Silver,Intel,Windows 11 Pro,Intel Core i5,6,459.99,SSD,2048,4.4,16.1,32,Amazon
+Apple,"MacBookPro11,5",Intel,"MacOS v10.14 Mojave,macOS 10.14 Mojave",Core i7-4870HQ,308,189.0,SSD,512,4.3,15.4,16,Amazon
+Toughbook,FZ-55 MK2,Intel,Windows 10 Pro,Intel Core i5 1145G7,4,2329.99,SSD,512,4.3,14.0,16,Amazon
+Lenovo,G3IAP,Intel,Windows 11 Pro,Core i7 Family,0,699.0,SSD,2048,4.4,15.6,40,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,1,149.0,EMMC,64,4.6,14.1,6,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+acer,Aspire,Intel,Windows 11 Pro,Core i5,0,499.99,SSD,512,4.4,15.6,8,Amazon
+HP,1,Intel,Windows 11 Home,Pentium,186,399.0,SSD,256,4.3,15.6,8,Amazon
+Lenovo,T480,Intel,Windows 10 Pro,Intel Core i5,48,150.0,SSD,256,4.5,14.0,16,Amazon
+LG,LG Gram 17 Ultra 7,Intel,Windows 11 Pro,Intel Mobile CPU,2,1099.0,SSD,2048,4.0,17.0,16,Amazon
+Dell,Inspiron 3530,Intel,Windows 11,Intel Core i7,0,1199.0,SSD,4096,4.4,15.6,64,Amazon
+HP,15-DY5033DX,Intel,Windows 11 Pro,Intel Core i3,0,399.0,SSD,256,4.5,15.6,8,Amazon
+Dell,Dell Inspiron 14 7440 2-in-1,Intel,Windows 11,Intel Mobile CPU,0,1099.0,SSD,2048,4.4,14.0,64,Amazon
+HP,15a-na2,Intel,Chrome OS,Celeron N,20,259.99,SSD,64,4.6,15.6,8,Amazon
+HP,Essiential,Intel,Windows 11 Pro,AMD Athlon 4,7,499.0,SSD,512,4.4,15.6,32,Amazon
+Dell,Dell Latitude 5420,Intel,Windows 11 Pro,Core i5 Family,3,799.99,SSD,2048,4.5,14.0,16,Amazon
+Apple,MacBook Pro,Intel,macOS 10.15 Catalina,Core i7,36,534.69,SSD,512,4.4,13.0,32,Amazon
+BiTECOOL,HaloBook Plus,Intel,Windows 11 Pro,Celeron,10,249.0,SSD,512,4.5,15.6,16,Amazon
+HP,TPN-Q287,AMD,Windows 11 Pro,Ryzen 7,21,575.1,SSD,2048,4.4,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1499.0,SSD,8192,4.0,15.6,64,Amazon
+HP,HP Essential,Intel,Windows 11 Home,Pentium N5000,0,379.0,SSD,2048,4.5,14.0,8,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,24,889.0,SSD,2048,4.3,15.6,32,Amazon
+Lenovo,ThinkPad,Intel,Windows 11 Pro,Intel Core i5,11,1099.0,SSD,2048,4.0,16.0,40,Amazon
+HP,TPN-C164,Intel,Windows 11 Pro,Intel Mobile CPU,0,1634.21,SSD,8192,4.0,17.3,64,Amazon
+Dell,Dell Latitude,Intel,Windows 11 Pro,Core i5 8250U,6,228.0,SSD,256,4.5,14.1,8,Amazon
+Apple,MacBook Pro,Apple,macOS Sonoma,1,7,2099.0,SSD,512,4.3,16.2,36,Amazon
+ECOHERO,Lambda,Intel,Windows 11 Pro,Core i3-5005U,32,349.0,SSD,512,4.2,15.6,16,Amazon
+ASUS,UM3504D,AMD,Windows 11 Home,Ryzen 7,0,849.0,SSD,2048,4.4,15.6,16,Amazon
+Apple,MacBook Air,Intel,macOS 11 Big Sur,Intel Core i5,7,449.0,SSD,256,4.5,13.0,16,Amazon
+Dell,Precision 3581 Workstation,Intel,Windows 11 Pro,Core i7 Family,0,1149.0,SSD,2048,4.4,15.6,32,Amazon
+Lenovo,IdeaPad 3 15ITL6,Intel,Windows 11 Home,Core i5 Family,56,488.0,SSD,512,4.4,15.6,20,Amazon
+HP,HP 2024 Essential 17 Laptop,Intel,Windows 11 Pro,Core i3,19,551.61,SSD,2048,4.4,17.3,32,Amazon
+HP,Touchscreen,Intel,Windows 11 Home,Core i3,16,699.99,SSD,2048,4.4,15.6,40,Amazon
+Dell,I5640jkxew,Intel,Windows 11 Pro,Core i7 Family,0,1079.0,SSD,2048,4.0,16.0,32,Amazon
+HP,"HP 13.8"" Touch Laptop",Intel,Windows 11,Celeron N,14,259.99,EMMC,64,4.6,13.8,4,Amazon
+Lenovo,ThinkBook 16 G4+ IAP,Intel,Windows 11 Pro,Intel Mobile CPU,1,1159.0,SSD,4096,4.4,16.0,64,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,849.0,SSD,2048,4.3,15.6,16,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,1,1319.0,SSD,4096,4.0,15.6,64,Amazon
+Lenovo,Lenovo T490s,Intel,Windows 10 Pro,Intel Core i5,12,222.82,SSD,512,4.5,14.0,16,Amazon
+HP,TPN-Q278_599J4AV,Intel,Windows 11 Home,Core i5 Family,0,799.0,SSD,2048,4.3,15.6,32,Amazon
+HP,HP,Intel,Chrome OS,Celeron N,20,229.0,EMMC,64,4.5,14.0,4,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i5-6267U,121,379.99,SSD,512,4.5,13.0,16,Amazon
+Dell,Dell Latitude 7480,Intel,Windows 10 Pro,Core i5,514,186.0,SSD,256,4.4,14.0,16,Amazon
+ASUS,X515E,Intel,Windows 11 Home,Core i5 Family,114,609.0,SSD,4096,4.4,15.6,36,Amazon
+HP,Essential 17,Intel,Windows 11,Core i7,4,1099.0,SSD,4096,4.4,17.0,64,Amazon
+Lenovo,ThinkBook 15 G4 IAP,Intel,Windows 11 Pro,Core i7 Family,1,1029.0,SSD,4096,4.4,15.6,40,Amazon
+HP,"HP 14"" Chromebook",Intel,Chrome OS,Pentium,134,159.99,SSD,128,4.5,14.0,4,Amazon
+Dell,Dell Inspiron,Intel,Windows 10 Pro,Core i5-1035G1,56,457.0,SSD,2048,4.4,15.6,16,Amazon
+HP,TPN-I139_767K9AV,Intel,Windows 11 Home,Core i5 Family,5,795.63,SSD,2048,4.3,17.3,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i5,6,1249.0,SSD,4096,4.0,15.6,32,Amazon
+Dell,Latitude,Intel,Windows 11 Pro,Intel Core i7,38,1407.0,SSD,4096,4.0,15.6,64,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A13,1,119.99,EMMC,64,4.4,10.1,2,Amazon
+SAIWAN,A1407N,Intel,Windows 10,Celeron N3350,0,149.0,EMMC,64,4.6,14.1,6,Amazon
+Zuleisy,VB16,Intel,Windows 11,Intel Mobile CPU,2,399.99,SSD,2048,4.5,16.0,16,Amazon
+Microsoft,Surface Laptop,Intel,Windows 11 Home,Intel Core i7,26,749.0,SSD,512,4.5,14.4,16,Amazon
+Lenovo,ThinkPad T15,Intel,Windows 11 Pro,Core i7,4,345.99,SSD,512,4.2,15.6,16,Amazon
+Lenovo,V15 G3 ABA,Intel,Windows 11 Home,Core i5 Family,0,599.0,SSD,2048,4.4,15.6,40,Amazon
+Lenovo,V15,AMD,Windows 11 Pro,Ryzen 3,56,399.0,SSD,2048,4.5,15.6,16,Amazon
+acer,2023 Flagship Acer Spin Chromebook,MediaTek,Chrome OS,MediaTek MT8183,31,249.0,EMMC,64,4.5,11.6,4,Amazon
+Dell,Latitude 5540 Laptop,Intel,Windows 11 Professional,Intel Core i7,0,1928.59,SSD,512,4.4,15.6,16,Amazon
+Apple,MacBook Air,Apple,Mac OS,Apple M2,0,849.0,SSD,256,4.0,13.6,8,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M2 Pro,0,1869.99,SSD,512,4.4,16.2,16,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M2 Pro,0,1649.95,SSD,2048,4.4,14.2,16,Amazon
+Naclud,Naclud-X15,Intel,Windows 11,Celeron,44,259.99,SSD,512,4.6,15.6,12,Amazon
+Dell,Inspiron 3000,Intel,Windows 11 Pro,Intel Core i5-1155G7,30,449.99,SSD,512,4.2,15.6,16,Amazon
+Lenovo,Ideapad Flex 5 14Abr8,AMD,Windows 11 Pro,AMD Ryzen 7,20,429.99,SSD,512,4.2,14.0,16,Amazon
+Apple,MacBook Air,Apple,Mac OS,M2,0,808.84,SSD,256,4.7,15.3,8,Amazon
+Naclud,Naclud-X15,Intel,11 HOME,Celeron,2,849.99,SSD,512,4.4,15.6,12,Amazon
+Dell,Dell Latitude,Intel,Windows 10,i5-8350U,326,188.59,SSD,256,4.4,13.3,8,Amazon
+Dell,Dell Latitude,Intel,Windows 10,i5-8350U,326,188.59,SSD,256,4.4,13.3,8,Amazon
+HP,HP Chromebook,Intel,Chrome OS,Celeron N4020,258,298.98,SSD,64,4.6,14.0,4,Amazon
+Naclud,Naclud-M17PRO,Intel,Windows 11,Celeron,2,499.99,SSD,512,5.0,17.3,8,Amazon
+HP,HP Chromebook,Intel,Chrome OS,Celeron N4020,258,298.98,SSD,64,4.6,14.0,4,Amazon
+Lenovo,Thinkpad T490,Intel,Windows 10 Pro,8550u,112,262.86,SSD,256,4.6,14.0,16,Amazon
+acer,Chromebook,AMD,Chrome OS,A6,14,184.0,SSD,32,3.6,15.6,4,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M3 Pro 12C CPU - 18C GPU Chip,1,3099.0,SSD,2048,3.4,16.0,36,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i5-10500,1,449.0,SSD,256,3.0,13.3,16,Amazon
+SAINTDISE,ANL5-N5095,Intel,DOS,N5095,10,236.99,SSD,512,4.5,15.6,16,Amazon
+ASUS,ROG Ally,AMD,Windows 11 Home,AMD R Series,15,689.69,SSD,512,4.4,7.0,16,Amazon
+SAINTDISE,ANL5-N5095,Intel,DOS,N5095,10,236.99,SSD,512,4.5,15.6,16,Amazon
+HP,HP,Intel,Windows 11 Pro,Intel Core i7,2,319.9,SSD,512,4.5,14.0,32,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M2,0,1325.71,SSD,512,4.7,13.3,8,Amazon
+Apple,MacBook Pro,Intel,Mac OS,Core i5-10500,1,449.0,SSD,256,3.0,13.3,16,Amazon
+HP,250,Intel,Windows 11 Home,N4500,169,569.99,SSD,4096,4.4,15.6,32,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+Dell,Dell Inspiron,AMD,Windows 11 Pro,Ryzen 5 7530U,0,649.0,SSD,2048,4.4,15.6,36,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M1 Max,71,1729.78,SSD,2048,4.4,16.2,32,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+SAMSUNG,NP964XGK-KG1US,Intel,Windows 11 Pro,Intel Core 7 Ultra 155H,22,1779.0,SSD,2048,4.4,16.0,32,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+Lenovo,ThinkPad X1 Carbon Gen 12,Intel,Windows 11 Pro,Intel Core Ultra 7 165U,9,1649.99,SSD,4096,4.4,14.0,32,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+KOOFORWAY,P8,Intel,Windows 11 Pro,Intel® Processor N-series /Alder Lake-N N100,78,469.0,SSD,2048,4.4,8.0,12,Amazon
+Lenovo,Yoga,Intel,Windows 11 Pro,155U,4,898.0,SSD,2048,4.4,16.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ASUS,2024 Flagship ASUS Chromebook,MediaTek,Chrome OS,MediaTek Kompanio 520,9,239.0,SSD,64,4.5,14.0,4,Amazon
+KOOFORWAY,P8,Intel,Windows 11 Pro,Intel® Processor N-series /Alder Lake-N N100,78,469.0,SSD,2048,4.4,8.0,12,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+Dell,Dell Inspiron,AMD,Windows 11 Pro,Ryzen 5 7530U,0,649.0,SSD,2048,4.4,15.6,36,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+Dell,Dell Inspiron,AMD,Windows 11 Pro,Ryzen 5 7530U,0,649.0,SSD,2048,4.4,15.6,36,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+Apple,MacBook Pro,Apple,Mac OS,Apple M3 Pro 12C CPU - 18C GPU Chip,11,2549.99,SSD,2048,4.1,16.0,18,Amazon
+acer,Spin 513,Qualcomm,Chrome OS,Qualcomm Kryo 468,26,279.99,SSD,192,4.6,13.3,4,Amazon
+Lenovo,ThinkPad T14,Intel,Windows 11 Pro,Core Ultra 7 155U,7,1399.99,SSD,2048,4.1,14.0,32,Amazon
+Nmybwo,HL-K701,Intel,Windows 11 Pro,Alder Lake N95,117,469.9,SSD,2048,4.4,16.0,12,Amazon
+Dell,Alienware,Intel,Windows 11 Pro,185H,1,2399.99,SSD,4096,4.3,16.0,64,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+AimCare,XPS,Intel,Windows 11 Pro,Ultra 7 Processor 155H,1,2299.0,SSD,2048,4.1,14.5,32,Amazon
+Dell,Dell inspiron 15,AMD,Windows 11 Pro,1.2GHz Cortex A8 Processor,0,649.0,SSD,2048,4.4,15.6,36,Amazon
+Microsoft,Surface Pro 8,Intel,Windows 11 Home,11th Gen Intel Core,130,1160.01,SSD,512,4.5,13.0,16,Amazon
+Dell,Dell Inspiron 16 Plus 7640 Laptop,Intel,Windows 11 Home,155H,42,1699.99,SSD,2,4.4,16.0,32,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+Lenovo,ThinkPad T14s G6,Qualcomm,Windows 11 Pro,X1E-78-100,1,1525.0,SSD,2048,4.4,14.0,32,Amazon
+Dell,XPS 13 9340,Intel,Windows 11 Pro,Intel Core Ultra 7 155H,9,1399.99,SSD,2048,4.4,13.4,16,Amazon
+HP,HP Chromebook,Qualcomm,Chrome OS,N4020,167,196.99,SSD,64,4.4,11.0,8,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ASUS,Zenbook,Intel,Windows 11 Pro,125H,2,620.0,SSD,512,4.4,14.0,8,Amazon
+Dell,Dell Inspiron,AMD,Windows 11 Pro,Ryzen 5 7530U,0,649.0,SSD,2048,4.4,15.6,36,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+AimCare,Workstation,Intel,Windows 11 Pro,Ultra 9 185H Processor,0,3999.0,SSD,16384,3.4,16.0,64,Amazon
+Lenovo,Lenovo Chromebook,MediaTek,Chrome OS,MT8186,8,279.0,SSD,64,4.6,14.0,4,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+HP,HP Envy x360,Intel,Windows 11 Pro,i7-13700H,1,799.99,SSD,2048,4.5,16.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ASUS,Zenbook,Intel,Windows 11 Pro,155H,5,910.0,SSD,2048,4.1,14.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+Lenovo,83DL,Intel,Windows 11 Pro,125U,0,799.99,SSD,512,4.3,16.0,16,Amazon
+Rumtuk,DQ160,Intel,Windows 11 Pro,N5095,12,469.99,SSD,2048,4.4,16.0,16,Amazon
+Rumtuk,DQ160,Intel,Windows 11 Pro,N5095,12,469.99,SSD,2048,4.4,16.0,16,Amazon
+ZHAOHUIXIN,PC1068,Alwinner,Android,A133,1,119.99,SSD,2,4.5,10.1,2,Amazon
+ASUS,Zenbook,Intel,Windows 11 Pro,155H,5,910.0,SSD,2048,4.1,14.0,16,Amazon
+Lenovo,83DL,Intel,Windows 11 Pro,125U,0,799.99,SSD,512,4.3,16.0,16,Amazon
+Rumtuk,HL-K710,Intel,Windows 11 Pro,N95,12,358.99,SSD,512,4.5,16.0,12,Amazon
+Microsoft,1Y9-00001,Intel,Windows 10 Pro,Intel Core i7-1165G7,12,547.0,SSD,256,4.5,12.3,16,Amazon
