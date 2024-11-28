@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: postgres_container
+    environment:
+      POSTGRES_DB: etl_db
+      POSTGRES_USER: etl_user
+      POSTGRES_PASSWORD: etl_password
+    ports:
+      - "5432:5432"  # Expose PostgreSQL on the default port
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - pyspark_network  # Connect to the same network
+
+  pyspark:
+    build:
+      context: .
+      dockerfile: Dockerfile  # Ensure Dockerfile is present in the same directory
+    container_name: pyspark_container
+    ports:
+      - "5001:5000"  # Map host port 5001 to container port 5000
+    environment:
+      - PYTHONUNBUFFERED=1  # Prevent buffering of Python output
+    volumes:
+      - .:/app  # Mount current directory to /app in the container
+    networks:
+      - pyspark_network  # Connect to the same network
+
+networks:
+  pyspark_network:
+    driver: bridge  # Use the bridge driver for custom networking
+
+volumes:
+  postgres_data: {}  # Persistent storage for PostgreSQL data
