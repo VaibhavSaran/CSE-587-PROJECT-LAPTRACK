@@ -1,9 +1,11 @@
 # CSE 587 PROJECT LAPTRACK
 
 **_Folder Structure Information:_**
-Source contents : app folder, exp folder, app demo video, Detailed Report
+Source contents : app folder, exp folder, app demo video, Detailed Report , README file
 app folder contents : all app source code
-exp Folder contents : ALL ML Models Ipynb files with their explanation.
+exp Folder contents : Phase-2 Model Building, Recommendation System folder
+Recommendation System Folder contents : models folder , Final Ml model, Recommendation System
+models folder contents : Ml Models used
 
 Team Information
 
