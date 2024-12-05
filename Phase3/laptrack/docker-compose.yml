@@ -40,8 +40,10 @@ services:
       - CHOKIDAR_USEPOLLING=true  # Optional: Fix file change issues in certain environments
     volumes:
       - ./laptrack:/usr/src/app  # Mount React project directory into the container
+      - /usr/src/app/node_modules  # Prevent node_modules from being overridden
     networks:
       - pyspark_network  # Connect to the same network
+    command: sh -c "npm install && npm start" # Install dependencies and start the app
 
 networks:
   pyspark_network:
