@@ -8,6 +8,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.preprocessing import MinMaxScaler
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import io
+import base64
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
@@ -244,6 +248,128 @@ def get_recommendations(laptop_id,price_tolerance=0.2, top_n=10):
     recommendations = [laptop.to_dict() for laptop in recommended_laptops_data]
     
     return jsonify({'recommended_laptops': recommendations})
+
+@app.route('/plot-price-variation', methods=['POST'])
+def plot_price_variation():
+
+    # Query all laptops for specs
+    laptops = Laptop.query.all()
+    laptops_list = [laptop.to_dict() for laptop in laptops]
+    laptops_df = pd.DataFrame(laptops_list)
+
+    # Get user input from the request
+    data = request.json
+    specific_processor = data.get('processor')
+    specific_storage = data.get('storage')
+    specific_screen_size = data.get('screen_size')
+    specific_storage_type = data.get('storage_type')
+    specific_RAM = data.get('RAM')
+    top_n = int(data.get('top_n'))
+    print(top_n)
+    # Filter the DataFrame
+    if top_n:
+        top_n_brands = laptops_df['brand'].value_counts().head(top_n).index.tolist()
+        filtered_df = laptops_df[laptops_df['brand'].isin(top_n_brands)]
+        print(filtered_df.head())
+    else:
+        filtered_df = laptops_df
+    print(filtered_df.columns)
+    if specific_processor:
+        filtered_df = filtered_df[filtered_df['processor_model'] == specific_processor]
+    if specific_storage:
+        filtered_df = filtered_df[filtered_df['storage_capacity_gb'] == specific_storage]
+    if specific_screen_size:
+        filtered_df = filtered_df[filtered_df['display_size_inches'] == specific_screen_size]
+    if specific_storage_type:
+        filtered_df = filtered_df[filtered_df['storage_type'] == specific_storage_type]
+    if specific_RAM:
+        filtered_df = filtered_df[filtered_df['ram_gb'] == specific_RAM]
+
+    if filtered_df.empty:
+        return jsonify({'error': 'No data available for the specified filters.'}), 400
+
+    # Create the plot
+    plt.figure(figsize=(14, 8))
+    sns.boxplot(data=filtered_df, x='brand', y='price')
+    plt.xticks(rotation=90)
+    plt.ylabel('Price')
+    plt.xlabel('Laptop Brand')
+    plt.tight_layout()
+
+    # Save plot to a BytesIO buffer
+    buffer = io.BytesIO()
+    plt.savefig(buffer, format='png')
+    buffer.seek(0)
+    plt.close()
+
+    # Encode the image to base64
+    image_base64 = base64.b64encode(buffer.read()).decode('utf-8')
+
+    print(filtered_df.describe())
+
+    # Clean the data
+    filtered_df = filtered_df.dropna(subset=['brand', 'price'])
+    filtered_df['price'] = pd.to_numeric(filtered_df['price'], errors='coerce')
+    filtered_df = filtered_df.dropna(subset=['price'])
+
+    # Calculate min, max, and average price per brand
+    price_stats = filtered_df.groupby('brand')['price'].agg(
+        min_price='min', 
+        max_price='max', 
+        avg_price='mean'
+    ).reset_index()
+
+    # Convert the result to a dictionary for easy return as JSON
+    price_stats_dict = price_stats.to_dict(orient='records')
+
+    return jsonify({'graph': image_base64,'price_stats': price_stats_dict})
+
+@app.route('/find-laptops', methods=['POST'])
+def find_laptops():
+    # Get the user input from the request
+    data = request.json
+    model_name = data.get('model_name')
+    model_number = data.get('model_number')
+    ram_size = data.get('ram_size')
+    storage_capacity = data.get('storage_capacity')
+    brand = data.get('brand')
+
+
+    matching_laptops = Laptop.query.filter(
+        Laptop.laptop_model_number == model_number,
+        Laptop.ram_gb == ram_size,
+        Laptop.storage_capacity_gb == storage_capacity,
+        Laptop.brand == brand
+    ).all()
+
+    more_matching_laptops = Laptop.query.filter(
+        Laptop.laptop_model_name == model_name,
+        Laptop.ram_gb == ram_size,
+        Laptop.storage_capacity_gb == storage_capacity,
+        Laptop.brand == brand
+    ).all()
+    all_laptops = matching_laptops + more_matching_laptops
+
+    # Sort the combined list by 'time_of_extraction' in descending order
+    all_laptops_sorted = sorted(all_laptops, key=lambda laptop: laptop.time_of_extraction, reverse=True)
+       
+    if not matching_laptops:
+        return jsonify({'message': 'No matching laptops found in the database.'}), 404
+    
+    # Prepare a list of laptops with their details
+    laptops_data = []
+    laptopIDs = set()
+    unique_source = set()
+    for laptop in all_laptops_sorted:
+        laptop_dict = laptop.to_dict()
+        laptop_id = laptop_dict.get('id')
+        laptop_source = laptop_dict.get('source')
+        if laptop_id not in laptopIDs and laptop_source not in unique_source:
+            laptops_data.append(laptop_dict)
+            laptopIDs.add(laptop_id)
+            unique_source.add(laptop_source)
+    
+    return jsonify({'buying_options': laptops_data}), 200
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000,debug=True)  # Listen on all interfaces in the container

@@ -39,3 +39,23 @@ export const getRecommendedLaptops = async (laptopId) => {
     return null;
   }
 }
+
+export const plotGraphsForSpecs = async (inputs) =>{
+  try{
+    const response = await axios.post(`${BASE_URL}/plot-price-variation`,inputs)
+    return response.data
+  }catch(error){
+    console.error('Error plotting graphs:', error)
+    return null;
+  }
+}
+
+export const getBuyingOptions = async (inputs) =>{
+  try{
+    const response = await axios.post(`${BASE_URL}/find-laptops`,inputs)
+    return response.data.buying_options
+  }catch(error){
+    console.error('Error plotting graphs:', error)
+    return null;
+  }
+}

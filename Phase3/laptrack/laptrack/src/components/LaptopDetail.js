@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { getLaptopById } from '../api';
+import { getBuyingOptions, getLaptopById } from '../api';
 import SimilarProducts from './SimilarProducts';
+import BuyingOptions from './BuyingOptions';
 
 const LaptopDetail = () => {
   const { id } = useParams();
   const [laptop, setLaptop] = useState(null);
+  const [buyingOptions,setBuyingOptions] = useState([])
 
   useEffect(() => {
     const fetchLaptopDetails = async () => {
@@ -17,6 +19,24 @@ const LaptopDetail = () => {
 
     fetchLaptopDetails();
   }, [id]);
+
+  useEffect(() => {
+    if (!laptop) return;
+    const fetchBuyingOptions = async()=>{
+      console.log(laptop);
+      
+      var obj = {
+        model_name:laptop.laptop_model_name,
+        model_number:laptop.laptop_model_number,
+        ram_size:laptop.ram_gb,
+        storage_capacity:laptop.storage_capacity_gb,
+        brand:laptop.brand
+      }
+      const data = await getBuyingOptions(obj)
+      setBuyingOptions(data)
+    }
+    fetchBuyingOptions()
+  },[laptop])
 
   if (!laptop) return <p>Loading details...</p>;
 
@@ -43,15 +63,9 @@ const LaptopDetail = () => {
           <p><strong>Battery Life:</strong> {laptop.battery_life_hours_upto ? `${laptop.battery_life_hours_upto} hours` : 'N/A'}</p>
           <p><strong>Weight:</strong> {laptop.laptop_weight_pounds} lbs</p>
           <p><strong>Dimensions:</strong> {laptop.laptop_dimensions}</p>
-          <p><strong>Price:</strong> ${laptop.price}</p>
-          <p><strong>Rating:</strong> {laptop.extracted_rating} / 5 ({laptop.no_of_reviews} reviews)</p>
-          <p><strong>In Stock:</strong> {laptop.stock ? 'Yes' : 'No'}</p>
-          <p><strong>Source:</strong> {laptop.source}</p>
-          <p><strong>Time of Extraction:</strong> {new Date(laptop.time_of_extraction).toLocaleString()}</p>
-          <a href={laptop.url} target="_blank" rel="noopener noreferrer">View on Amazon</a>
         </div>
       </div>
-
+      <BuyingOptions buyingOptions={buyingOptions}/>
       <SimilarProducts laptopId={laptop.id}/>
     </div>
   );
