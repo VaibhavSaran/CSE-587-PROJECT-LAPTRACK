@@ -124,3 +124,7 @@ dmypy.json
 .pyre/
 
 database/laptrack.db-journal
+
+Phase3/Recommendation System/models/RandomForest_model.pkl
+
+Phase3/Recommendation System/saved_models/RandomForest_model.pkl
