@@ -8,11 +8,11 @@ import csv
 
 # This was a time-consuming script and was thus run in multiple batches
 # Output file name is to ensure each batch gets its own file name, we will combine these batches using pandas during the cleaning process.
-output_file = 'amazon_laptop_data5.csv'
-failed_urls_file="amazon_failed_urls5.txt"
+output_file = 'amazon_laptop_data6.csv'
+failed_urls_file="amazon_failed_urls6.txt"
 # For ensuring correct batching while reading URLs from the file.
 start_index = 0
-end_index = 100
+end_index = 10
 url_set = set()
 
 def scrape_laptop_info(url):
@@ -63,6 +63,21 @@ def scrape_laptop_info(url):
 
         except AttributeError:
             price = 'N/A'
+
+        landing_image_src = None
+        try:
+            # Find the image tag with id="landingImage"
+            landing_image_tag = soup.find('img', id='landingImage')
+
+            # Extract the src attribute
+            if landing_image_tag:
+                landing_image_src = landing_image_tag.get('src')
+                print(f"The src URL of the landing image is: {landing_image_src}")
+            else:
+                print("Image tag with id='landingImage' not found.")
+                landing_image_src = None
+        except AttributeError:
+            landing_image_src = None
 
         # Rating
         ratingDiv = soup.find('div', {'id': 'averageCustomerReviews'})
@@ -160,7 +175,8 @@ def scrape_laptop_info(url):
             'URL': url,
             'Reviews': reviews_text,
             'In Stock': availability,
-            'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+            'image_url': landing_image_src
         }
 
         return laptop_info

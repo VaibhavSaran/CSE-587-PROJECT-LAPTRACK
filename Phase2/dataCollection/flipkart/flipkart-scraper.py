@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.common import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service
@@ -67,6 +68,17 @@ def extract_specs(driver,url):
         #Get Product model,title and Price and Reviews
         # Find the <div> with class "sku-title"
         sku_title_div = soup.find('span', class_='VU-ZEz')
+
+        # Find the image tag with class="primary-image"
+        primary_image_tag = soup.find('img', class_='DByuf4 IZexXJ jLEJ7H')
+        # Extract the src attribute
+        if primary_image_tag:
+            primary_image_src = primary_image_tag.get('src')
+            specifications['image_src'] = primary_image_src
+            print(f"The src URL of the primary image is: {primary_image_src}")
+        else:
+            print("Image tag with class='primary-image' not found.")
+            specifications['image_src'] = None
 
         # Extract the text from the <h1> tag within this <div>
         if sku_title_div:
@@ -159,7 +171,6 @@ def extract_specs(driver,url):
         # Add this URL's specifications to the list
         all_specifications.append(specifications)
         all_headers.update(specifications.keys())
-
     except Exception as e:
         print(f"Error extracting specs for {url}: {e}")
         with open(failed_urls_file, "a") as file:

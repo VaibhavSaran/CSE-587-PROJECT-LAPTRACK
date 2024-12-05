@@ -29,6 +29,20 @@ services:
     networks:
       - pyspark_network  # Connect to the same network
 
+  frontend:
+    build:
+      context: ./laptrack  # Path to the React app folder
+      dockerfile: Dockerfile  # Ensure Dockerfile is present in the laptrack folder
+    container_name: react_frontend
+    ports:
+      - "3000:3000"  # Map host port 3000 to container port 3000
+    environment:
+      - CHOKIDAR_USEPOLLING=true  # Optional: Fix file change issues in certain environments
+    volumes:
+      - ./laptrack:/usr/src/app  # Mount React project directory into the container
+    networks:
+      - pyspark_network  # Connect to the same network
+
 networks:
   pyspark_network:
     driver: bridge  # Use the bridge driver for custom networking

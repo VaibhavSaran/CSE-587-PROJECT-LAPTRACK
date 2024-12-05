@@ -1,7 +1,16 @@
 from flask import Flask, jsonify, request
 from flask_sqlalchemy import SQLAlchemy
+from flask_cors import CORS
+from difflib import SequenceMatcher
+import re
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.preprocessing import MinMaxScaler
+import pandas as pd
+import numpy as np
 
 app = Flask(__name__)
+CORS(app)  # Enable CORS for all routes
 
 # PostgreSQL database configuration
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://etl_user:etl_password@postgres_container:5432/etl_db'
@@ -64,7 +73,7 @@ class Laptop(db.Model):
 @app.route('/laptops', methods=['GET'])
 def get_laptops():
     page = request.args.get('page', 1, type=int)  # Default page is 1
-    per_page = request.args.get('per_page', 10, type=int)  # Default items per page is 10
+    per_page = request.args.get('limit', 10, type=int)  # Default items per page is 10
     laptops = Laptop.query.paginate(page=page, per_page=per_page, error_out=False)
     return jsonify({
         'laptops': [laptop.to_dict() for laptop in laptops.items],
@@ -72,6 +81,169 @@ def get_laptops():
         'pages': laptops.pages,
         'current_page': laptops.page
     })
+@app.route('/laptops/<int:id>', methods=['GET'])
+def get_laptop_by_id(id):
+    laptop = Laptop.query.get(id)
+    if laptop is None:
+        return jsonify({'error': 'Laptop not found'}), 404
+    return jsonify(laptop.to_dict())
+
+# Function to normalize model numbers
+def normalize_model_number(model):
+    model = str(model).lower()  # Convert to lowercase
+    model = re.sub(r'\s+', '', model)  # Remove spaces
+    model = re.sub(r'[^a-z0-9]', '', model)  # Remove non-alphanumeric characters
+    return model
+
+@app.route('/laptops/grouped', methods=['GET'])
+def get_grouped_laptops():
+    # Retrieve all laptops from the database
+    laptops = Laptop.query.all()
+
+    # Step 1: Normalize the model numbers
+    def normalize_model_number(model):
+        model = str(model).lower()  # Convert to lowercase
+        model = re.sub(r'\s+', '', model)  # Remove spaces
+        model = re.sub(r'[^a-z0-9]', '', model)  # Remove non-alphanumeric characters
+        return model
+
+    # Create a list of dictionaries from database objects
+    laptops_data = [
+        {
+        **vars(laptop),  # Include all attributes of the laptop
+        "normalized_model": normalize_model_number(laptop.laptop_model_number)
+        }
+        for laptop in laptops
+    ]
+
+    # Step 2: Group laptops by similarity in normalized model numbers
+    grouped_laptops = []  # List of groups
+
+    for laptop in laptops_data:
+        match_found = False
+
+        for group in grouped_laptops:
+            if SequenceMatcher(None, laptop['normalized_model'], group['normalized_model']).ratio() >= 0.9:  # Similarity threshold
+                group['laptops'].append(laptop)
+                group['original_model_numbers'].append(laptop['laptop_model_number'])
+                match_found = True
+                break
+
+        if not match_found:
+            # Create a new group
+            grouped_laptops.append(grouped_laptops.append({
+        "normalized_model": laptop["normalized_model"],
+        "original_model_numbers": [laptop["laptop_model_number"]],
+        "laptops": [laptop]
+        }))
+
+    # Step 3: Format response for output
+    response = [
+        {
+            "model_numbers": group["original_model_numbers"],
+            "laptops": group["laptops"]
+        }
+        for group in grouped_laptops
+    ]
+
+    # Step 4: Apply Pagination
+    page = request.args.get('page', default=1, type=int)
+    per_page = request.args.get('per_page', default=10, type=int)
+
+    # Pagination logic
+    start = (page - 1) * per_page
+    end = start + per_page
+    paginated_response = response[start:end]
+
+    return jsonify({
+        "page": page,
+        "per_page": per_page,
+        "total_groups": len(response),
+        "total_pages": -(-len(response) // per_page),  # Calculate total pages
+        "data": paginated_response
+    })
+
+@app.route('/get_recommendations/<int:laptop_id>', methods=['GET'])
+def get_recommendations(laptop_id,price_tolerance=0.2, top_n=10):
+    
+    # Query all laptops for specs
+    laptops = Laptop.query.all()
+    laptops_list = [laptop.to_dict() for laptop in laptops]
+    laptops_df = pd.DataFrame(laptops_list)
+    
+    # Combine specifications into a single column for each laptop
+    laptops_df['specs'] = laptops_df['processor_brand'] + ' ' + \
+                          laptops_df['processor_model'] + ' ' + \
+                          laptops_df['ram_gb'].astype(str) + ' GB ' + \
+                          laptops_df['storage_capacity_gb'].astype(str) + ' GB ' + \
+                          laptops_df['storage_type'] + ' ' + \
+                          laptops_df['operating_system']
+    
+    laptops_df['specs'] = laptops_df['specs'].fillna('')
+
+    # Initialize TfidfVectorizer
+    tfidf = TfidfVectorizer(stop_words='english')
+    
+    # Fit and transform the specs column to get the TF-IDF matrix
+    tfidf_matrix = tfidf.fit_transform(laptops_df['specs'])
+    
+    # Calculate cosine similarity between all laptops
+    cosine_sim = cosine_similarity(tfidf_matrix, tfidf_matrix)
+    
+    # Get the index of the selected laptop
+    selected_idx = laptops_df[laptops_df['id'] == laptop_id].index[0]
+    
+    # Get similarity scores for the selected laptop
+    sim_scores = list(enumerate(cosine_sim[selected_idx]))
+    
+    # Sort the laptops based on similarity scores
+    sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
+    
+    # # Get the top 10 most similar laptops (excluding the laptop itself)
+    # sim_scores = sim_scores[1:11]
+    # laptop_indices = [i[0] for i in sim_scores]
+    
+    # # Get the recommended laptop IDs
+    # recommended_laptops = laptops_df['id'].iloc[laptop_indices].tolist()
+
+    # Get the IDs of the most similar laptops (excluding the selected laptop)
+    similar_laptops = [x[0] for x in sim_scores if x[0] != selected_idx]
+
+    # Extract price of the selected laptop
+    selected_price = laptops_df.iloc[selected_idx]['price']
+    # Extract model name and number of the selected laptop
+    selected_model_name = laptops_df.iloc[selected_idx]['laptop_model_name']
+    selected_model_number = laptops_df.iloc[selected_idx]['laptop_model_number']
+
+    # Calculate price difference
+    price_differences = np.abs(laptops_df.iloc[similar_laptops]['price'].values - selected_price)
+
+    # Normalize the price differences for weighting
+    price_scaler = MinMaxScaler()
+    normalized_price_differences = price_scaler.fit_transform(price_differences.reshape(-1, 1))
+
+    # Filter laptops by price tolerance (e.g., ±20% of the selected price)
+    filtered_laptops = []
+    for idx, price_diff in zip(similar_laptops, normalized_price_differences):
+        if price_diff <= price_tolerance:
+            model_name = laptops_df.iloc[idx]['laptop_model_name']
+            model_number = laptops_df.iloc[idx]['laptop_model_number']
+            if model_name != selected_model_name and model_number != selected_model_number:
+                filtered_laptops.append(idx)
+
+    # Get the top N similar laptops based on both content and price similarity
+    recommended_laptops = filtered_laptops[:top_n]
+    
+    # Extract the recommended laptop IDs (use the index for the IDs)
+    recommended_laptop_ids = laptops_df.iloc[recommended_laptops]['id'].tolist()
+
+    # Query the database again to fetch only the recommended laptops by their IDs
+    recommended_laptops_data = Laptop.query.filter(Laptop.id.in_(recommended_laptop_ids)).all()
+
+    # Convert the recommended laptops to a dictionary format for the response
+    recommendations = [laptop.to_dict() for laptop in recommended_laptops_data]
+    
+    return jsonify({'recommended_laptops': recommendations})
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)  # Listen on all interfaces in the container
+    app.run(host='0.0.0.0', port=5000,debug=True)  # Listen on all interfaces in the container
