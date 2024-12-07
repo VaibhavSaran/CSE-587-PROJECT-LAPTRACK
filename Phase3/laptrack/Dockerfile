@@ -16,9 +16,6 @@ RUN mkdir -p /opt/spark/jars
 # Download PostgreSQL JDBC Driver
 RUN wget -O /opt/spark/jars/postgresql-42.5.0.jar https://jdbc.postgresql.org/download/postgresql-42.5.0.jar
 
-# Install build-essential (gcc and related build tools) to compile psycopg2
-# RUN apt-get update && apt-get install -y build-essential libpq-dev
-
 # Set working directory
 WORKDIR /app
 
