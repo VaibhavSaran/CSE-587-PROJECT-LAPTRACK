@@ -3,17 +3,18 @@ import { useParams } from 'react-router-dom';
 import { getBuyingOptions, getLaptopById } from '../api';
 import SimilarProducts from './SimilarProducts';
 import BuyingOptions from './BuyingOptions';
+import './LaptopDetail.css'
 
 const LaptopDetail = () => {
   const { id } = useParams();
   const [laptop, setLaptop] = useState(null);
-  const [buyingOptions,setBuyingOptions] = useState([])
+  const [buyingOptions, setBuyingOptions] = useState([])
 
   useEffect(() => {
     const fetchLaptopDetails = async () => {
       const data = await getLaptopById(id);
       console.log(data);
-      
+
       setLaptop(data);
     };
 
@@ -22,34 +23,34 @@ const LaptopDetail = () => {
 
   useEffect(() => {
     if (!laptop) return;
-    const fetchBuyingOptions = async()=>{
+    const fetchBuyingOptions = async () => {
       console.log(laptop);
-      
+
       var obj = {
-        model_name:laptop.laptop_model_name,
-        model_number:laptop.laptop_model_number,
-        ram_size:laptop.ram_gb,
-        storage_capacity:laptop.storage_capacity_gb,
-        brand:laptop.brand
+        model_name: laptop.laptop_model_name,
+        model_number: laptop.laptop_model_number,
+        ram_size: laptop.ram_gb,
+        storage_capacity: laptop.storage_capacity_gb,
+        brand: laptop.brand
       }
       const data = await getBuyingOptions(obj)
       setBuyingOptions(data)
     }
     fetchBuyingOptions()
-  },[laptop])
+  }, [laptop])
 
   if (!laptop) return <p>Loading details...</p>;
 
   return (
-    <div className="laptop-detail" style={{padding:'5%',paddingTop:'1%'}}>
+    <div className="laptop-detail" style={{ padding: '5%', paddingTop: '1%' }}>
       <h1>{laptop.laptop_model_name} ({laptop.laptop_model_number})</h1>
       <div className="laptop-info">
         <div className="laptop-image">
           {/* You can add an image of the laptop here */}
           <img
-            src="https://via.placeholder.com/300"
+            src={laptop.image_src}
             alt={laptop.laptop_model_name}
-            width="300"
+            width="400"
           />
         </div>
 
@@ -65,8 +66,8 @@ const LaptopDetail = () => {
           <p><strong>Dimensions:</strong> {laptop.laptop_dimensions}</p>
         </div>
       </div>
-      <BuyingOptions buyingOptions={buyingOptions}/>
-      <SimilarProducts laptopId={laptop.id}/>
+      <BuyingOptions buyingOptions={buyingOptions} />
+      <SimilarProducts laptopId={laptop.id} />
     </div>
   );
 };

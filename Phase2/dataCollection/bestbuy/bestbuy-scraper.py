@@ -12,8 +12,8 @@ import csv
 from datetime import datetime
 from webdriver_manager.chrome import ChromeDriverManager
 
-output_file = 'bestbuy_laptop_data3.csv'
-failed_urls_file="bestbuy_failed_urls3.txt"
+output_file = 'bestbuy_laptop_data4.csv'
+failed_urls_file="bestbuy_failed_urls4.txt"
 
 # Set up WebDriver options (optional: to run headless or set other options)
 # chrome_options = Options()

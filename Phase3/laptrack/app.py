@@ -12,6 +12,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import io
 import base64
+import os
+import pickle
+import cloudpickle
+import sklearn
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
@@ -24,7 +28,7 @@ db = SQLAlchemy(app)
 
 # Laptop model class
 class Laptop(db.Model):
-    __tablename__ = 'laptops'
+    __tablename__ = 'laptop_phase3_2'
     id = db.Column(db.Integer, primary_key=True)
     brand = db.Column(db.String(255))
     laptop_model_name = db.Column(db.String(255))
@@ -47,6 +51,7 @@ class Laptop(db.Model):
     no_of_reviews = db.Column(db.Integer, nullable=False)
     laptop_dimensions = db.Column(db.String(255))
     laptop_weight_pounds = db.Column(db.Float)
+    image_src = db.Column(db.String(255))
 
     def to_dict(self):
         return {
@@ -71,20 +76,47 @@ class Laptop(db.Model):
             'ram_gb': self.ram_gb,
             'no_of_reviews': self.no_of_reviews,
             'laptop_dimensions': self.laptop_dimensions,
-            'laptop_weight_pounds': self.laptop_weight_pounds
+            'laptop_weight_pounds': self.laptop_weight_pounds,
+            'image_src':self.image_src
         }
 
 @app.route('/laptops', methods=['GET'])
 def get_laptops():
     page = request.args.get('page', 1, type=int)  # Default page is 1
-    per_page = request.args.get('limit', 10, type=int)  # Default items per page is 10
-    laptops = Laptop.query.paginate(page=page, per_page=per_page, error_out=False)
+    per_page = request.args.get('limit', 24, type=int)  # Default items per page is 10
+    sort_by = request.args.get('sortBy', None)  # Default is None (no sorting)
+    order = request.args.get('order', 'asc').lower()  # Default order is ascending
+
+    # laptops = Laptop.query.paginate(page=page, per_page=per_page, error_out=False)
+
+    # Define a mapping for allowed sort fields to avoid SQL injection
+    allowed_sort_fields = {
+        'brand': Laptop.brand,
+        'price': Laptop.price,
+        'ram_gb': Laptop.ram_gb,
+        'storage_capacity_gb': Laptop.storage_capacity_gb,
+        'extracted_rating': Laptop.extracted_rating,
+        'time_of_extraction': Laptop.time_of_extraction,
+        'no_of_reviews':Laptop.no_of_reviews
+    }
+
+    # Apply sorting if sortBy is provided and valid
+    query = Laptop.query
+    if sort_by and sort_by in allowed_sort_fields:
+        if order == 'desc':
+            query = query.order_by(allowed_sort_fields[sort_by].desc())
+        else:  # Default to ascending
+            query = query.order_by(allowed_sort_fields[sort_by])
+
+    laptops = query.paginate(page=page, per_page=per_page, error_out=False)
+
     return jsonify({
         'laptops': [laptop.to_dict() for laptop in laptops.items],
         'total': laptops.total,
         'pages': laptops.pages,
         'current_page': laptops.page
     })
+
 @app.route('/laptops/<int:id>', methods=['GET'])
 def get_laptop_by_id(id):
     laptop = Laptop.query.get(id)
@@ -256,15 +288,17 @@ def plot_price_variation():
     laptops = Laptop.query.all()
     laptops_list = [laptop.to_dict() for laptop in laptops]
     laptops_df = pd.DataFrame(laptops_list)
+    print('DF size',laptops_df.shape)
 
     # Get user input from the request
     data = request.json
     specific_processor = data.get('processor')
-    specific_storage = data.get('storage')
-    specific_screen_size = data.get('screen_size')
+    specific_storage = int(data.get('storage')) if data.get('storage') else None
+    specific_screen_size = float(data.get('screen_size')) if data.get('screen_size') else None
     specific_storage_type = data.get('storage_type')
-    specific_RAM = data.get('RAM')
+    specific_RAM = int(data.get('RAM')) if data.get('RAM') else None
     top_n = int(data.get('top_n'))
+    
     print(top_n)
     # Filter the DataFrame
     if top_n:
@@ -273,17 +307,28 @@ def plot_price_variation():
         print(filtered_df.head())
     else:
         filtered_df = laptops_df
+    # filtered_df = laptops_df
     print(filtered_df.columns)
     if specific_processor:
+        print('1')
         filtered_df = filtered_df[filtered_df['processor_model'] == specific_processor]
+        print('DF size',filtered_df.shape)
     if specific_storage:
+        print('2')
         filtered_df = filtered_df[filtered_df['storage_capacity_gb'] == specific_storage]
+        print('DF size',filtered_df.shape)
     if specific_screen_size:
+        print('3')
         filtered_df = filtered_df[filtered_df['display_size_inches'] == specific_screen_size]
+        print('DF size',filtered_df.shape)
     if specific_storage_type:
+        print('4')
         filtered_df = filtered_df[filtered_df['storage_type'] == specific_storage_type]
+        print('DF size',filtered_df.shape)
     if specific_RAM:
+        print('5')
         filtered_df = filtered_df[filtered_df['ram_gb'] == specific_RAM]
+        print('DF size',filtered_df.shape)
 
     if filtered_df.empty:
         return jsonify({'error': 'No data available for the specified filters.'}), 400
@@ -370,6 +415,143 @@ def find_laptops():
             unique_source.add(laptop_source)
     
     return jsonify({'buying_options': laptops_data}), 200
+
+def custom_load_model(filepath):
+    def custom_random_state_ctor(seed=None):
+        if seed is None:
+            return np.random.RandomState()
+        return np.random.RandomState(seed)
+
+    # Temporarily patch the random state constructor
+    original_check_random_state = sklearn.utils.check_random_state
+
+    try:
+        # Monkey patch the random state constructor
+        sklearn.utils.check_random_state = custom_random_state_ctor
+
+        # Try standard pickle first
+        with open(filepath, 'rb') as file:
+            model = pickle.load(file)
+        return model
+
+    except Exception as e:
+        try:
+            # Try cloudpickle as a fallback
+            with open(filepath, 'rb') as file:
+                model = cloudpickle.load(file)
+            return model
+
+        except Exception as load_error:
+            print(f"Error loading {filepath}: {load_error}")
+            raise
+
+    finally:
+        # Restore the original random state constructor
+        sklearn.utils.check_random_state = original_check_random_state
+
+ml_folder_path = './ml/'
+# Load models
+models = {}
+model_files = [f for f in os.listdir(ml_folder_path) if f.endswith('_model.pkl')]
+for model_file in model_files:
+    model_name = model_file.replace('_model.pkl', '')
+    filepath = os.path.join(ml_folder_path, model_file)
+    print(f"Loading model: {model_file}")
+    models[model_name] = custom_load_model(filepath)
+
+# Load scaler
+scaler = custom_load_model(f'{ml_folder_path}scaler.pkl')
+
+# Load label encoders
+label_encoders = custom_load_model(f'{ml_folder_path}label_encoders.pkl')
+
+@app.route('/predict-price', methods=['POST'])
+def predict_price():
+    try:
+        # Get the input data from the request
+        data = request.get_json()
+
+        # Define expected numerical and categorical features
+        numerical_features = [
+            'Storage_Capacity(GB)', 'RAM(GB)', 'Display_Size(Inches)',
+            'Extracted_Rating', 'Laptop_Weight(Pounds)'
+        ]
+        categorical_features = [
+            'Processor_Model', 'Brand', 'Storage_Type', 'Operating_System'
+        ]
+
+        # Prepare the input data for the model
+        input_data = {
+            'Storage_Capacity(GB)': data['storage_capacity'],
+            'RAM(GB)': data['ram_gb'],
+            'Display_Size(Inches)': data['display_size'],
+            'Processor_Model': data['processor_model'],
+            'Brand': data['brand'],
+            'Storage_Type': data['storage_type'],
+            'Operating_System': data['operating_system'],
+            'Laptop_Weight(Pounds)': data['laptop_weight'],
+            'Extracted_Rating': data['extracted_rating']
+        }
+
+        # Create DataFrame and ensure all required columns exist
+        input_df = pd.DataFrame([input_data])
+
+        # Add missing numerical columns with training defaults
+        for col in numerical_features:
+            if col not in input_df.columns:
+                input_df[col] = 0  # Replace 0 with appropriate default values
+
+        # Transform categorical features
+        for col in categorical_features:
+            if col in input_df.columns:
+                input_df[col] = input_df[col].apply(
+                    lambda x: label_encoders[col].transform([x])[0] 
+                    if x in label_encoders[col].classes_ 
+                    else label_encoders[col].transform([label_encoders[col].classes_[0]])[0]
+                )
+            else:
+                input_df[col] = label_encoders[col].transform([label_encoders[col].classes_[0]])[0]
+
+        # Ensure columns are in the correct order for the scaler
+        input_df = input_df[numerical_features + categorical_features]
+
+        # Scale numerical features
+        input_df[numerical_features] = scaler.transform(input_df[numerical_features])
+
+        # Generate predictions
+        predictions = {}
+        for name, model in models.items():
+            predictions[name] = float(model.predict(input_df)[0])  # Ensure JSON serializability
+
+        # Return the predicted price
+        return jsonify({'predicted_price': predictions})
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+    
+@app.route('/laptops/<int:laptop_id>', methods=['PUT'])
+def update_laptop(laptop_id):
+    # Get the laptop from the database
+    laptop = Laptop.query.get(laptop_id)
+
+    if not laptop:
+        return jsonify({'error': 'Laptop not found'}), 404
+
+    # Get the data from the request
+    data = request.json
+
+    # Update the fields if present in the request
+    for key, value in data.items():
+        if hasattr(laptop, key):
+            setattr(laptop, key, value)
+
+    try:
+        # Commit the changes to the database
+        db.session.commit()
+        return jsonify({'message': 'Laptop updated successfully', 'laptop': laptop.to_dict()}), 200
+    except Exception as e:
+        db.session.rollback()
+        return jsonify({'error': 'Failed to update laptop', 'details': str(e)}), 500
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000,debug=True)  # Listen on all interfaces in the container

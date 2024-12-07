@@ -10,19 +10,21 @@ import 'slick-carousel/slick/slick-theme.css';
 import LoginPage from './pages/LoginPage'
 import AdminDashboard from './pages/AdminDashboard';
 import ProtectedRoute from './components/ProtectedRoutes';
+import PricePredictor from './pages/PricePredictor';
 
 const App = () => {
   return (
     <Router>
       <Layout>
-      <Routes>
-        <Route path="/login" element={<LoginPage />} />
-        <Route path="/" element={<HomePage />} />
-        <Route path="/admin-dashboard" element={<ProtectedRoute><AdminDashboard /></ProtectedRoute>} />
-        <Route path="/laptop/:id" element={<LaptopDetail />} />
-        <Route path="/about" element={<AboutPage />} />
+        <Routes>
+          <Route path="/login" element={<LoginPage />} />
+          <Route path="/" element={<HomePage />} />
+          <Route path="/admin-dashboard" element={<ProtectedRoute><AdminDashboard /></ProtectedRoute>} />
+          <Route path="/price-predictor" element={<ProtectedRoute><PricePredictor /></ProtectedRoute>} />
+          <Route path="/laptop/:id" element={<LaptopDetail />} />
+          <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<ContactPage />} />
-      </Routes>
+        </Routes>
       </Layout>
     </Router>
   );

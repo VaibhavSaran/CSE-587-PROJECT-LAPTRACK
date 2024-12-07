@@ -12,8 +12,10 @@ services:
       - "5432:5432"  # Expose PostgreSQL on the default port
     volumes:
       - postgres_data:/var/lib/postgresql/data
+      - ./app/etl:/backups
     networks:
       - pyspark_network  # Connect to the same network
+    # command: sh -c "sleep 10 && psql -U etl_user -d etl_db -f /backups/dump.sql"
 
   pyspark:
     build:

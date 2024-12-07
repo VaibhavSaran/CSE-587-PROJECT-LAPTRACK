@@ -43,7 +43,11 @@ class AmazonCleaner:
         pattern = r'\b(' + '|'.join(re.escape(brand) for brand in potential_brands) + r')\b'
         df = df.copy()
         # Use regex to find and set the brand name if it exists in the 'product_title'
-        df['brand'] = df['Title'].apply(lambda title: re.search(pattern, title).group(0) if re.search(pattern, title) else None)
+    
+        df['Brand'] = df.apply(
+    lambda row: re.search(pattern, str(row['Title'])).group(0) if isinstance(row['Title'], str) and re.search(pattern, row['Title']) else row['Brand'],
+    axis=1
+)
 
         processorBrandColumns = ['Other Technical Details_Processor Brand','New Product Details_Processor Brand','Product Details_CPU Manufacturer']
         df = df.copy()
@@ -185,7 +189,7 @@ class AmazonCleaner:
 
         df = df[~badProcessorModelcondition]
 
-        osColumns = ['Product Details_Operating System','Additional Details_OS','New Product Details_OS','New Product Details_Operating System','Other Technical Details_Operating System']
+        osColumns = ['Product Details_Operating System','New Product Details_Operating System','Other Technical Details_Operating System']
         df = df.copy()
         df['Operating_System'] = df[osColumns].bfill(axis=1).iloc[:,0]
 
@@ -343,7 +347,7 @@ class AmazonCleaner:
         df = df.copy()
         df['Laptop_Model_Number'] = df[modelNumberColumns].bfill(axis=1).iloc[:,0]
 
-        colorColumns = ['Product Details_Color','Additional Details_Color','New Product Details_Color','Other Technical Details_Color']
+        colorColumns = ['Product Details_Color','New Product Details_Color','Other Technical Details_Color']
 
         df = df.copy()
         df['Laptop_Color'] = df[colorColumns].bfill(axis=1).iloc[:,0]
@@ -406,9 +410,8 @@ class AmazonCleaner:
         df = df.copy()
         df['Extracted_Rating'] = df['Number_of_reviews'].str.extract(r'(\d+\.\d+|\d+)', expand=False).astype(float)
 
-        resolutionColumns = ['Additional Details_Display resolution',
-        'Additional Details_Resolution','New Product Details_Display Resolution Maximum',
-        'New Product Details_Display resolution','New Product Details_Max Screen Resolution',
+        resolutionColumns = [
+        'Additional Details_Resolution','New Product Details_Display Resolution Maximum','New Product Details_Max Screen Resolution',
         'New Product Details_Native Resolution','New Product Details_Resolution','Product Details_Display Resolution Maximum',
         'Product Details_Display resolution',
         'Product Details_Resolution',
@@ -516,7 +519,7 @@ class AmazonCleaner:
                         'timestamp': 'Time_Of_Extraction', 
                         'url': 'URL', 
                         'Source': 'Source',
-                        'image_src':'image_src',
+                        'image_url':'image_src',
                         'Storage_Size':'Storage_Size',
                         'RAM(GB)':'RAM(GB)',
                         'Formatted_Dimensions':'Formatted_Dimensions'

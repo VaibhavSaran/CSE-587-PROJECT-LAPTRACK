@@ -1,0 +1,12 @@
+.laptop-info{
+    display: flex;
+}
+.laptop-image{
+    margin-left: 6%;
+    margin-top:2%
+}
+
+.laptop-details{
+    margin-left: 25%;
+    margin-top: 3%;
+}

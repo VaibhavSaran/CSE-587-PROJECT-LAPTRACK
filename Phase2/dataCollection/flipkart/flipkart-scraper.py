@@ -11,6 +11,7 @@ import os
 import csv
 from datetime import datetime
 import random
+from webdriver_manager.chrome import ChromeDriverManager
 
 user_agents = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -30,10 +31,10 @@ headers = {
 }
 
 # Set up WebDriver options (optional: to run headless or set other options)
-chrome_options = Options()
-chrome_options.add_argument("--start-maximized")  # Start browser maximized
-
-driver_path = '/Users/shauryamathur/Documents/Projects/AutomateBrowserClicks/seleniumPractice/chromedriver-mac-arm64/chromedriver'  # Update with your actual path
+# chrome_options = Options()
+# chrome_options.add_argument("--start-maximized")  # Start browser maximized
+#
+# driver_path = '/Users/shauryamathur/Documents/Projects/AutomateBrowserClicks/seleniumPractice/chromedriver-mac-arm64/chromedriver'  # Update with your actual path
 all_specifications = []
 all_keys = set()  # Set to track all unique keys across URLs
 all_headers = set()
@@ -179,15 +180,28 @@ def extract_specs(driver,url):
 
 
 # Set up Selenium using ChromeDriverManager
-driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
+# driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
+
+# Set up Chrome options
+chrome_options = Options()
+# chrome_options.add_argument("--headless")  # Run Chrome in headless mode
+chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration (optional)
+chrome_options.add_argument("--no-sandbox")  # Disable sandboxing (necessary in Docker)
+chrome_options.add_argument("window-size=1200x600")  # Set window size (optional)
+
+# Set up the ChromeDriver using ChromeDriverManager
+service = Service(ChromeDriverManager().install())
+
+# Initialize the WebDriver with the options and service
+driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # Base URL for the search page
 base_url = "https://www.bestbuy.com/site/searchpage.jsp?st=laptop&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp={}&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys"
 
 # Initialize an empty list to store specifications
 specs_data = []
-output_file = 'flipkart_laptop_data5.csv'
-failed_urls_file="flipkart_failed_urls5.txt"
+output_file = 'flipkart_laptop_data6.csv'
+failed_urls_file="flipkart_failed_urls6.txt"
 def scrape_urls():
     # new_data = []
     try:

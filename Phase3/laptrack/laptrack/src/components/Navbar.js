@@ -10,6 +10,8 @@ const Navbar = () => {
   useEffect(() => {
     // Listen for auth changes
     const handleAuthChange = () => {
+      console.log(localStorage.getItem('userRole'));
+      
       setUser(localStorage.getItem('userRole'));
     };
 
@@ -42,6 +44,7 @@ const handleLogout = (e) =>{
         <li><Link to="/about">About</Link></li>
         <li><Link to="/contact">Contact</Link></li>
         {user === 'admin'? <li><Link to="/admin-dashboard">Admin Dashboard</Link></li> : <></>}
+        {user === 'admin'? <li><Link to="/price-predictor">Price Predictor</Link></li> : <></>}
         <li><Link to="/login" onClick={handleLogout}>{user? 'Logout':'Login'}</Link></li>
       </ul>
     </nav>

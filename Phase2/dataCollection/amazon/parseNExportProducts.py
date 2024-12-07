@@ -8,8 +8,8 @@ import csv
 
 # This was a time-consuming script and was thus run in multiple batches
 # Output file name is to ensure each batch gets its own file name, we will combine these batches using pandas during the cleaning process.
-output_file = 'amazon_laptop_data6.csv'
-failed_urls_file="amazon_failed_urls6.txt"
+output_file = 'amazon_laptop_data7.csv'
+failed_urls_file="amazon_failed_urls7.txt"
 # For ensuring correct batching while reading URLs from the file.
 start_index = 0
 end_index = 10
@@ -216,6 +216,8 @@ def process_all_urls():
         # Process all URLs first to collect all possible headers and add data to an array.
         # [start_index: end_index + 1], start = start_index
         for index, url in enumerate(urls):
+            if index<1640:
+                continue
             if url in url_set:
                 continue
             url_set.add(url)

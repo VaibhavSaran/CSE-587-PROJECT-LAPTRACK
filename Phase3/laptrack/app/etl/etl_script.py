@@ -1,6 +1,9 @@
 from pyspark.sql import SparkSession
 from amazonScraper import AmazonScraper
 from amazonCleaner import AmazonCleaner
+from BestBuyCleaner import BestBuyCleaner
+from FlipkartCleaner import FlipkartCleaner
+from combinedCleaner import CombinedCleaner
 
 # Spark session setup
 spark = SparkSession.builder \
@@ -17,10 +20,12 @@ POSTGRES_PASSWORD = "etl_password"
 
 def load_to_postgres(df):
     """Load Spark DataFrame into PostgreSQL."""
+    # Convert all column names to lowercase
+    # df = df.toDF(*[col.lower() for col in df.columns])
     df.write \
         .format("jdbc") \
         .option("url", f"jdbc:postgresql://{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}") \
-        .option("dbtable", "processed_data") \
+        .option("dbtable", "laptop_phase3") \
         .option("user", POSTGRES_USER) \
         .option("password", POSTGRES_PASSWORD) \
         .option("driver", "org.postgresql.Driver") \
@@ -29,17 +34,26 @@ def load_to_postgres(df):
 
 def main():
     # Step 1: Scrape Amazon Data
-    amazonScraper = AmazonScraper('./laptopUrls/amazon_laptop_urls.txt')
-    amazonScraper.run()
+    # amazonScraper = AmazonScraper('./laptopUrls/amazon_laptop_urls.txt')
+    # amazonScraper.run()
 
     # Step 2: Transform
     amazonCleaner = AmazonCleaner()
     amazonCleanedFilePath = amazonCleaner.cleanDataAndExport()
-    print(amazonCleanedFilePath)
+    # print(amazonCleanedFilePath)
+
+    bestbuyCleaner = BestBuyCleaner()
+    bestbuyCleanedFilePath = bestbuyCleaner.cleanDataAndExport()
+
+    flipkartCleaner = FlipkartCleaner()
+    flipkartCleanedFilePath = flipkartCleaner.cleanDataAndExport()
+
+    combinedCleaner = CombinedCleaner()
+    outputFilePath = combinedCleaner.cleanDataAndExport()
 
     # Step 3: Load To PostgreSQL
     # Load CSV file into a Spark DataFrame
-    df = spark.read.option("header", "true").csv(amazonCleanedFilePath)
+    df = spark.read.option("header", "true").csv(outputFilePath)
     load_to_postgres(df)
     print("ETL Pipeline Completed")
 

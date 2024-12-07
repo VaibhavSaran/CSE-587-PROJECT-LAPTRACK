@@ -32,7 +32,7 @@ const LoginPage = () => {
         // More comprehensive authentication storage
         localStorage.setItem('userRole', user.role);
         localStorage.setItem('isAuthenticated', 'true');
-        
+
         // Optional: Store user info without sensitive data
         localStorage.setItem('userInfo', JSON.stringify({
           email: user.email,
@@ -40,7 +40,7 @@ const LoginPage = () => {
         }));
         window.dispatchEvent(new Event('authChange'))
         // Redirect based on role
-        switch(user.role) {
+        switch (user.role) {
           case 'admin':
             navigate('/admin-dashboard');
             break;
@@ -64,7 +64,7 @@ const LoginPage = () => {
     <div className="login-container">
       <div className="login-card">
         <h2>Login to Laptrack</h2>
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={handleSubmit} style={{display:'contents'}}>
           <div className="input-group">
             <label htmlFor="email">Email Address</label>
             <input
@@ -99,8 +99,8 @@ const LoginPage = () => {
           )}
 
           <div className="button-group">
-            <button 
-              type="submit" 
+            <button
+              type="submit"
               disabled={isLoading}
             >
               {isLoading ? 'Logging in...' : 'Login'}

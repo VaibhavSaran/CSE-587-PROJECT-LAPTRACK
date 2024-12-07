@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 const Layout = ({ children }) => {
   return (
     <>
-      <Navbar/>
+      <Navbar />
       <main>{children}</main>
     </>
   );
