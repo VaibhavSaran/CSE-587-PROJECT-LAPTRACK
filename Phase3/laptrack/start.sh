@@ -4,4 +4,4 @@
 python ./app/etl/etl_script.py
 
 # Start the Flask app
-python app.py
+python ./flask_app/app.py
