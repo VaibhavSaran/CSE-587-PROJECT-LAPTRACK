@@ -212,14 +212,14 @@ def main():
 
     # Step 2: Transform
     amazonCleaner = AmazonCleaner()
-    # amazonCleanedFilePath = amazonCleaner.cleanDataAndExport()
+    amazonCleanedFilePath = amazonCleaner.cleanDataAndExport()
     # print(amazonCleanedFilePath)
 
     bestbuyCleaner = BestBuyCleaner()
-    # bestbuyCleanedFilePath = bestbuyCleaner.cleanDataAndExport()
+    bestbuyCleanedFilePath = bestbuyCleaner.cleanDataAndExport()
 
     flipkartCleaner = FlipkartCleaner()
-    # flipkartCleanedFilePath = flipkartCleaner.cleanDataAndExport()
+    flipkartCleanedFilePath = flipkartCleaner.cleanDataAndExport()
 
     combinedCleaner = CombinedCleaner()
     outputFilePath = combinedCleaner.cleanDataAndExport()

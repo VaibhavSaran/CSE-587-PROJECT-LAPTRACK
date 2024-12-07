@@ -448,26 +448,33 @@ def custom_load_model(filepath):
     finally:
         # Restore the original random state constructor
         sklearn.utils.check_random_state = original_check_random_state
+areMLModelsLoaded = False
+try:
+    ml_folder_path = './ml/'
+    # Load models
+    models = {}
+    model_files = [f for f in os.listdir(ml_folder_path) if f.endswith('_model.pkl')]
+    for model_file in model_files:
+        model_name = model_file.replace('_model.pkl', '')
+        filepath = os.path.join(ml_folder_path, model_file)
+        print(f"Loading model: {model_file}")
+        models[model_name] = custom_load_model(filepath)
 
-ml_folder_path = './ml/'
-# Load models
-models = {}
-model_files = [f for f in os.listdir(ml_folder_path) if f.endswith('_model.pkl')]
-for model_file in model_files:
-    model_name = model_file.replace('_model.pkl', '')
-    filepath = os.path.join(ml_folder_path, model_file)
-    print(f"Loading model: {model_file}")
-    models[model_name] = custom_load_model(filepath)
+    # Load scaler
+    scaler = custom_load_model(f'{ml_folder_path}scaler.pkl')
 
-# Load scaler
-scaler = custom_load_model(f'{ml_folder_path}scaler.pkl')
-
-# Load label encoders
-label_encoders = custom_load_model(f'{ml_folder_path}label_encoders.pkl')
+    # Load label encoders
+    label_encoders = custom_load_model(f'{ml_folder_path}label_encoders.pkl')
+    areMLModelsLoaded = True
+except:
+    print('Error loading ML Pickle files.')
 
 @app.route('/predict-price', methods=['POST'])
 def predict_price():
     try:
+
+        if not areMLModelsLoaded:
+            return jsonify({'error': 'Failed to fetch ML Models'}), 500
         # Get the input data from the request
         data = request.get_json()
 
