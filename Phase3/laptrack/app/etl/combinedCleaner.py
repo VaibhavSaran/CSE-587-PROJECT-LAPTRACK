@@ -5,26 +5,26 @@ import os
 from collections import defaultdict
 
 class CombinedCleaner:
-    def __init__(self,input_dir="clean_data",output_dir="clean_data"):
+    def __init__(self,input_dir="./etl/clean_data",output_dir="./etl/clean_data"):
         self.input_dir = input_dir
         self.output_dir = output_dir
         os.makedirs(self.output_dir, exist_ok=True)
 
-    # def get_next_filenames(self):
-    #     """Auto-increment the output file name."""
-    #     existing_files = os.listdir("scraped_data")
-    #     csv_files = [f for f in existing_files if f.startswith("amazon_scraped_data_") and f.endswith(".csv")]
-    #     indices = [
-    #         int(f.replace("amazon_scraped_data_", "").replace(".csv", ""))
-    #         for f in csv_files if f.replace("amazon_scraped_data_", "").replace(".csv", "").isdigit()
-    #     ]
-    #     amazon_latest_index = max(indices, default=1)
-    #     return (os.path.join(self.input_dir, f"amazon_scraped_data_{latest_index}.csv"),os.path.join(self.output_dir, f"amazon_cleaned_data_{latest_index}.csv"))
+    def get_next_filenames(self):
+        """Auto-increment the output file name."""
+        existing_files = os.listdir("./etl/clean_data")
+        print(existing_files)
+        print("Current working directory:", os.getcwd())
+        csv_files = [f for f in existing_files if f.startswith("amazon_cleaned_data_") and f.endswith(".csv")]
+        indices = [
+            int(f.replace("amazon_cleaned_data_", "").replace(".csv", ""))
+            for f in csv_files if f.replace("amazon_cleaned_data_", "").replace(".csv", "").isdigit()
+        ]
+        latest_index = max(indices, default=1)
+        return (os.path.join(self.input_dir, f"amazon_cleaned_data_{latest_index}.csv"),os.path.join(self.input_dir, f"bestbuy_cleaned_data_{latest_index}.csv"),os.path.join(self.input_dir, f"flipkart_cleaned_data_{latest_index}.csv"),os.path.join(self.input_dir, f"Laptrack_{latest_index}.csv"))
     
     def cleanDataAndExport(self):
-        amazonDataFilePath = './clean_data/amazon_cleaned_data_1.csv'
-        bestbuyDataFilePath = './clean_data/bestbuy_cleaned_data_1.csv'
-        flipkartDataFilePath = './clean_data/flipkart_cleaned_data_1.csv'
+        amazonDataFilePath ,bestbuyDataFilePath,flipkartDataFilePath,outputFilePath = self.get_next_filenames()
 
         amazonDF = pd.read_csv(amazonDataFilePath)
         bestbuyDF = pd.read_csv(bestbuyDataFilePath)
@@ -156,7 +156,7 @@ class CombinedCleaner:
                         }
         df_renamed = df.rename(columns=renaming_dict)
         # Export DataFrame to CSV
-        outputFilePath = './clean_data/LaptrackPhase3_3.csv'
+        
         df_renamed.to_csv(outputFilePath, index=False)
         return outputFilePath
 

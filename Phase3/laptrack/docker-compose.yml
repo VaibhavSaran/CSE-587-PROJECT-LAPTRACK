@@ -13,6 +13,7 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data
       - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./app/etl/clean_data:/app/etl/clean_data
     networks:
       - pyspark_network  # Connect to the same network
     # command: sh -c "sleep 10 && psql -U etl_user -d etl_db -f /backups/dump.sql"
@@ -28,6 +29,7 @@ services:
       - PYTHONUNBUFFERED=1  # Prevent buffering of Python output
     volumes:
       - .:/app  # Mount current directory to /app in the container
+      - ./app/etl/clean_data:/app/etl/clean_data
     networks:
       - pyspark_network  # Connect to the same network
 

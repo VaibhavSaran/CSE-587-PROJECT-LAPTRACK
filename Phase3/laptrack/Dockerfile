@@ -32,5 +32,9 @@ COPY . /app
 # Expose necessary ports
 EXPOSE 8080
 
-# Command to run the application
-CMD ["python", "app.py"]
+# Copy the startup script
+COPY start.sh /app/start.sh
+RUN chmod +x /app/start.sh
+
+# Default command: Run the startup script
+CMD ["/app/start.sh"]

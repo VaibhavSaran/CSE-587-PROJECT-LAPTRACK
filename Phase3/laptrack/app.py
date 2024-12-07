@@ -28,7 +28,7 @@ db = SQLAlchemy(app)
 
 # Laptop model class
 class Laptop(db.Model):
-    __tablename__ = 'laptop_phase3_4'
+    __tablename__ = 'laptop'
     id = db.Column(db.Integer, primary_key=True)
     brand = db.Column(db.String(255))
     laptop_model_name = db.Column(db.String(255))
