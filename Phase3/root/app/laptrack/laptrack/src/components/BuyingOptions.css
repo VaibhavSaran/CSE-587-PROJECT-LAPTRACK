@@ -1,0 +1,63 @@
+.buying-options-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.buying-options-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.buying-option-card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: 300px;
+  margin: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.buying-option-card:hover {
+  transform: scale(1.05);
+}
+
+.buying-option-body {
+  padding: 15px;
+}
+
+.buying-option-footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+.buy-now-button {
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.buy-now-button:hover {
+  background-color: #0056b3;
+}
+
+.buying-option-body p {
+  margin: 8px 0;
+}
+
+@media (max-width: 768px) {
+  .buying-option-card {
+    width: 100%;
+  }
+}

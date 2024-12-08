@@ -1,0 +1,56 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: postgres_container
+    environment:
+      POSTGRES_DB: etl_db
+      POSTGRES_USER: etl_user
+      POSTGRES_PASSWORD: etl_password
+    ports:
+      - "5432:5432"  # Expose PostgreSQL on the default port
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./app/etl/clean_data:/app/etl/clean_data
+    networks:
+      - pyspark_network  # Connect to the same network
+    # command: sh -c "sleep 10 && psql -U etl_user -d etl_db -f /backups/dump.sql"
+
+  pyspark:
+    build:
+      context: .
+      dockerfile: Dockerfile  # Ensure Dockerfile is present in the same directory
+    container_name: pyspark_container
+    ports:
+      - "5001:5000"  # Map host port 5001 to container port 5000
+    environment:
+      - PYTHONUNBUFFERED=1  # Prevent buffering of Python output
+    volumes:
+      - .:/app  # Mount current directory to /app in the container
+      - ./app/etl/clean_data:/app/etl/clean_data
+    networks:
+      - pyspark_network  # Connect to the same network
+
+  frontend:
+    build:
+      context: ./laptrack  # Path to the React app folder
+      dockerfile: Dockerfile  # Ensure Dockerfile is present in the laptrack folder
+    container_name: react_frontend
+    ports:
+      - "3000:3000"  # Map host port 3000 to container port 3000
+    environment:
+      - CHOKIDAR_USEPOLLING=true  # Optional: Fix file change issues in certain environments
+    volumes:
+      - ./laptrack:/usr/src/app  # Mount React project directory into the container
+      - /usr/src/app/node_modules  # Prevent node_modules from being overridden
+    networks:
+      - pyspark_network  # Connect to the same network
+    command: sh -c "npm install && npm start" # Install dependencies and start the app
+
+networks:
+  pyspark_network:
+    driver: bridge  # Use the bridge driver for custom networking
+
+volumes:
+  postgres_data: {}  # Persistent storage for PostgreSQL data

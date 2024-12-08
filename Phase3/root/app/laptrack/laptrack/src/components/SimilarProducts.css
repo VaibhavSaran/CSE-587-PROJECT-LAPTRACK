@@ -1,0 +1,29 @@
+.slick-prev span,
+.slick-next span {
+
+  border: none;
+  border-radius: 50%;
+  color: #ff9900;
+  font-size: 18px;
+  padding: 10px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+.slick-prev span {
+  left: -30px;
+  /* Position for the previous button */
+}
+
+.slick-next span {
+  right: 100px;
+  /* Position for the next button */
+}
+
+.slick-prev span,
+.slick-next span {
+  font-size: 36px;
+  /* Arrow size */
+}

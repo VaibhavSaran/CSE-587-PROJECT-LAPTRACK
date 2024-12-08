@@ -1,0 +1,8 @@
+.laptop-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  /* 5 cards per row */
+  gap: 16px;
+  /* Space between cards */
+  padding: 16px;
+}

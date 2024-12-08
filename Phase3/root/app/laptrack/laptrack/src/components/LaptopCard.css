@@ -1,0 +1,48 @@
+.laptop-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  width: 250px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  cursor: pointer;
+}
+
+.laptop-card {
+  /* Ensure LaptopCard is styled correctly */
+  background-color: #f8f8f8;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.laptop-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.laptop-card h3 {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+
+.laptop-card p {
+  color: #777;
+}
+
+.view-details-btn {
+  text-decoration: none;
+  color: white;
+  background-color: #FF9900;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.view-details-btn:hover {
+  background-color: #cc7a00;
+}

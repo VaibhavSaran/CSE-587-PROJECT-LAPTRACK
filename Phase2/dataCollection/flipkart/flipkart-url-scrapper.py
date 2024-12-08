@@ -45,7 +45,7 @@ def scrape_page(url, existing_urls):
 
 
 # Loop through 69 pages
-for page_number in [16]:
+for page_number in range(1,80):
     print(f"Scraping page {page_number}...")
     url = f'https://www.flipkart.com/computers/laptops/pr?sid=6bo%2Cb5g&ctx=eyJjYXJkQ29udGV4dCI6eyJhdHRyaWJ1dGVzIjp7InRpdGxlIjp7Im11bHRpVmFsdWVkQXR0cmlidXRlIjp7ImtleSI6InRpdGxlIiwiaW5mZXJlbmNlVHlwZSI6IlRJVExFIiwidmFsdWVzIjpbIkNocm9tZWJvb2tzIl0sInZhbHVlVHlwZSI6Ik1VTFRJX1ZBTFVFRCJ9fX19fQ%3D%3D&wid=17.productCard.PMU_V2_1&page={page_number}'
     page_urls = scrape_page(url, all_laptop_urls)
