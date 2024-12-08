@@ -62,8 +62,8 @@ const LaptopDetail = () => {
           <p><strong>Operating System:</strong> {laptop.operating_system}</p>
           <p><strong>Display:</strong> {laptop.display_size_inches} inches - {laptop.display_resolution}</p>
           <p><strong>Battery Life:</strong> {laptop.battery_life_hours_upto ? `${laptop.battery_life_hours_upto} hours` : 'N/A'}</p>
-          <p><strong>Weight:</strong> {laptop.laptop_weight_pounds} lbs</p>
-          <p><strong>Dimensions:</strong> {laptop.laptop_dimensions}</p>
+          {laptop.laptop_weight_pounds ? (<p><strong>Weight:</strong> {laptop.laptop_weight_pounds.toFixed(2)} lbs</p>) : <></>}
+          {laptop.laptop_dimensions ? (<p><strong>Dimensions:</strong> {laptop.laptop_dimensions}</p>) : <></>}
         </div>
       </div>
       <BuyingOptions buyingOptions={buyingOptions} />
