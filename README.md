@@ -60,8 +60,11 @@ user123
 <br/>
 
 >A ETL pipeline is written in python.
+
 > The pipeline scrapes laptop data periodically(weekly CRON jobs are setup) from Amazon, Bestbuy and Flipkart using BeautifulSoup, Selenium and requests modules in python and creates csv files
+
 > The csv files are read using pandas and the data is cleaned (uncleaned and unstructured data is normalised) and then combined.
+
 > The combined data is preprocessed again and dumped to a postgreSQL using pyspark.
 
 <br/>
@@ -69,19 +72,26 @@ user123
 <br/>
 
 >The backend application is developed using Flask to support CRUD operations.
->PostgreSQL Database is used along with pyspark
+
+>PostgreSQL Database is used along with pyspark.
+
 >Front-end is written in ReactJS.
+
 >The entire application is dockerised.
 
 <b>3.</b> Implemented a content based recommendation system
 <br/>
->A content based recommendation system was implemented using TfidfVectorizer and cosine similarity using the sklearn library
->The recommendation engine recommends similar laptops to users
+
+>A content based recommendation system was implemented using TfidfVectorizer and cosine similarity using the sklearn library.
+
+>The recommendation engine recommends similar laptops to users.
 
 <b>4.</b> Trained and deployed ML models for price predictions
 <br/>
 >Multiple ML models were trained and tested on the clean data to accurately predict price of laptops based on laptop specifications.
+
 >XGBoost and GBDT were ampngst the top performers and hence were pickled along with required scalers and encoders.
+
 >The application reads admin user input and feeds it to the trained models and predicts the price based off the specifications of the laptop.
 
 ## Directory Structure
