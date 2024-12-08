@@ -36,12 +36,12 @@ In this project we have tried to build a web app where a user can search for lap
 > The link contains the steps to install docker on mac, linux and Windows.
 
 <br/>
-<b>Step 2.</b> Start Docker Desktop and navigate to the `phase 3\laptrack` in the docker terminal and run the following command 
+<b>Step 2.</b> Start Docker Desktop and navigate to the `Phase3/root/app/laptrack` in the docker terminal and run the following command 
 <pre>
 docker-compose up --build
 </pre> 
 <br/>
-<b>Step 3.</b> It should now directly open up the local hosted application at port 3000. Incase it doesn't open up, go to your browser and put the following in the URL bar
+<b>Step 3.</b> It should now directly open up the local hosted application at port 3000. In case it doesn't open up, go to your browser and put the following in the URL bar
 <pre>
 localhost:3000/
 </pre>
