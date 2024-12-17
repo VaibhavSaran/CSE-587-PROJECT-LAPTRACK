@@ -59,40 +59,44 @@ user123
 <b>1.</b> Created ETL Pipeline
 <br/>
 
->A ETL pipeline is written in python.
+> An ETL pipeline is written in Python.
 
-> The pipeline scrapes laptop data periodically(weekly CRON jobs are setup) from Amazon, Bestbuy and Flipkart using BeautifulSoup, Selenium and requests modules in python and creates csv files
+> The pipeline periodically scrapes laptop data (weekly CRON jobs are set) from Amazon, Bestbuy, and Flipkart using BeautifulSoup, Selenium, and requests modules in Python and creates CSV files for the scraped data.
 
-> The csv files are read using pandas and the data is cleaned (uncleaned and unstructured data is normalised) and then combined.
+> The CSV files are read using pandas, cleaned (uncleaned and unstructured data is normalized), and then combined into a master data CSV file.
 
-> The combined data is preprocessed again and dumped to a postgreSQL using pyspark.
+> The combined data is preprocessed again and dumped to a PostgreSQL using PySpark.
 
 <br/>
-<b>2.</b> Developed the backend and front-end application.
+<b>2.</b> Developed the backend and front end of the web app.
 <br/>
 
->The backend application is developed using Flask to support CRUD operations.
+>The backend for the application is developed using Flask(Python with SQLAlchemy).
 
->PostgreSQL Database is used along with pyspark.
+>The applications has various endpoints for CRUD operations and to expose the recommendation engine and ML models for the UI.
 
->Front-end is written in ReactJS.
+>PostgreSQL Database is used along with PySpark.
 
->The entire application is dockerised.
+>Front-end is developed using ReactJS.
 
-<b>3.</b> Implemented a content based recommendation system
+>The entire application is Dockerised for portability and ease of setup.
+
+<b>3.</b> Implemented a content-based recommendation system
 <br/>
 
->A content based recommendation system was implemented using TfidfVectorizer and cosine similarity using the sklearn library.
+>A content-based recommendation system was implemented using TfidfVectorizer and cosine similarity using the sklearn library.
 
->The recommendation engine recommends similar laptops to users.
+>The recommendation engine recommends similar laptops to users based on similar laptop specifications.
 
 <b>4.</b> Trained and deployed ML models for price predictions
 <br/>
 >Multiple ML models were trained and tested on the clean data to accurately predict price of laptops based on laptop specifications.
 
->XGBoost and GBDT were ampngst the top performers and hence were pickled along with required scalers and encoders.
+>XGBoost and GBDT were among the top performers and hence were pickled along with required scalers and encoders.
 
 >The application reads admin user input and feeds it to the trained models and predicts the price based off the specifications of the laptop.
+
+>There is a page in the admin panel that lets the admin analyze price variations across laptop brands with given specifications.
 
 ## Directory Structure
 
